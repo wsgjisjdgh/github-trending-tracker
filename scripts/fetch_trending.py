@@ -138,11 +138,11 @@ def fetch_trending():
         lang = lang_m.group(1) if lang_m else "N/A"
 
         # Total stars
-        total_m = re.search(r'href="/[^"]+/stargazers"[^>]*>\s*([\d,]+)', art)
+        total_m = re.search(r'/stargazers.*?([\d,]+)\s*</a>', art, re.DOTALL)
         total_stars = parse_number(total_m.group(1)) if total_m else 0
 
         # Forks
-        fork_m = re.search(r'href="/[^"]+/forks"[^>]*>\s*([\d,]+)', art)
+        fork_m = re.search(r'/forks.*?([\d,]+)\s*</a>', art, re.DOTALL)
         forks = parse_number(fork_m.group(1)) if fork_m else 0
 
         tags = classify_repo(name, desc)
