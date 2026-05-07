@@ -16,14 +16,18 @@ def load_today_data():
     with open(json_path, "r") as f:
         return json.load(f)
 
+def format_stars(n):
+    """Format star count: 1234 -> 1.2k, 12345 -> 12.3k"""
+    if n >= 1000:
+        return f"{n/1000:.1f}k"
+    return str(n)
+
 def build_card(data):
-    """Build Feishu interactive card message."""
     new_repos = data.get("new", [])
     all_repos = data.get("all", [])
     date = datetime.now().strftime("%Y-%m-%d")
     weekday = ["周一","周二","周三","周四","周五","周六","周日"][datetime.now().weekday()]
     
-    # If there are new repos, show them; otherwise show all trending
     display_repos = new_repos if new_repos else all_repos
     label = "新发现" if new_repos else "上榜"
     
@@ -36,38 +40,38 @@ def build_card(data):
     }
     
     elements = []
-    
-    # Summary
     elements.append({
         "tag": "div",
         "text": {"tag": "lark_md", "content": f"今日 **{len(all_repos)}** 个项目{label}，其中 **{len(recommended)}** 个与你相关"}
     })
     elements.append({"tag": "hr"})
     
-    # Recommended projects
     if recommended:
         content = "**⭐ 为你推荐**\n\n"
         for i, r in enumerate(recommended[:8], 1):
             tags = " ".join(f"`{t}`" for t in r.get("tags", []))
-            stars = r.get("stars_today", 0)
+            today = r.get("stars_today", 0)
+            total = r.get("total_stars", 0)
+            forks = r.get("forks", 0)
             desc = r.get("cn", r.get("desc", ""))
-            content += f"**{i}. [{r['name']}](https://github.com/{r['name']})** +{stars}⭐\n"
+            stars_line = f"今日 +{format_stars(today)}⭐ | 总计 {format_stars(total)}⭐ | {format_stars(forks)}🍴"
+            content += f"**{i}. [{r['name']}](https://github.com/{r['name']})**\n"
+            content += f"{stars_line}\n"
             content += f"{tags}\n"
             content += f"{desc}\n\n"
         elements.append({"tag": "div", "text": {"tag": "lark_md", "content": content}})
     
-    # Other projects
     if others:
         elements.append({"tag": "hr"})
         content = "**📋 其他热门**\n\n"
         for i, r in enumerate(others[:5], 1):
-            stars = r.get("stars_today", 0)
+            today = r.get("stars_today", 0)
+            total = r.get("total_stars", 0)
             desc = r.get("cn", r.get("desc", ""))
-            content += f"{i}. [{r['name']}](https://github.com/{r['name']}) +{stars}⭐\n"
+            content += f"{i}. [{r['name']}](https://github.com/{r['name']}) +{format_stars(today)}⭐ / 总{format_stars(total)}⭐\n"
             content += f"   {desc}\n"
         elements.append({"tag": "div", "text": {"tag": "lark_md", "content": content}})
     
-    # Footer
     elements.append({"tag": "hr"})
     elements.append({
         "tag": "note",
@@ -80,14 +84,9 @@ def send_to_feishu(card):
     if not FEISHU_WEBHOOK:
         print("FEISHU_WEBHOOK not set, skipping notification")
         return False
-    
     data = json.dumps(card).encode("utf-8")
-    req = urllib.request.Request(
-        FEISHU_WEBHOOK,
-        data=data,
-        headers={"Content-Type": "application/json"},
-        method="POST"
-    )
+    req = urllib.request.Request(FEISHU_WEBHOOK, data=data,
+        headers={"Content-Type": "application/json"}, method="POST")
     try:
         resp = urllib.request.urlopen(req, timeout=10)
         result = json.loads(resp.read().decode())
@@ -106,5 +105,4 @@ if __name__ == "__main__":
     if FEISHU_WEBHOOK:
         send_to_feishu(card)
     else:
-        print("Set FEISHU_WEBHOOK env to enable notifications")
         print(json.dumps(card, ensure_ascii=False, indent=2))
