@@ -4,8 +4,8 @@
       "name": "Hmbown/DeepSeek-TUI",
       "desc": "Coding agent for DeepSeek models that runs in your terminal",
       "stars_today": 6175,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 15415,
+      "forks": 1203,
       "lang": "Rust",
       "tags": [
         "AI Agent",
@@ -17,8 +17,8 @@
       "name": "ruvnet/ruflo",
       "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
       "stars_today": 2192,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 45475,
+      "forks": 5030,
       "lang": "TypeScript",
       "tags": [
         "AI部署",
@@ -30,8 +30,8 @@
       "name": "D4Vinci/Scrapling",
       "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "stars_today": 1125,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 46532,
+      "forks": 4305,
       "lang": "Python",
       "tags": [],
       "cn": "开发框架，提供标准化的项目结构和工具链"
@@ -40,8 +40,8 @@
       "name": "addyosmani/agent-skills",
       "desc": "Production-grade engineering skills for AI coding agents.",
       "stars_today": 800,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 31153,
+      "forks": 3673,
       "lang": "Shell",
       "tags": [
         "AI Agent",
@@ -54,8 +54,8 @@
       "name": "docusealco/docuseal",
       "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "stars_today": 774,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 15051,
+      "forks": 1372,
       "lang": "Ruby",
       "tags": [],
       "cn": "GitHub 热门项目，详见英文简介"
@@ -64,8 +64,8 @@
       "name": "virattt/dexter",
       "desc": "An autonomous agent for deep financial research",
       "stars_today": 666,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 24456,
+      "forks": 2974,
       "lang": "TypeScript",
       "tags": [
         "AI Agent",
@@ -77,8 +77,8 @@
       "name": "anthropics/financial-services",
       "desc": "No description",
       "stars_today": 641,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 9379,
+      "forks": 1272,
       "lang": "Python",
       "tags": [],
       "cn": "暂无简介"
@@ -87,8 +87,8 @@
       "name": "LearningCircuit/local-deep-research",
       "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; En",
       "stars_today": 532,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 5783,
+      "forks": 524,
       "lang": "Python",
       "tags": [
         "AI部署",
@@ -100,8 +100,8 @@
       "name": "bwya77/vscode-dark-islands",
       "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
       "stars_today": 503,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 8252,
+      "forks": 256,
       "lang": "PowerShell",
       "tags": [],
       "cn": "GitHub 热门项目，详见英文简介"
@@ -110,8 +110,8 @@
       "name": "bytedance/deer-flow",
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
       "stars_today": 337,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 65649,
+      "forks": 8678,
       "lang": "Python",
       "tags": [
         "AI Agent",
@@ -123,8 +123,8 @@
       "name": "shiyu-coder/Kronos",
       "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
       "stars_today": 234,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 23255,
+      "forks": 4069,
       "lang": "Python",
       "tags": [
         "投资交易",
@@ -136,8 +136,8 @@
       "name": "InsForge/InsForge",
       "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "stars_today": 230,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 8553,
+      "forks": 708,
       "lang": "TypeScript",
       "tags": [
         "AI Agent",
@@ -149,8 +149,8 @@
       "name": "PriorLabs/TabPFN",
       "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "stars_today": 218,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 6633,
+      "forks": 660,
       "lang": "Python",
       "tags": [
         "AI for Science"
@@ -161,8 +161,8 @@
       "name": "cheahjs/free-llm-api-resources",
       "desc": "A list of free LLM inference resources accessible via API.",
       "stars_today": 198,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 20618,
+      "forks": 2097,
       "lang": "Python",
       "tags": [
         "AI部署"
@@ -173,12 +173,192 @@
       "name": "LadybirdBrowser/ladybird",
       "desc": "Truly independent web browser",
       "stars_today": 113,
-      "total_stars": 0,
-      "forks": 0,
+      "total_stars": 63038,
+      "forks": 2998,
       "lang": "C++",
       "tags": [],
       "cn": "浏览器相关项目"
     }
   ],
-  "new": []
+  "new": [
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars_today": 6175,
+      "total_stars": 15415,
+      "forks": 1203,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu",
+      "stars_today": 2192,
+      "total_stars": 45475,
+      "forks": 5030,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars_today": 1125,
+      "total_stars": 46532,
+      "forks": 4305,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 800,
+      "total_stars": 31153,
+      "forks": 3673,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars_today": 774,
+      "total_stars": 15051,
+      "forks": 1372,
+      "lang": "Ruby",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "virattt/dexter",
+      "desc": "An autonomous agent for deep financial research",
+      "stars_today": 666,
+      "total_stars": 24456,
+      "forks": 2974,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "desc": "No description",
+      "stars_today": 641,
+      "total_stars": 9379,
+      "forks": 1272,
+      "lang": "Python",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; En",
+      "stars_today": 532,
+      "total_stars": 5783,
+      "forks": 524,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；大语言模型相关工具或资源"
+    },
+    {
+      "name": "bwya77/vscode-dark-islands",
+      "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "stars_today": 503,
+      "total_stars": 8252,
+      "forks": 256,
+      "lang": "PowerShell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars_today": 337,
+      "total_stars": 65649,
+      "forks": 8678,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 234,
+      "total_stars": 23255,
+      "forks": 4069,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "InsForge/InsForge",
+      "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+      "stars_today": 230,
+      "total_stars": 8553,
+      "forks": 708,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "PriorLabs/TabPFN",
+      "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+      "stars_today": 218,
+      "total_stars": 6633,
+      "forks": 660,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "desc": "A list of free LLM inference resources accessible via API.",
+      "stars_today": 198,
+      "total_stars": 20618,
+      "forks": 2097,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "stars_today": 113,
+      "total_stars": 63038,
+      "forks": 2998,
+      "lang": "C++",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    }
+  ]
 }

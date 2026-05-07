@@ -1,1 +1,91 @@
-{}
+{
+  "Hmbown/DeepSeek-TUI": {
+    "first_seen": "2026-05-07T05:21:29.700864",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "ruvnet/ruflo": {
+    "first_seen": "2026-05-07T05:21:29.700875",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "D4Vinci/Scrapling": {
+    "first_seen": "2026-05-07T05:21:29.700877",
+    "tags": []
+  },
+  "addyosmani/agent-skills": {
+    "first_seen": "2026-05-07T05:21:29.700878",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "docusealco/docuseal": {
+    "first_seen": "2026-05-07T05:21:29.700880",
+    "tags": []
+  },
+  "virattt/dexter": {
+    "first_seen": "2026-05-07T05:21:29.700881",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "anthropics/financial-services": {
+    "first_seen": "2026-05-07T05:21:29.700883",
+    "tags": []
+  },
+  "LearningCircuit/local-deep-research": {
+    "first_seen": "2026-05-07T05:21:29.700887",
+    "tags": [
+      "AI部署",
+      "AI for Science"
+    ]
+  },
+  "bwya77/vscode-dark-islands": {
+    "first_seen": "2026-05-07T05:21:29.700888",
+    "tags": []
+  },
+  "bytedance/deer-flow": {
+    "first_seen": "2026-05-07T05:21:29.700890",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "shiyu-coder/Kronos": {
+    "first_seen": "2026-05-07T05:21:29.700892",
+    "tags": [
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "InsForge/InsForge": {
+    "first_seen": "2026-05-07T05:21:29.700893",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "PriorLabs/TabPFN": {
+    "first_seen": "2026-05-07T05:21:29.700895",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "cheahjs/free-llm-api-resources": {
+    "first_seen": "2026-05-07T05:21:29.700896",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "LadybirdBrowser/ladybird": {
+    "first_seen": "2026-05-07T05:21:29.700897",
+    "tags": []
+  }
+}
