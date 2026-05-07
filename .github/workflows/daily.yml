@@ -22,6 +22,11 @@ jobs:
       - name: Fetch GitHub Trending
         run: python scripts/fetch_trending.py
       
+      - name: Notify Feishu
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python scripts/notify_feishu.py
+      
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
