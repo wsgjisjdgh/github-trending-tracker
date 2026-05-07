@@ -1,0 +1,36 @@
+name: Weekly Trending Report
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'  # UTC 02:00 Sunday = Beijing 10:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  weekly-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Generate weekly report
+        run: python scripts/aggregate.py weekly
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date +%Y-%m-%d)
+            git commit -m "report: weekly ${DATE}"
+            git push
+          fi
