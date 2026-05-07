@@ -23,10 +23,13 @@ def build_card(data):
     date = datetime.now().strftime("%Y-%m-%d")
     weekday = ["周一","周二","周三","周四","周五","周六","周日"][datetime.now().weekday()]
     
-    recommended = [r for r in new_repos if r.get("tags")]
-    others = [r for r in new_repos if not r.get("tags")]
+    # If there are new repos, show them; otherwise show all trending
+    display_repos = new_repos if new_repos else all_repos
+    label = "新发现" if new_repos else "上榜"
     
-    # Header
+    recommended = [r for r in display_repos if r.get("tags")]
+    others = [r for r in display_repos if not r.get("tags")]
+    
     header = {
         "title": {"tag": "plain_text", "content": f"🔥 GitHub Trending 日报 | {date} {weekday}"},
         "template": "blue"
@@ -37,7 +40,7 @@ def build_card(data):
     # Summary
     elements.append({
         "tag": "div",
-        "text": {"tag": "lark_md", "content": f"今日 **{len(all_repos)}** 个项目上榜，新发现 **{len(new_repos)}** 个"}
+        "text": {"tag": "lark_md", "content": f"今日 **{len(all_repos)}** 个项目{label}，其中 **{len(recommended)}** 个与你相关"}
     })
     elements.append({"tag": "hr"})
     
@@ -47,18 +50,21 @@ def build_card(data):
         for i, r in enumerate(recommended[:8], 1):
             tags = " ".join(f"`{t}`" for t in r.get("tags", []))
             stars = r.get("stars_today", 0)
+            desc = r.get("cn", r.get("desc", ""))
             content += f"**{i}. [{r['name']}](https://github.com/{r['name']})** +{stars}⭐\n"
             content += f"{tags}\n"
-            content += f"{r.get('cn', '')}\n\n"
+            content += f"{desc}\n\n"
         elements.append({"tag": "div", "text": {"tag": "lark_md", "content": content}})
     
-    # Other new projects
+    # Other projects
     if others:
         elements.append({"tag": "hr"})
-        content = "**📋 其他新项目**\n\n"
+        content = "**📋 其他热门**\n\n"
         for i, r in enumerate(others[:5], 1):
             stars = r.get("stars_today", 0)
-            content += f"{i}. [{r['name']}](https://github.com/{r['name']}) +{stars}⭐ — {r.get('cn', '')}\n"
+            desc = r.get("cn", r.get("desc", ""))
+            content += f"{i}. [{r['name']}](https://github.com/{r['name']}) +{stars}⭐\n"
+            content += f"   {desc}\n"
         elements.append({"tag": "div", "text": {"tag": "lark_md", "content": content}})
     
     # Footer
@@ -97,8 +103,8 @@ if __name__ == "__main__":
         print("No data found for today")
         exit(0)
     card = build_card(data)
-    print(json.dumps(card, ensure_ascii=False, indent=2))
     if FEISHU_WEBHOOK:
         send_to_feishu(card)
     else:
         print("Set FEISHU_WEBHOOK env to enable notifications")
+        print(json.dumps(card, ensure_ascii=False, indent=2))
