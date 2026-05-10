@@ -1,0 +1,290 @@
+{
+  "all": [
+    {
+      "name": "anthropics/financial-services",
+      "desc": "No description",
+      "stars_today": 3281,
+      "total_stars": 17626,
+      "forks": 2247,
+      "lang": "Python",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 3009,
+      "total_stars": 37550,
+      "forks": 4194,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars_today": 1197,
+      "total_stars": 45808,
+      "forks": 5542,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "decolua/9router",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars_today": 1031,
+      "total_stars": 6650,
+      "forks": 1184,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars_today": 597,
+      "total_stars": 2613,
+      "forks": 278,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 552,
+      "total_stars": 31533,
+      "forks": 3133,
+      "lang": "TypeScript",
+      "tags": [
+        "边缘AI",
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "边缘AI推理框架，支持在移动/嵌入式设备上高效运行模型；AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 533,
+      "total_stars": 3567,
+      "forks": 348,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "desc": "3D Gaussian Splat Editor",
+      "stars_today": 514,
+      "total_stars": 6382,
+      "forks": 737,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "desc": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "stars_today": 294,
+      "total_stars": 8628,
+      "forks": 867,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars_today": 160,
+      "total_stars": 36577,
+      "forks": 4496,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "desc": "Open-source AI coworker, with memory",
+      "stars_today": 144,
+      "total_stars": 13847,
+      "forks": 1372,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 107,
+      "total_stars": 38887,
+      "forks": 2460,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "oracle-devrel/oracle-ai-developer-hub",
+      "desc": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "stars_today": 90,
+      "total_stars": 855,
+      "forks": 236,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；数据库相关工具"
+    }
+  ],
+  "new": [
+    {
+      "name": "datawhalechina/hello-agents",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars_today": 1197,
+      "total_stars": 45808,
+      "forks": 5542,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "decolua/9router",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars_today": 1031,
+      "total_stars": 6650,
+      "forks": 1184,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars_today": 597,
+      "total_stars": 2613,
+      "forks": 278,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 552,
+      "total_stars": 31533,
+      "forks": 3133,
+      "lang": "TypeScript",
+      "tags": [
+        "边缘AI",
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "边缘AI推理框架，支持在移动/嵌入式设备上高效运行模型；AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 533,
+      "total_stars": 3567,
+      "forks": 348,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "desc": "3D Gaussian Splat Editor",
+      "stars_today": 514,
+      "total_stars": 6382,
+      "forks": 737,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "desc": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+      "stars_today": 294,
+      "total_stars": 8628,
+      "forks": 867,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars_today": 160,
+      "total_stars": 36577,
+      "forks": 4496,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "desc": "Open-source AI coworker, with memory",
+      "stars_today": 144,
+      "total_stars": 13847,
+      "forks": 1372,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 107,
+      "total_stars": 38887,
+      "forks": 2460,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "oracle-devrel/oracle-ai-developer-hub",
+      "desc": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "stars_today": 90,
+      "total_stars": 855,
+      "forks": 236,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；数据库相关工具"
+    }
+  ]
+}

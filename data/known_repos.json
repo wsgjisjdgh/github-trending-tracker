@@ -87,5 +87,69 @@
   "LadybirdBrowser/ladybird": {
     "first_seen": "2026-05-07T05:21:29.700897",
     "tags": []
+  },
+  "datawhalechina/hello-agents": {
+    "first_seen": "2026-05-10T04:37:30.214601",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "decolua/9router": {
+    "first_seen": "2026-05-10T04:37:30.214611",
+    "tags": [
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "masterking32/MasterDnsVPN": {
+    "first_seen": "2026-05-10T04:37:30.214612",
+    "tags": []
+  },
+  "bytedance/UI-TARS-desktop": {
+    "first_seen": "2026-05-10T04:37:30.214613",
+    "tags": [
+      "边缘AI",
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "rohitg00/agentmemory": {
+    "first_seen": "2026-05-10T04:37:30.214615",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "playcanvas/supersplat": {
+    "first_seen": "2026-05-10T04:37:30.214619",
+    "tags": []
+  },
+  "datawhalechina/easy-vibe": {
+    "first_seen": "2026-05-10T04:37:30.214621",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "Lordog/dive-into-llms": {
+    "first_seen": "2026-05-10T04:37:30.214622",
+    "tags": []
+  },
+  "rowboatlabs/rowboat": {
+    "first_seen": "2026-05-10T04:37:30.214624",
+    "tags": []
+  },
+  "ChromeDevTools/chrome-devtools-mcp": {
+    "first_seen": "2026-05-10T04:37:30.214625",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "oracle-devrel/oracle-ai-developer-hub": {
+    "first_seen": "2026-05-10T04:37:30.214627",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
