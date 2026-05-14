@@ -1,0 +1,418 @@
+{
+  "all": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 3392,
+      "total_stars": 79511,
+      "forks": 6859,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 1835,
+      "total_stars": 9762,
+      "forks": 728,
+      "lang": "Python",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1696,
+      "total_stars": 6047,
+      "forks": 493,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1401,
+      "total_stars": 189851,
+      "forks": 16904,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 1379,
+      "total_stars": 7971,
+      "forks": 679,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars_today": 1120,
+      "total_stars": 98573,
+      "forks": 8584,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "stars_today": 981,
+      "total_stars": 13154,
+      "forks": 2255,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 859,
+      "total_stars": 4519,
+      "forks": 456,
+      "lang": "Swift",
+      "tags": [
+        "边缘AI",
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars_today": 821,
+      "total_stars": 94557,
+      "forks": 14492,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "desc": "Your agent writes bad React. This catches it",
+      "stars_today": 604,
+      "total_stars": 9356,
+      "forks": 292,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apernet/hysteria",
+      "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "stars_today": 485,
+      "total_stars": 20658,
+      "forks": 2138,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars_today": 435,
+      "total_stars": 13470,
+      "forks": 1875,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "trycua/cua",
+      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars_today": 245,
+      "total_stars": 16613,
+      "forks": 1044,
+      "lang": "HTML",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "desc": "An evolving how-to guide for securing a Linux server.",
+      "stars_today": 234,
+      "total_stars": 27168,
+      "forks": 1777,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 99,
+      "total_stars": 21257,
+      "forks": 2338,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "ArthurBrussee/brush",
+      "desc": "3D Reconstruction for all",
+      "stars_today": 81,
+      "total_stars": 4408,
+      "forks": 236,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Greedeks/GTweak",
+      "desc": "Portable Tool for an Ideal Windows Setup",
+      "stars_today": 75,
+      "total_stars": 976,
+      "forks": 80,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ton-blockchain/acton",
+      "desc": "Toolchain for TON smart contract development and beyond",
+      "stars_today": 18,
+      "total_stars": 233,
+      "forks": 31,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars_today": 13,
+      "total_stars": 17044,
+      "forks": 5783,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 3392,
+      "total_stars": 79511,
+      "forks": 6859,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 1835,
+      "total_stars": 9762,
+      "forks": 728,
+      "lang": "Python",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1696,
+      "total_stars": 6047,
+      "forks": 493,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1401,
+      "total_stars": 189851,
+      "forks": 16904,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars_today": 1120,
+      "total_stars": 98573,
+      "forks": 8584,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "stars_today": 981,
+      "total_stars": 13154,
+      "forks": 2255,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 859,
+      "total_stars": 4519,
+      "forks": 456,
+      "lang": "Swift",
+      "tags": [
+        "边缘AI",
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars_today": 821,
+      "total_stars": 94557,
+      "forks": 14492,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "millionco/react-doctor",
+      "desc": "Your agent writes bad React. This catches it",
+      "stars_today": 604,
+      "total_stars": 9356,
+      "forks": 292,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apernet/hysteria",
+      "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "stars_today": 485,
+      "total_stars": 20658,
+      "forks": 2138,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars_today": 435,
+      "total_stars": 13470,
+      "forks": 1875,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "trycua/cua",
+      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars_today": 245,
+      "total_stars": 16613,
+      "forks": 1044,
+      "lang": "HTML",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "desc": "An evolving how-to guide for securing a Linux server.",
+      "stars_today": 234,
+      "total_stars": 27168,
+      "forks": 1777,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 99,
+      "total_stars": 21257,
+      "forks": 2338,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "ArthurBrussee/brush",
+      "desc": "3D Reconstruction for all",
+      "stars_today": 81,
+      "total_stars": 4408,
+      "forks": 236,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Greedeks/GTweak",
+      "desc": "Portable Tool for an Ideal Windows Setup",
+      "stars_today": 75,
+      "total_stars": 976,
+      "forks": 80,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ton-blockchain/acton",
+      "desc": "Toolchain for TON smart contract development and beyond",
+      "stars_today": 18,
+      "total_stars": 233,
+      "forks": 31,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "influxdata/telegraf",
+      "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "stars_today": 13,
+      "total_stars": 17044,
+      "forks": 5783,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

@@ -151,5 +151,96 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "mattpocock/skills": {
+    "first_seen": "2026-05-14T04:38:47.891085",
+    "tags": []
+  },
+  "CloakHQ/CloakBrowser": {
+    "first_seen": "2026-05-14T04:38:47.891092",
+    "tags": []
+  },
+  "tinyhumansai/openhuman": {
+    "first_seen": "2026-05-14T04:38:47.891093",
+    "tags": []
+  },
+  "obra/superpowers": {
+    "first_seen": "2026-05-14T04:38:47.891095",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "github/spec-kit": {
+    "first_seen": "2026-05-14T04:38:47.891096",
+    "tags": []
+  },
+  "yikart/AiToEarn": {
+    "first_seen": "2026-05-14T04:38:47.891098",
+    "tags": []
+  },
+  "supertone-inc/supertonic": {
+    "first_seen": "2026-05-14T04:38:47.891103",
+    "tags": [
+      "边缘AI",
+      "AI部署"
+    ]
+  },
+  "rasbt/LLMs-from-scratch": {
+    "first_seen": "2026-05-14T04:38:47.891105",
+    "tags": []
+  },
+  "millionco/react-doctor": {
+    "first_seen": "2026-05-14T04:38:47.891107",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "apernet/hysteria": {
+    "first_seen": "2026-05-14T04:38:47.891109",
+    "tags": []
+  },
+  "danielmiessler/Personal_AI_Infrastructure": {
+    "first_seen": "2026-05-14T04:38:47.891110",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "trycua/cua": {
+    "first_seen": "2026-05-14T04:38:47.891111",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "imthenachoman/How-To-Secure-A-Linux-Server": {
+    "first_seen": "2026-05-14T04:38:47.891113",
+    "tags": []
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "first_seen": "2026-05-14T04:38:47.891114",
+    "tags": [
+      "AI Agent",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "ArthurBrussee/brush": {
+    "first_seen": "2026-05-14T04:38:47.891115",
+    "tags": []
+  },
+  "Greedeks/GTweak": {
+    "first_seen": "2026-05-14T04:38:47.891116",
+    "tags": []
+  },
+  "ton-blockchain/acton": {
+    "first_seen": "2026-05-14T04:38:47.891117",
+    "tags": []
+  },
+  "influxdata/telegraf": {
+    "first_seen": "2026-05-14T04:38:47.891119",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
