@@ -242,5 +242,27 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "ruvnet/RuView": {
+    "first_seen": "2026-05-15T04:44:39.342549",
+    "tags": []
+  },
+  "garrytan/gstack": {
+    "first_seen": "2026-05-15T04:44:39.342561",
+    "tags": []
+  },
+  "Genymobile/scrcpy": {
+    "first_seen": "2026-05-15T04:44:39.342563",
+    "tags": []
+  },
+  "roboflow/supervision": {
+    "first_seen": "2026-05-15T04:44:39.342565",
+    "tags": []
+  },
+  "NVIDIA-AI-Blueprints/video-search-and-summarization": {
+    "first_seen": "2026-05-15T04:44:39.342566",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
