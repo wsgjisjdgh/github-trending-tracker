@@ -264,5 +264,28 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "anthropics/skills": {
+    "first_seen": "2026-05-16T04:25:28.855066",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "oven-sh/bun": {
+    "first_seen": "2026-05-16T04:25:28.855077",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "joeseesun/qiaomu-anything-to-notebooklm": {
+    "first_seen": "2026-05-16T04:25:28.855079",
+    "tags": []
+  },
+  "czlonkowski/n8n-mcp": {
+    "first_seen": "2026-05-16T04:25:28.855081",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
