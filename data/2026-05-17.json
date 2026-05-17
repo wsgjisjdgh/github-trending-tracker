@@ -1,0 +1,117 @@
+{
+  "all": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 1549,
+      "total_stars": 11021,
+      "forks": 953,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1305,
+      "total_stars": 194226,
+      "forks": 17272,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 1010,
+      "total_stars": 58482,
+      "forks": 7639,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars_today": 749,
+      "total_stars": 7013,
+      "forks": 717,
+      "lang": "Swift",
+      "tags": [
+        "边缘AI",
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars_today": 673,
+      "total_stars": 23296,
+      "forks": 2494,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "stars_today": 416,
+      "total_stars": 2668,
+      "forks": 224,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars_today": 397,
+      "total_stars": 91350,
+      "forks": 4557,
+      "lang": "Rust",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "desc": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars_today": 317,
+      "total_stars": 14556,
+      "forks": 2530,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "stars_today": 416,
+      "total_stars": 2668,
+      "forks": 224,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "desc": "Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars_today": 317,
+      "total_stars": 14556,
+      "forks": 2530,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
