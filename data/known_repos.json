@@ -295,5 +295,79 @@
   "Anil-matcha/Open-Generative-AI": {
     "first_seen": "2026-05-17T04:50:20.920586",
     "tags": []
+  },
+  "microsoft/ai-agents-for-beginners": {
+    "first_seen": "2026-05-18T05:03:09.422297",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "calcom/cal.diy": {
+    "first_seen": "2026-05-18T05:03:09.422307",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "BigBodyCobain/Shadowbroker": {
+    "first_seen": "2026-05-18T05:03:09.422311",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "knadh/listmonk": {
+    "first_seen": "2026-05-18T05:03:09.422313",
+    "tags": []
+  },
+  "HKUDS/CLI-Anything": {
+    "first_seen": "2026-05-18T05:03:09.422315",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "TryGhost/Ghost": {
+    "first_seen": "2026-05-18T05:03:09.422316",
+    "tags": []
+  },
+  "tech-leads-club/agent-skills": {
+    "first_seen": "2026-05-18T05:03:09.422317",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "dograh-hq/dograh": {
+    "first_seen": "2026-05-18T05:03:09.422319",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "medusajs/medusa": {
+    "first_seen": "2026-05-18T05:03:09.422320",
+    "tags": []
+  },
+  "KeygraphHQ/shannon": {
+    "first_seen": "2026-05-18T05:03:09.422321",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "plausible/analytics": {
+    "first_seen": "2026-05-18T05:03:09.422324",
+    "tags": []
+  },
+  "NirDiamant/agents-towards-production": {
+    "first_seen": "2026-05-18T05:03:09.422325",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "Light-Heart-Labs/DreamServer": {
+    "first_seen": "2026-05-18T05:03:09.422327",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
   }
 }
