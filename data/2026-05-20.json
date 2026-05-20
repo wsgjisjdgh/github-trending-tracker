@@ -1,0 +1,300 @@
+{
+  "all": [
+    {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "stars_today": 3973,
+      "total_stars": 21917,
+      "forks": 1948,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars_today": 3164,
+      "total_stars": 14441,
+      "forks": 1347,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars_today": 1955,
+      "total_stars": 138705,
+      "forks": 14228,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "stars_today": 1850,
+      "total_stars": 6937,
+      "forks": 455,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1623,
+      "total_stars": 198767,
+      "forks": 17732,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "stars_today": 1609,
+      "total_stars": 14363,
+      "forks": 1194,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "stars_today": 1463,
+      "total_stars": 16848,
+      "forks": 1297,
+      "lang": "Python",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 1120,
+      "total_stars": 101907,
+      "forks": 16840,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars_today": 1038,
+      "total_stars": 37905,
+      "forks": 3626,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "desc": "12 Lessons to Get Started Building AI Agents",
+      "stars_today": 818,
+      "total_stars": 64569,
+      "forks": 21341,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars_today": 736,
+      "total_stars": 21273,
+      "forks": 1604,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars_today": 704,
+      "total_stars": 51150,
+      "forks": 3120,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "stars_today": 563,
+      "total_stars": 26475,
+      "forks": 3946,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/ViMax",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "stars_today": 503,
+      "total_stars": 5586,
+      "forks": 937,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "desc": "A Patch for GIMP 3+ for Photoshop Users",
+      "stars_today": 493,
+      "total_stars": 10865,
+      "forks": 378,
+      "lang": "CSS",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars_today": 171,
+      "total_stars": 20338,
+      "forks": 2514,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "stars_today": 110,
+      "total_stars": 15953,
+      "forks": 2083,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "frappe/erpnext",
+      "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "stars_today": 98,
+      "total_stars": 34365,
+      "forks": 11317,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars_today": 1955,
+      "total_stars": 138705,
+      "forks": 14228,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 1120,
+      "total_stars": 101907,
+      "forks": 16840,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars_today": 704,
+      "total_stars": 51150,
+      "forks": 3120,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "stars_today": 563,
+      "total_stars": 26475,
+      "forks": 3946,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/ViMax",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "stars_today": 503,
+      "total_stars": 5586,
+      "forks": 937,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "desc": "A Patch for GIMP 3+ for Photoshop Users",
+      "stars_today": 493,
+      "total_stars": 10865,
+      "forks": 378,
+      "lang": "CSS",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars_today": 171,
+      "total_stars": 20338,
+      "forks": 2514,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "stars_today": 110,
+      "total_stars": 15953,
+      "forks": 2083,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "frappe/erpnext",
+      "desc": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "stars_today": 98,
+      "total_stars": 34365,
+      "forks": 11317,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

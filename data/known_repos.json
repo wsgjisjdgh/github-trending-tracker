@@ -397,5 +397,45 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "first_seen": "2026-05-20T04:59:21.374620",
+    "tags": []
+  },
+  "msitarzewski/agency-agents": {
+    "first_seen": "2026-05-20T04:59:21.374631",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "rtk-ai/rtk": {
+    "first_seen": "2026-05-20T04:59:21.374634",
+    "tags": []
+  },
+  "Alishahryar1/free-claude-code": {
+    "first_seen": "2026-05-20T04:59:21.374635",
+    "tags": []
+  },
+  "HKUDS/ViMax": {
+    "first_seen": "2026-05-20T04:59:21.374639",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "Diolinux/PhotoGIMP": {
+    "first_seen": "2026-05-20T04:59:21.374640",
+    "tags": []
+  },
+  "anthropics/claude-plugins-official": {
+    "first_seen": "2026-05-20T04:59:21.374641",
+    "tags": []
+  },
+  "pascalorg/editor": {
+    "first_seen": "2026-05-20T04:59:21.374642",
+    "tags": []
+  },
+  "frappe/erpnext": {
+    "first_seen": "2026-05-20T04:59:21.374644",
+    "tags": []
   }
 }
