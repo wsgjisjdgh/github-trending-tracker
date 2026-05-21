@@ -437,5 +437,33 @@
   "frappe/erpnext": {
     "first_seen": "2026-05-20T04:59:21.374644",
     "tags": []
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "first_seen": "2026-05-21T05:05:00.550270",
+    "tags": []
+  },
+  "rmyndharis/OpenWA": {
+    "first_seen": "2026-05-21T05:05:00.550281",
+    "tags": []
+  },
+  "truelockmc/streambert": {
+    "first_seen": "2026-05-21T05:05:00.550283",
+    "tags": []
+  },
+  "zakirullin/files.md": {
+    "first_seen": "2026-05-21T05:05:00.550285",
+    "tags": []
+  },
+  "can1357/oh-my-pi": {
+    "first_seen": "2026-05-21T05:05:00.550288",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "opentoonz/opentoonz": {
+    "first_seen": "2026-05-21T05:05:00.550290",
+    "tags": []
   }
 }
