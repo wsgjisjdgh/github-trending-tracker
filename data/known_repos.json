@@ -465,5 +465,48 @@
   "opentoonz/opentoonz": {
     "first_seen": "2026-05-21T05:05:00.550290",
     "tags": []
+  },
+  "trimstray/the-book-of-secret-knowledge": {
+    "first_seen": "2026-05-22T04:56:27.744176",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "Lum1104/Understand-Anything": {
+    "first_seen": "2026-05-22T04:56:27.744186",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "multica-ai/multica": {
+    "first_seen": "2026-05-22T04:56:27.744188",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "antoinezambelli/forge": {
+    "first_seen": "2026-05-22T04:56:27.744190",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "teng-lin/notebooklm-py": {
+    "first_seen": "2026-05-22T04:56:27.744191",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "dotnet/skills": {
+    "first_seen": "2026-05-22T04:56:27.744192",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "alireza0/s-ui": {
+    "first_seen": "2026-05-22T04:56:27.744194",
+    "tags": []
   }
 }
