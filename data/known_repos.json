@@ -508,5 +508,28 @@
   "alireza0/s-ui": {
     "first_seen": "2026-05-22T04:56:27.744194",
     "tags": []
+  },
+  "yt-dlp/yt-dlp": {
+    "first_seen": "2026-05-23T04:33:54.845895",
+    "tags": []
+  },
+  "Fincept-Corporation/FinceptTerminal": {
+    "first_seen": "2026-05-23T04:33:54.845904",
+    "tags": [
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "karpathy/nn-zero-to-hero": {
+    "first_seen": "2026-05-23T04:33:54.845906",
+    "tags": []
+  },
+  "byJoey/cfnew": {
+    "first_seen": "2026-05-23T04:33:54.845907",
+    "tags": []
+  },
+  "odoo/odoo": {
+    "first_seen": "2026-05-23T04:33:54.845909",
+    "tags": []
   }
 }

@@ -1,0 +1,220 @@
+{
+  "all": [
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars_today": 3684,
+      "total_stars": 16927,
+      "forks": 936,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars_today": 2549,
+      "total_stars": 25222,
+      "forks": 2782,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C",
+      "stars_today": 1393,
+      "total_stars": 18979,
+      "forks": 1719,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 988,
+      "total_stars": 12161,
+      "forks": 2300,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 978,
+      "total_stars": 64138,
+      "forks": 8471,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "stars_today": 969,
+      "total_stars": 223294,
+      "forks": 13389,
+      "lang": "N/A",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 501,
+      "total_stars": 41044,
+      "forks": 2610,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars_today": 457,
+      "total_stars": 6417,
+      "forks": 526,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "desc": "A feature-rich command-line audio/video downloader",
+      "stars_today": 444,
+      "total_stars": 164453,
+      "forks": 13831,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars_today": 389,
+      "total_stars": 2576,
+      "forks": 202,
+      "lang": "C#",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars_today": 367,
+      "total_stars": 22712,
+      "forks": 3131,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "desc": "Neural Networks: Zero to Hero",
+      "stars_today": 159,
+      "total_stars": 22444,
+      "forks": 3247,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "byJoey/cfnew",
+      "desc": "No description",
+      "stars_today": 87,
+      "total_stars": 13338,
+      "forks": 6487,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars_today": 79,
+      "total_stars": 51188,
+      "forks": 32517,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "yt-dlp/yt-dlp",
+      "desc": "A feature-rich command-line audio/video downloader",
+      "stars_today": 444,
+      "total_stars": 164453,
+      "forks": 13831,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i",
+      "stars_today": 367,
+      "total_stars": 22712,
+      "forks": 3131,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "desc": "Neural Networks: Zero to Hero",
+      "stars_today": 159,
+      "total_stars": 22444,
+      "forks": 3247,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "byJoey/cfnew",
+      "desc": "No description",
+      "stars_today": 87,
+      "total_stars": 13338,
+      "forks": 6487,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars_today": 79,
+      "total_stars": 51188,
+      "forks": 32517,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
