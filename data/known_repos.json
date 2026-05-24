@@ -531,5 +531,26 @@
   "odoo/odoo": {
     "first_seen": "2026-05-23T04:33:54.845909",
     "tags": []
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "first_seen": "2026-05-24T04:58:43.652248",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "presenton/presenton": {
+    "first_seen": "2026-05-24T04:58:43.652260",
+    "tags": []
+  },
+  "NVlabs/LongLive": {
+    "first_seen": "2026-05-24T04:58:43.652262",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "janestreet/magic-trace": {
+    "first_seen": "2026-05-24T04:58:43.652264",
+    "tags": []
   }
 }
