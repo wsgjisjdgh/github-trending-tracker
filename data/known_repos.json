@@ -552,5 +552,39 @@
   "janestreet/magic-trace": {
     "first_seen": "2026-05-24T04:58:43.652264",
     "tags": []
+  },
+  "manaflow-ai/cmux": {
+    "first_seen": "2026-05-25T05:16:30.801148",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "anthropics/knowledge-work-plugins": {
+    "first_seen": "2026-05-25T05:16:30.801160",
+    "tags": []
+  },
+  "codecrafters-io/build-your-own-x": {
+    "first_seen": "2026-05-25T05:16:30.801162",
+    "tags": []
+  },
+  "earendil-works/pi": {
+    "first_seen": "2026-05-25T05:16:30.801164",
+    "tags": [
+      "AI部署",
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "666ghj/MiroFish": {
+    "first_seen": "2026-05-25T05:16:30.801165",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "blakeblackshear/frigate": {
+    "first_seen": "2026-05-25T05:16:30.801169",
+    "tags": []
   }
 }

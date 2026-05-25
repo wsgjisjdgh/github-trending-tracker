@@ -1,0 +1,264 @@
+{
+  "all": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C",
+      "stars_today": 3999,
+      "total_stars": 27252,
+      "forks": 2322,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars_today": 3003,
+      "total_stars": 22916,
+      "forks": 1264,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars_today": 2551,
+      "total_stars": 152726,
+      "forks": 15652,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 1853,
+      "total_stars": 16719,
+      "forks": 2923,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars_today": 1173,
+      "total_stars": 27380,
+      "forks": 2912,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, Gi",
+      "stars_today": 930,
+      "total_stars": 8542,
+      "forks": 1069,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "stars_today": 696,
+      "total_stars": 19122,
+      "forks": 1451,
+      "lang": "Swift",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars_today": 585,
+      "total_stars": 32663,
+      "forks": 3915,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "stars_today": 553,
+      "total_stars": 29263,
+      "forks": 4396,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 550,
+      "total_stars": 14255,
+      "forks": 1760,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 550,
+      "total_stars": 504384,
+      "forks": 47838,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "earendil-works/pi",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
+      "stars_today": 456,
+      "total_stars": 54087,
+      "forks": 6452,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars_today": 197,
+      "total_stars": 62273,
+      "forks": 9736,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars_today": 183,
+      "total_stars": 3001,
+      "forks": 221,
+      "lang": "C#",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "blakeblackshear/frigate",
+      "desc": "NVR with realtime local object detection for IP cameras",
+      "stars_today": 181,
+      "total_stars": 32924,
+      "forks": 3183,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 106,
+      "total_stars": 25850,
+      "forks": 4499,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    }
+  ],
+  "new": [
+    {
+      "name": "manaflow-ai/cmux",
+      "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "stars_today": 696,
+      "total_stars": 19122,
+      "forks": 1451,
+      "lang": "Swift",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 550,
+      "total_stars": 14255,
+      "forks": 1760,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 550,
+      "total_stars": 504384,
+      "forks": 47838,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "earendil-works/pi",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods",
+      "stars_today": 456,
+      "total_stars": 54087,
+      "forks": 6452,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars_today": 197,
+      "total_stars": 62273,
+      "forks": 9736,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "blakeblackshear/frigate",
+      "desc": "NVR with realtime local object detection for IP cameras",
+      "stars_today": 181,
+      "total_stars": 32924,
+      "forks": 3183,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
