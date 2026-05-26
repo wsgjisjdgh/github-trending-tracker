@@ -586,5 +586,38 @@
   "blakeblackshear/frigate": {
     "first_seen": "2026-05-25T05:16:30.801169",
     "tags": []
+  },
+  "affaan-m/ECC": {
+    "first_seen": "2026-05-26T04:57:48.047945",
+    "tags": [
+      "AI部署",
+      "AI Agent",
+      "Vibe Coding",
+      "AI for Science"
+    ]
+  },
+  "hardikpandya/stop-slop": {
+    "first_seen": "2026-05-26T04:57:48.047955",
+    "tags": []
+  },
+  "Leonxlnx/taste-skill": {
+    "first_seen": "2026-05-26T04:57:48.047958",
+    "tags": []
+  },
+  "Axorax/awesome-free-apps": {
+    "first_seen": "2026-05-26T04:57:48.047959",
+    "tags": []
+  },
+  "paperless-ngx/paperless-ngx": {
+    "first_seen": "2026-05-26T04:57:48.047961",
+    "tags": []
+  },
+  "anthropics/claude-cookbooks": {
+    "first_seen": "2026-05-26T04:57:48.047962",
+    "tags": []
+  },
+  "moeru-ai/airi": {
+    "first_seen": "2026-05-26T04:57:48.047963",
+    "tags": []
   }
 }
