@@ -1,0 +1,230 @@
+{
+  "all": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C",
+      "stars_today": 4697,
+      "total_stars": 36698,
+      "forks": 2940,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 2155,
+      "total_stars": 21082,
+      "forks": 3494,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1915,
+      "total_stars": 194772,
+      "forks": 30012,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 1718,
+      "total_stars": 16803,
+      "forks": 1967,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars_today": 1430,
+      "total_stars": 22400,
+      "forks": 1772,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars_today": 1219,
+      "total_stars": 167761,
+      "forks": 3108,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, Gi",
+      "stars_today": 880,
+      "total_stars": 10262,
+      "forks": 1201,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "desc": "Curated list of the best free apps for PC and mobile",
+      "stars_today": 731,
+      "total_stars": 5409,
+      "forks": 274,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "stars_today": 539,
+      "total_stars": 5138,
+      "forks": 405,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars_today": 352,
+      "total_stars": 78806,
+      "forks": 6776,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "stars_today": 216,
+      "total_stars": 46960,
+      "forks": 6664,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "st-tech/ppf-contact-solver",
+      "desc": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+      "stars_today": 170,
+      "total_stars": 3566,
+      "forks": 255,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "stars_today": 156,
+      "total_stars": 12246,
+      "forks": 1634,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend &amp; API",
+      "stars_today": 83,
+      "total_stars": 52437,
+      "forks": 4875,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars_today": 1219,
+      "total_stars": 167761,
+      "forks": 3108,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars_today": 352,
+      "total_stars": 78806,
+      "forks": 6776,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "stars_today": 216,
+      "total_stars": 46960,
+      "forks": 6664,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "st-tech/ppf-contact-solver",
+      "desc": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+      "stars_today": 170,
+      "total_stars": 3566,
+      "forks": 255,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "stars_today": 156,
+      "total_stars": 12246,
+      "forks": 1634,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend &amp; API",
+      "stars_today": 83,
+      "total_stars": 52437,
+      "forks": 4875,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

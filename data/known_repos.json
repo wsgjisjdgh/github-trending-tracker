@@ -619,5 +619,36 @@
   "moeru-ai/airi": {
     "first_seen": "2026-05-26T04:57:48.047963",
     "tags": []
+  },
+  "DigitalPlatDev/FreeDomain": {
+    "first_seen": "2026-05-27T05:10:59.199344",
+    "tags": []
+  },
+  "thedotmack/claude-mem": {
+    "first_seen": "2026-05-27T05:10:59.199357",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "twentyhq/twenty": {
+    "first_seen": "2026-05-27T05:10:59.199359",
+    "tags": []
+  },
+  "st-tech/ppf-contact-solver": {
+    "first_seen": "2026-05-27T05:10:59.199361",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "Open-Dev-Society/OpenStock": {
+    "first_seen": "2026-05-27T05:10:59.199362",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "jellyfin/jellyfin": {
+    "first_seen": "2026-05-27T05:10:59.199364",
+    "tags": []
   }
 }
