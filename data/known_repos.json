@@ -650,5 +650,27 @@
   "jellyfin/jellyfin": {
     "first_seen": "2026-05-27T05:10:59.199364",
     "tags": []
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "first_seen": "2026-05-28T05:05:05.735784",
+    "tags": []
+  },
+  "byoungd/English-level-up-tips": {
+    "first_seen": "2026-05-28T05:05:05.735796",
+    "tags": []
+  },
+  "iii-hq/iii": {
+    "first_seen": "2026-05-28T05:05:05.735801",
+    "tags": []
+  },
+  "p-e-w/heretic": {
+    "first_seen": "2026-05-28T05:05:05.735803",
+    "tags": []
+  },
+  "Chachamaru127/claude-code-harness": {
+    "first_seen": "2026-05-28T05:05:05.735805",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
