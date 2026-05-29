@@ -672,5 +672,30 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "microsoft/markitdown": {
+    "first_seen": "2026-05-29T05:09:11.852827",
+    "tags": []
+  },
+  "EveryInc/compound-engineering-plugin": {
+    "first_seen": "2026-05-29T05:09:11.852840",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "unclecode/crawl4ai": {
+    "first_seen": "2026-05-29T05:09:11.852842",
+    "tags": []
+  },
+  "OpenMOSS/MOSS-TTS": {
+    "first_seen": "2026-05-29T05:09:11.852846",
+    "tags": []
+  },
+  "revfactory/harness": {
+    "first_seen": "2026-05-29T05:09:11.852847",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
   }
 }
