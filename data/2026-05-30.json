@@ -1,0 +1,273 @@
+{
+  "all": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars_today": 3567,
+      "total_stars": 70138,
+      "forks": 10112,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars_today": 2062,
+      "total_stars": 28350,
+      "forks": 2094,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars_today": 1873,
+      "total_stars": 130265,
+      "forks": 8937,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "stars_today": 1566,
+      "total_stars": 49728,
+      "forks": 5210,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1406,
+      "total_stars": 198684,
+      "forks": 30531,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars_today": 1313,
+      "total_stars": 171941,
+      "forks": 3351,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 866,
+      "total_stars": 507473,
+      "forks": 48189,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "run-llama/liteparse",
+      "desc": "A fast, helpful, and open-source document parser",
+      "stars_today": 701,
+      "total_stars": 7427,
+      "forks": 453,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "stars_today": 617,
+      "total_stars": 7076,
+      "forks": 496,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "stars_today": 578,
+      "total_stars": 48471,
+      "forks": 6874,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars_today": 395,
+      "total_stars": 127966,
+      "forks": 20921,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "desc": "A platform for reproducible world model research and evaluation",
+      "stars_today": 362,
+      "total_stars": 1285,
+      "forks": 152,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "stars_today": 353,
+      "total_stars": 18194,
+      "forks": 1383,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars_today": 318,
+      "total_stars": 27023,
+      "forks": 2658,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "stars_today": 160,
+      "total_stars": 41601,
+      "forks": 8275,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "stars_today": 134,
+      "total_stars": 1324,
+      "forks": 113,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Biohub/esm",
+      "desc": "No description",
+      "stars_today": 52,
+      "total_stars": 2580,
+      "forks": 314,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "暂无简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "run-llama/liteparse",
+      "desc": "A fast, helpful, and open-source document parser",
+      "stars_today": 701,
+      "total_stars": 7427,
+      "forks": 453,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars_today": 395,
+      "total_stars": 127966,
+      "forks": 20921,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "desc": "A platform for reproducible world model research and evaluation",
+      "stars_today": 362,
+      "total_stars": 1285,
+      "forks": 152,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars_today": 318,
+      "total_stars": 27023,
+      "forks": 2658,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "stars_today": 160,
+      "total_stars": 41601,
+      "forks": 8275,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "stars_today": 134,
+      "total_stars": 1324,
+      "forks": 113,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Biohub/esm",
+      "desc": "No description",
+      "stars_today": 52,
+      "total_stars": 2580,
+      "forks": 314,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "暂无简介"
+    }
+  ]
+}

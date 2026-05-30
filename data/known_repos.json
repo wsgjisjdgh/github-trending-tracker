@@ -697,5 +697,43 @@
       "AI Agent",
       "投资交易"
     ]
+  },
+  "run-llama/liteparse": {
+    "first_seen": "2026-05-30T04:45:30.336087",
+    "tags": []
+  },
+  "anthropics/claude-code": {
+    "first_seen": "2026-05-30T04:45:30.336099",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "galilai-group/stable-worldmodel": {
+    "first_seen": "2026-05-30T04:45:30.336101",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "Crosstalk-Solutions/project-nomad": {
+    "first_seen": "2026-05-30T04:45:30.336103",
+    "tags": []
+  },
+  "DataTalksClub/data-engineering-zoomcamp": {
+    "first_seen": "2026-05-30T04:45:30.336104",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "cursor/plugins": {
+    "first_seen": "2026-05-30T04:45:30.336105",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "Biohub/esm": {
+    "first_seen": "2026-05-30T04:45:30.336106",
+    "tags": [
+      "AI for Science"
+    ]
   }
 }
