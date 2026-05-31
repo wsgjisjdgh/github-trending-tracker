@@ -735,5 +735,21 @@
     "tags": [
       "AI for Science"
     ]
+  },
+  "OpenBMB/VoxCPM": {
+    "first_seen": "2026-05-31T05:14:33.578747",
+    "tags": []
+  },
+  "FareedKhan-dev/train-llm-from-scratch": {
+    "first_seen": "2026-05-31T05:14:33.578759",
+    "tags": []
+  },
+  "chen08209/FlClash": {
+    "first_seen": "2026-05-31T05:14:33.578762",
+    "tags": []
+  },
+  "dreammis/social-auto-upload": {
+    "first_seen": "2026-05-31T05:14:33.578763",
+    "tags": []
   }
 }
