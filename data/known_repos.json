@@ -751,5 +751,31 @@
   "dreammis/social-auto-upload": {
     "first_seen": "2026-05-31T05:14:33.578763",
     "tags": []
+  },
+  "nesquena/hermes-webui": {
+    "first_seen": "2026-06-01T05:55:18.326761",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "supermemoryai/supermemory": {
+    "first_seen": "2026-06-01T05:55:18.326773",
+    "tags": []
+  },
+  "emmabostian/developer-portfolios": {
+    "first_seen": "2026-06-01T05:55:18.326775",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "nicobailon/pi-subagents": {
+    "first_seen": "2026-06-01T05:55:18.326777",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "github/docs": {
+    "first_seen": "2026-06-01T05:55:18.326778",
+    "tags": []
   }
 }
