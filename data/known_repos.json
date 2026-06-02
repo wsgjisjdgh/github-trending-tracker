@@ -777,5 +777,33 @@
   "github/docs": {
     "first_seen": "2026-06-01T05:55:18.326778",
     "tags": []
+  },
+  "pbakaus/impeccable": {
+    "first_seen": "2026-06-02T05:26:25.682540",
+    "tags": []
+  },
+  "TauricResearch/TradingAgents": {
+    "first_seen": "2026-06-02T05:26:25.682550",
+    "tags": [
+      "AI Agent",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "dmtrKovalenko/fff": {
+    "first_seen": "2026-06-02T05:26:25.682552",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "stefan-jansen/machine-learning-for-trading": {
+    "first_seen": "2026-06-02T05:26:25.682553",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "godotengine/godot": {
+    "first_seen": "2026-06-02T05:26:25.682555",
+    "tags": []
   }
 }

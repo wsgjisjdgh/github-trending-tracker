@@ -1,0 +1,253 @@
+{
+  "all": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars_today": 3375,
+      "total_stars": 77138,
+      "forks": 10946,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars_today": 3034,
+      "total_stars": 139119,
+      "forks": 9469,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars_today": 1486,
+      "total_stars": 58317,
+      "forks": 5653,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 1212,
+      "total_stars": 510588,
+      "forks": 48409,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars_today": 945,
+      "total_stars": 11611,
+      "forks": 1473,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars_today": 888,
+      "total_stars": 24443,
+      "forks": 2815,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars_today": 861,
+      "total_stars": 3834,
+      "forks": 524,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars_today": 647,
+      "total_stars": 24125,
+      "forks": 2157,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars_today": 524,
+      "total_stars": 5264,
+      "forks": 702,
+      "lang": "HTML",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars_today": 485,
+      "total_stars": 32942,
+      "forks": 1791,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "stars_today": 417,
+      "total_stars": 19177,
+      "forks": 1431,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars_today": 335,
+      "total_stars": 9571,
+      "forks": 766,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 299,
+      "total_stars": 81922,
+      "forks": 15921,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "stars_today": 249,
+      "total_stars": 23102,
+      "forks": 2470,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars_today": 135,
+      "total_stars": 7247,
+      "forks": 298,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "stars_today": 93,
+      "total_stars": 17971,
+      "forks": 5193,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "godotengine/godot",
+      "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "stars_today": 77,
+      "total_stars": 111724,
+      "forks": 25513,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars_today": 485,
+      "total_stars": 32942,
+      "forks": 1791,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 299,
+      "total_stars": 81922,
+      "forks": 15921,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "stars_today": 135,
+      "total_stars": 7247,
+      "forks": 298,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "stars_today": 93,
+      "total_stars": 17971,
+      "forks": 5193,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "godotengine/godot",
+      "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "stars_today": 77,
+      "total_stars": 111724,
+      "forks": 25513,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
