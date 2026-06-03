@@ -1,0 +1,177 @@
+{
+  "all": [
+    {
+      "name": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars_today": 3618,
+      "total_stars": 141616,
+      "forks": 9653,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars_today": 1722,
+      "total_stars": 12703,
+      "forks": 1551,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1533,
+      "total_stars": 204392,
+      "forks": 31355,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 1265,
+      "total_stars": 7209,
+      "forks": 497,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars_today": 1182,
+      "total_stars": 59404,
+      "forks": 5734,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars_today": 783,
+      "total_stars": 25291,
+      "forks": 2889,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars_today": 680,
+      "total_stars": 24775,
+      "forks": 2186,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "stars_today": 574,
+      "total_stars": 18627,
+      "forks": 5235,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars_today": 124,
+      "total_stars": 4629,
+      "forks": 593,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars_today": 66,
+      "total_stars": 8527,
+      "forks": 1083,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "desc": "No description",
+      "stars_today": 30,
+      "total_stars": 6472,
+      "forks": 1493,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；检索增强生成(RAG)工具，提升LLM知识准确性"
+    }
+  ],
+  "new": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 1265,
+      "total_stars": 7209,
+      "forks": 497,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars_today": 124,
+      "total_stars": 4629,
+      "forks": 593,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars_today": 66,
+      "total_stars": 8527,
+      "forks": 1083,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "desc": "No description",
+      "stars_today": 30,
+      "total_stars": 6472,
+      "forks": 1493,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；检索增强生成(RAG)工具，提升LLM知识准确性"
+    }
+  ]
+}

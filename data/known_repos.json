@@ -805,5 +805,27 @@
   "godotengine/godot": {
     "first_seen": "2026-06-02T05:26:25.682555",
     "tags": []
+  },
+  "chopratejas/headroom": {
+    "first_seen": "2026-06-03T05:58:33.324762",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "reconurge/flowsint": {
+    "first_seen": "2026-06-03T05:58:33.324775",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "Open-LLM-VTuber/Open-LLM-VTuber": {
+    "first_seen": "2026-06-03T05:58:33.324777",
+    "tags": []
+  },
+  "jamwithai/production-agentic-rag-course": {
+    "first_seen": "2026-06-03T05:58:33.324778",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
