@@ -827,5 +827,41 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "NousResearch/hermes-agent": {
+    "first_seen": "2026-06-04T05:51:57.577818",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "opendataloader-project/opendataloader-pdf": {
+    "first_seen": "2026-06-04T05:51:57.577833",
+    "tags": []
+  },
+  "jwasham/coding-interview-university": {
+    "first_seen": "2026-06-04T05:51:57.577838",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "lyogavin/airllm": {
+    "first_seen": "2026-06-04T05:51:57.577839",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "HKUDS/Vibe-Trading": {
+    "first_seen": "2026-06-04T05:51:57.577841",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
+  },
+  "aquasecurity/trivy": {
+    "first_seen": "2026-06-04T05:51:57.577842",
+    "tags": [
+      "AI Infra"
+    ]
   }
 }

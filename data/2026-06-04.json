@@ -1,0 +1,239 @@
+{
+  "all": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 3530,
+      "total_stars": 10491,
+      "forks": 692,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 2141,
+      "total_stars": 206087,
+      "forks": 31643,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars_today": 1984,
+      "total_stars": 143209,
+      "forks": 9785,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1735,
+      "total_stars": 179572,
+      "forks": 30760,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars_today": 1067,
+      "total_stars": 60501,
+      "forks": 5830,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars_today": 719,
+      "total_stars": 13197,
+      "forks": 1607,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars_today": 693,
+      "total_stars": 9106,
+      "forks": 1116,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars_today": 600,
+      "total_stars": 25301,
+      "forks": 2219,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars_today": 570,
+      "total_stars": 23450,
+      "forks": 2197,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 330,
+      "total_stars": 349193,
+      "forks": 83174,
+      "lang": "N/A",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 208,
+      "total_stars": 19033,
+      "forks": 2082,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 197,
+      "total_stars": 10199,
+      "forks": 2036,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars_today": 29,
+      "total_stars": 52040,
+      "forks": 32650,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 24,
+      "total_stars": 35479,
+      "forks": 421,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1735,
+      "total_stars": 179572,
+      "forks": 30760,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars_today": 570,
+      "total_stars": 23450,
+      "forks": 2197,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 330,
+      "total_stars": 349193,
+      "forks": 83174,
+      "lang": "N/A",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 208,
+      "total_stars": 19033,
+      "forks": 2082,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 197,
+      "total_stars": 10199,
+      "forks": 2036,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 24,
+      "total_stars": 35479,
+      "forks": 421,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
