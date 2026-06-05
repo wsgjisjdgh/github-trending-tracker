@@ -1,0 +1,246 @@
+{
+  "all": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 3142,
+      "total_stars": 12983,
+      "forks": 834,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1913,
+      "total_stars": 181333,
+      "forks": 31114,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1750,
+      "total_stars": 207499,
+      "forks": 31842,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 632,
+      "total_stars": 349853,
+      "forks": 83246,
+      "lang": "N/A",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars_today": 581,
+      "total_stars": 9727,
+      "forks": 1163,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars_today": 411,
+      "total_stars": 1392,
+      "forks": 171,
+      "lang": "C#",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars_today": 321,
+      "total_stars": 108701,
+      "forks": 9604,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "stars_today": 308,
+      "total_stars": 5375,
+      "forks": 645,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 255,
+      "total_stars": 35705,
+      "forks": 433,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars_today": 212,
+      "total_stars": 25240,
+      "forks": 2926,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 199,
+      "total_stars": 27749,
+      "forks": 2358,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars_today": 141,
+      "total_stars": 80046,
+      "forks": 10611,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "desc": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars_today": 133,
+      "total_stars": 9103,
+      "forks": 584,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 38,
+      "total_stars": 9041,
+      "forks": 1214,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars_today": 411,
+      "total_stars": 1392,
+      "forks": 171,
+      "lang": "C#",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars_today": 212,
+      "total_stars": 25240,
+      "forks": 2926,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 199,
+      "total_stars": 27749,
+      "forks": 2358,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars_today": 141,
+      "total_stars": 80046,
+      "forks": 10611,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "desc": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars_today": 133,
+      "total_stars": 9103,
+      "forks": 584,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 38,
+      "total_stars": 9041,
+      "forks": 1214,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

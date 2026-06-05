@@ -863,5 +863,41 @@
     "tags": [
       "AI Infra"
     ]
+  },
+  "openclaw/openclaw-windows-node": {
+    "first_seen": "2026-06-05T05:11:13.097887",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "lfnovo/open-notebook": {
+    "first_seen": "2026-06-05T05:11:13.097901",
+    "tags": []
+  },
+  "mvanhorn/last30days-skill": {
+    "first_seen": "2026-06-05T05:11:13.097903",
+    "tags": [
+      "AI Agent",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "PaddlePaddle/PaddleOCR": {
+    "first_seen": "2026-06-05T05:11:13.097904",
+    "tags": []
+  },
+  "NVIDIA/cosmos": {
+    "first_seen": "2026-06-05T05:11:13.097906",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "github/copilot-sdk": {
+    "first_seen": "2026-06-05T05:11:13.097907",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
