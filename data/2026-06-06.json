@@ -1,0 +1,268 @@
+{
+  "all": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 2473,
+      "total_stars": 14680,
+      "forks": 932,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1845,
+      "total_stars": 183458,
+      "forks": 31465,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1361,
+      "total_stars": 208482,
+      "forks": 31979,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars_today": 1152,
+      "total_stars": 26111,
+      "forks": 3001,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars_today": 747,
+      "total_stars": 80608,
+      "forks": 10635,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 745,
+      "total_stars": 350459,
+      "forks": 83297,
+      "lang": "N/A",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 731,
+      "total_stars": 28283,
+      "forks": 2393,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "desc": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "stars_today": 479,
+      "total_stars": 9463,
+      "forks": 604,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents &amp; Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "stars_today": 366,
+      "total_stars": 32775,
+      "forks": 4200,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "stars_today": 326,
+      "total_stars": 1630,
+      "forks": 185,
+      "lang": "C#",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars_today": 320,
+      "total_stars": 64784,
+      "forks": 10092,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 309,
+      "total_stars": 9286,
+      "forks": 1225,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars_today": 227,
+      "total_stars": 53949,
+      "forks": 7084,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 207,
+      "total_stars": 35879,
+      "forks": 443,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 148,
+      "total_stars": 21688,
+      "forks": 1874,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "stars_today": 126,
+      "total_stars": 4567,
+      "forks": 242,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars_today": 49,
+      "total_stars": 1575,
+      "forks": 243,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents &amp; Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "stars_today": 366,
+      "total_stars": 32775,
+      "forks": 4200,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars_today": 227,
+      "total_stars": 53949,
+      "forks": 7084,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 148,
+      "total_stars": 21688,
+      "forks": 1874,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "stars_today": 126,
+      "total_stars": 4567,
+      "forks": 242,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars_today": 49,
+      "total_stars": 1575,
+      "forks": 243,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

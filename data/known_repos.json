@@ -899,5 +899,32 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "CopilotKit/CopilotKit": {
+    "first_seen": "2026-06-06T04:50:04.610886",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "MemPalace/mempalace": {
+    "first_seen": "2026-06-06T04:50:04.610899",
+    "tags": []
+  },
+  "Panniantong/Agent-Reach": {
+    "first_seen": "2026-06-06T04:50:04.610901",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "withastro/flue": {
+    "first_seen": "2026-06-06T04:50:04.610902",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "openai/plugins": {
+    "first_seen": "2026-06-06T04:50:04.610903",
+    "tags": []
   }
 }
