@@ -1,0 +1,282 @@
+{
+  "all": [
+    {
+      "name": "lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars_today": 794,
+      "total_stars": 26713,
+      "forks": 3052,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 700,
+      "total_stars": 219796,
+      "forks": 19559,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 683,
+      "total_stars": 22526,
+      "forks": 1923,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "stars_today": 631,
+      "total_stars": 33325,
+      "forks": 4251,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "stars_today": 446,
+      "total_stars": 54375,
+      "forks": 7116,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 439,
+      "total_stars": 29043,
+      "forks": 2458,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars_today": 433,
+      "total_stars": 81037,
+      "forks": 10665,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars_today": 216,
+      "total_stars": 48523,
+      "forks": 5395,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars_today": 213,
+      "total_stars": 1815,
+      "forks": 259,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars_today": 193,
+      "total_stars": 49495,
+      "forks": 10218,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 159,
+      "total_stars": 36026,
+      "forks": 455,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/whisper",
+      "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars_today": 150,
+      "total_stars": 101918,
+      "forks": 12444,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars_today": 70,
+      "total_stars": 15039,
+      "forks": 2126,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "microsoft/mxc",
+      "desc": "Policy-driven, layered isolation and containment",
+      "stars_today": 64,
+      "total_stars": 619,
+      "forks": 25,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "golang/go",
+      "desc": "The Go programming language",
+      "stars_today": 30,
+      "total_stars": 134531,
+      "forks": 19087,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "desc": "web development for the rest of us",
+      "stars_today": 25,
+      "total_stars": 87031,
+      "forks": 4938,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vitejs/vite",
+      "desc": "Next generation frontend tooling. It's fast!",
+      "stars_today": 25,
+      "total_stars": 81214,
+      "forks": 8278,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "stars_today": 20,
+      "total_stars": 30710,
+      "forks": 7957,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars_today": 216,
+      "total_stars": 48523,
+      "forks": 5395,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars_today": 193,
+      "total_stars": 49495,
+      "forks": 10218,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/whisper",
+      "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars_today": 150,
+      "total_stars": 101918,
+      "forks": 12444,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/mxc",
+      "desc": "Policy-driven, layered isolation and containment",
+      "stars_today": 64,
+      "total_stars": 619,
+      "forks": 25,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "golang/go",
+      "desc": "The Go programming language",
+      "stars_today": 30,
+      "total_stars": 134531,
+      "forks": 19087,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "desc": "web development for the rest of us",
+      "stars_today": 25,
+      "total_stars": 87031,
+      "forks": 4938,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vitejs/vite",
+      "desc": "Next generation frontend tooling. It's fast!",
+      "stars_today": 25,
+      "total_stars": 81214,
+      "forks": 8278,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "stars_today": 20,
+      "total_stars": 30710,
+      "forks": 7957,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
