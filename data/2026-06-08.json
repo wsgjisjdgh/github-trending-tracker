@@ -1,0 +1,247 @@
+{
+  "all": [
+    {
+      "name": "RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars_today": 1554,
+      "total_stars": 7481,
+      "forks": 723,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1112,
+      "total_stars": 186279,
+      "forks": 32045,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 1111,
+      "total_stars": 31793,
+      "forks": 2648,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars_today": 1103,
+      "total_stars": 37200,
+      "forks": 2664,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "stars_today": 554,
+      "total_stars": 27477,
+      "forks": 3114,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars_today": 350,
+      "total_stars": 72638,
+      "forks": 16269,
+      "lang": "Roff",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars_today": 322,
+      "total_stars": 47637,
+      "forks": 5022,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "desc": "PostgreSQL in-database durable execution",
+      "stars_today": 316,
+      "total_stars": 1520,
+      "forks": 35,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars_today": 309,
+      "total_stars": 29827,
+      "forks": 2957,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars_today": 262,
+      "total_stars": 2106,
+      "forks": 273,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars_today": 245,
+      "total_stars": 13026,
+      "forks": 918,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "stars_today": 183,
+      "total_stars": 18974,
+      "forks": 2930,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "stars_today": 158,
+      "total_stars": 115426,
+      "forks": 19318,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "opencv/opencv",
+      "desc": "Open Source Computer Vision Library",
+      "stars_today": 65,
+      "total_stars": 88190,
+      "forks": 56603,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
+      "stars_today": 28,
+      "total_stars": 13810,
+      "forks": 1842,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars_today": 1554,
+      "total_stars": 7481,
+      "forks": 723,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars_today": 350,
+      "total_stars": 72638,
+      "forks": 16269,
+      "lang": "Roff",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars_today": 322,
+      "total_stars": 47637,
+      "forks": 5022,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "desc": "PostgreSQL in-database durable execution",
+      "stars_today": 316,
+      "total_stars": 1520,
+      "forks": 35,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars_today": 245,
+      "total_stars": 13026,
+      "forks": 918,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "opencv/opencv",
+      "desc": "Open Source Computer Vision Library",
+      "stars_today": 65,
+      "total_stars": 88190,
+      "forks": 56603,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
+      "stars_today": 28,
+      "total_stars": 13810,
+      "forks": 1842,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

@@ -958,5 +958,39 @@
   "nginx/nginx": {
     "first_seen": "2026-06-07T05:17:51.743387",
     "tags": []
+  },
+  "RyanCodrai/turbovec": {
+    "first_seen": "2026-06-08T05:25:20.692799",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "TapXWorld/ChinaTextbook": {
+    "first_seen": "2026-06-08T05:25:20.692810",
+    "tags": []
+  },
+  "aaif-goose/goose": {
+    "first_seen": "2026-06-08T05:25:20.692811",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "microsoft/pg_durable": {
+    "first_seen": "2026-06-08T05:25:20.692815",
+    "tags": []
+  },
+  "refactoringhq/tolaria": {
+    "first_seen": "2026-06-08T05:25:20.692817",
+    "tags": [
+      "AI编程提效"
+    ]
+  },
+  "opencv/opencv": {
+    "first_seen": "2026-06-08T05:25:20.692819",
+    "tags": []
+  },
+  "HunxByts/GhostTrack": {
+    "first_seen": "2026-06-08T05:25:20.692821",
+    "tags": []
   }
 }
