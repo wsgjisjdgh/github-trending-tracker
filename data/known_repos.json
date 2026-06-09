@@ -992,5 +992,29 @@
   "HunxByts/GhostTrack": {
     "first_seen": "2026-06-08T05:25:20.692821",
     "tags": []
+  },
+  "google/skills": {
+    "first_seen": "2026-06-09T04:59:38.654303",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "luongnv89/claude-howto": {
+    "first_seen": "2026-06-09T04:59:38.654316",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "phuryn/pm-skills": {
+    "first_seen": "2026-06-09T04:59:38.654320",
+    "tags": [
+      "AI Agent",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "Andyyyy64/whichllm": {
+    "first_seen": "2026-06-09T04:59:38.654322",
+    "tags": []
   }
 }
