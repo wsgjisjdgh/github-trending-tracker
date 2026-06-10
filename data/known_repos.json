@@ -1016,5 +1016,22 @@
   "Andyyyy64/whichllm": {
     "first_seen": "2026-06-09T04:59:38.654322",
     "tags": []
+  },
+  "maziyarpanahi/openmed": {
+    "first_seen": "2026-06-10T05:11:23.857018",
+    "tags": []
+  },
+  "francescopace/espectre": {
+    "first_seen": "2026-06-10T05:11:23.857028",
+    "tags": []
+  },
+  "x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "first_seen": "2026-06-10T05:11:23.857029",
+    "tags": [
+      "AI Infra",
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
   }
 }
