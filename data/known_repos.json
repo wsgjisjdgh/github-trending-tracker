@@ -1033,5 +1033,19 @@
       "Vibe Coding",
       "AI编程提效"
     ]
+  },
+  "apple/container": {
+    "first_seen": "2026-06-11T05:24:22.050765",
+    "tags": []
+  },
+  "soxoj/maigret": {
+    "first_seen": "2026-06-11T05:24:22.050779",
+    "tags": []
+  },
+  "activeloopai/hivemind": {
+    "first_seen": "2026-06-11T05:24:22.050782",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
