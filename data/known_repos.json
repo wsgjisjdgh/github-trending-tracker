@@ -1047,5 +1047,44 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "NVIDIA/SkillSpector": {
+    "first_seen": "2026-06-12T05:27:09.353085",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "hexo-ai/sia": {
+    "first_seen": "2026-06-12T05:27:09.353098",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "bannedbook/fanqiang": {
+    "first_seen": "2026-06-12T05:27:09.353100",
+    "tags": []
+  },
+  "kenn-io/agentsview": {
+    "first_seen": "2026-06-12T05:27:09.353101",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "alchaincyf/zhangxuefeng-skill": {
+    "first_seen": "2026-06-12T05:27:09.353103",
+    "tags": []
+  },
+  "chatwoot/chatwoot": {
+    "first_seen": "2026-06-12T05:27:09.353104",
+    "tags": []
+  },
+  "restic/restic": {
+    "first_seen": "2026-06-12T05:27:09.353105",
+    "tags": []
+  },
+  "mattermost/mattermost": {
+    "first_seen": "2026-06-12T05:27:09.353106",
+    "tags": []
   }
 }
