@@ -1,0 +1,198 @@
+{
+  "all": [
+    {
+      "name": "apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars_today": 3504,
+      "total_stars": 35331,
+      "forks": 989,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 2656,
+      "total_stars": 57059,
+      "forks": 6158,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1275,
+      "total_stars": 226178,
+      "forks": 20102,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 1026,
+      "total_stars": 112525,
+      "forks": 18345,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars_today": 827,
+      "total_stars": 17129,
+      "forks": 1756,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "desc": "open-source healthcare ai",
+      "stars_today": 515,
+      "total_stars": 3242,
+      "forks": 309,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "stars_today": 400,
+      "total_stars": 6065,
+      "forks": 544,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattermost/mattermost",
+      "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "stars_today": 388,
+      "total_stars": 37671,
+      "forks": 8718,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars_today": 369,
+      "total_stars": 15878,
+      "forks": 1083,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 179,
+      "total_stars": 118118,
+      "forks": 6309,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars_today": 103,
+      "total_stars": 134392,
+      "forks": 8063,
+      "lang": "C",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "LMCache/LMCache",
+      "desc": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars_today": 28,
+      "total_stars": 8670,
+      "forks": 1289,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars_today": 20,
+      "total_stars": 1825,
+      "forks": 424,
+      "lang": "Python",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 179,
+      "total_stars": 118118,
+      "forks": 6309,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars_today": 103,
+      "total_stars": 134392,
+      "forks": 8063,
+      "lang": "C",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "LMCache/LMCache",
+      "desc": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars_today": 28,
+      "total_stars": 8670,
+      "forks": 1289,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars_today": 20,
+      "total_stars": 1825,
+      "forks": 424,
+      "lang": "Python",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

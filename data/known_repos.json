@@ -1086,5 +1086,25 @@
   "mattermost/mattermost": {
     "first_seen": "2026-06-12T05:27:09.353106",
     "tags": []
+  },
+  "iptv-org/iptv": {
+    "first_seen": "2026-06-13T05:16:31.379926",
+    "tags": []
+  },
+  "microsoft/PowerToys": {
+    "first_seen": "2026-06-13T05:16:31.379935",
+    "tags": [
+      "AI编程提效"
+    ]
+  },
+  "LMCache/LMCache": {
+    "first_seen": "2026-06-13T05:16:31.379937",
+    "tags": []
+  },
+  "music-assistant/server": {
+    "first_seen": "2026-06-13T05:16:31.379938",
+    "tags": [
+      "边缘AI"
+    ]
   }
 }
