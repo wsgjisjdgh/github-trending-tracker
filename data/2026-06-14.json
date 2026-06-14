@@ -1,0 +1,186 @@
+{
+  "all": [
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1514,
+      "total_stars": 58639,
+      "forks": 6337,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars_today": 1487,
+      "total_stars": 36451,
+      "forks": 1038,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 924,
+      "total_stars": 227107,
+      "forks": 20199,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars_today": 804,
+      "total_stars": 4588,
+      "forks": 347,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 530,
+      "total_stars": 119364,
+      "forks": 6382,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars_today": 370,
+      "total_stars": 134728,
+      "forks": 8083,
+      "lang": "C",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars_today": 270,
+      "total_stars": 2036,
+      "forks": 430,
+      "lang": "Python",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "LMCache/LMCache",
+      "desc": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars_today": 238,
+      "total_stars": 8945,
+      "forks": 1308,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "desc": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "stars_today": 190,
+      "total_stars": 2429,
+      "forks": 220,
+      "lang": "Go",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "stars_today": 127,
+      "total_stars": 14174,
+      "forks": 1489,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+      "stars_today": 109,
+      "total_stars": 140355,
+      "forks": 34664,
+      "lang": "N/A",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "stars_today": 93,
+      "total_stars": 47557,
+      "forks": 8090,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars_today": 83,
+      "total_stars": 30929,
+      "forks": 7556,
+      "lang": "Ruby",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "swc-project/swc",
+      "desc": "Rust-based platform for the Web",
+      "stars_today": 20,
+      "total_stars": 33664,
+      "forks": 1398,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "stars_today": 127,
+      "total_stars": 14174,
+      "forks": 1489,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "swc-project/swc",
+      "desc": "Rust-based platform for the Web",
+      "stars_today": 20,
+      "total_stars": 33664,
+      "forks": 1398,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

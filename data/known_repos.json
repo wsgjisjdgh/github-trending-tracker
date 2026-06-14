@@ -1106,5 +1106,13 @@
     "tags": [
       "边缘AI"
     ]
+  },
+  "andrewyng/aisuite": {
+    "first_seen": "2026-06-14T05:26:21.287496",
+    "tags": []
+  },
+  "swc-project/swc": {
+    "first_seen": "2026-06-14T05:26:21.287506",
+    "tags": []
   }
 }
