@@ -1150,5 +1150,27 @@
   "pytest-dev/pytest": {
     "first_seen": "2026-06-15T06:17:46.559832",
     "tags": []
+  },
+  "itsfatduck/optimizerDuck": {
+    "first_seen": "2026-06-16T06:27:47.467813",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "mikeroyal/Self-Hosting-Guide": {
+    "first_seen": "2026-06-16T06:27:47.467824",
+    "tags": []
+  },
+  "Raphire/Win11Debloat": {
+    "first_seen": "2026-06-16T06:27:47.467825",
+    "tags": []
+  },
+  "krahets/hello-algo": {
+    "first_seen": "2026-06-16T06:27:47.467827",
+    "tags": []
+  },
+  "teslamate-org/teslamate": {
+    "first_seen": "2026-06-16T06:27:47.467831",
+    "tags": []
   }
 }

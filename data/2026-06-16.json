@@ -1,0 +1,258 @@
+{
+  "all": [
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 2657,
+      "total_stars": 123207,
+      "forks": 6618,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 1100,
+      "total_stars": 30820,
+      "forks": 2489,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars_today": 1079,
+      "total_stars": 6572,
+      "forks": 483,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars_today": 736,
+      "total_stars": 448049,
+      "forks": 45003,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 562,
+      "total_stars": 33307,
+      "forks": 5432,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "desc": "Introduction to Autonomous Robots",
+      "stars_today": 489,
+      "total_stars": 3119,
+      "forks": 665,
+      "lang": "TeX",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars_today": 431,
+      "total_stars": 31796,
+      "forks": 7639,
+      "lang": "Ruby",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 396,
+      "total_stars": 30386,
+      "forks": 5210,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 364,
+      "total_stars": 352452,
+      "forks": 83578,
+      "lang": "N/A",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "desc": "M3U Playlist for free TV channels",
+      "stars_today": 361,
+      "total_stars": 17356,
+      "forks": 2568,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "itsfatduck/optimizerDuck",
+      "desc": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "stars_today": 340,
+      "total_stars": 3826,
+      "forks": 167,
+      "lang": "C#",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meshery/meshery",
+      "desc": "Meshery, the cloud native manager",
+      "stars_today": 228,
+      "total_stars": 10690,
+      "forks": 3439,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars_today": 225,
+      "total_stars": 2419,
+      "forks": 448,
+      "lang": "Python",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "desc": "Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Autom",
+      "stars_today": 188,
+      "total_stars": 21205,
+      "forks": 1070,
+      "lang": "Dockerfile",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+      "stars_today": 112,
+      "total_stars": 48136,
+      "forks": 1943,
+      "lang": "PowerShell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "stars_today": 71,
+      "total_stars": 127114,
+      "forks": 15156,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "trycua/cua",
+      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "stars_today": 70,
+      "total_stars": 18244,
+      "forks": 1178,
+      "lang": "HTML",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "desc": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars_today": 33,
+      "total_stars": 8295,
+      "forks": 949,
+      "lang": "Elixir",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "itsfatduck/optimizerDuck",
+      "desc": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "stars_today": 340,
+      "total_stars": 3826,
+      "forks": 167,
+      "lang": "C#",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "desc": "Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Autom",
+      "stars_today": 188,
+      "total_stars": 21205,
+      "forks": 1070,
+      "lang": "Dockerfile",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+      "stars_today": 112,
+      "total_stars": 48136,
+      "forks": 1943,
+      "lang": "PowerShell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "stars_today": 71,
+      "total_stars": 127114,
+      "forks": 15156,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "desc": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars_today": 33,
+      "total_stars": 8295,
+      "forks": 949,
+      "lang": "Elixir",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
