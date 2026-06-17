@@ -1,0 +1,170 @@
+{
+  "all": [
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 1197,
+      "total_stars": 124398,
+      "forks": 6728,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars_today": 633,
+      "total_stars": 448726,
+      "forks": 45052,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars_today": 408,
+      "total_stars": 30243,
+      "forks": 3416,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars_today": 334,
+      "total_stars": 9366,
+      "forks": 439,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meshery/meshery",
+      "desc": "Meshery, the cloud native manager",
+      "stars_today": 228,
+      "total_stars": 10893,
+      "forks": 3449,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "desc": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "stars_today": 215,
+      "total_stars": 8440,
+      "forks": 960,
+      "lang": "Elixir",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "stars_today": 185,
+      "total_stars": 9168,
+      "forks": 2008,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistan",
+      "stars_today": 157,
+      "total_stars": 2607,
+      "forks": 451,
+      "lang": "Python",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "stars_today": 156,
+      "total_stars": 10604,
+      "forks": 612,
+      "lang": "C++",
+      "tags": [],
+      "cn": "向量数据库/嵌入检索工具；数据库相关工具"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars_today": 146,
+      "total_stars": 7415,
+      "forks": 319,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "desc": "JavaScript API for Chrome and Firefox",
+      "stars_today": 56,
+      "total_stars": 94947,
+      "forks": 9452,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "swc-project/swc",
+      "desc": "Rust-based platform for the Web",
+      "stars_today": 20,
+      "total_stars": 34001,
+      "forks": 1419,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars_today": 13,
+      "total_stars": 50259,
+      "forks": 3427,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    }
+  ],
+  "new": [
+    {
+      "name": "n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars_today": 334,
+      "total_stars": 9366,
+      "forks": 439,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "stars_today": 156,
+      "total_stars": 10604,
+      "forks": 612,
+      "lang": "C++",
+      "tags": [],
+      "cn": "向量数据库/嵌入检索工具；数据库相关工具"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars_today": 146,
+      "total_stars": 7415,
+      "forks": 319,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
