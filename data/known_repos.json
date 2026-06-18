@@ -1184,5 +1184,60 @@
   "Universal-Debloater-Alliance/universal-android-debloater-next-generation": {
     "first_seen": "2026-06-17T06:04:41.708570",
     "tags": []
+  },
+  "google-research/timesfm": {
+    "first_seen": "2026-06-18T05:50:29.565627",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "DeusData/codebase-memory-mcp": {
+    "first_seen": "2026-06-18T05:50:29.565639",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "nautechsystems/nautilus_trader": {
+    "first_seen": "2026-06-18T05:50:29.565642",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "calesthio/OpenMontage": {
+    "first_seen": "2026-06-18T05:50:29.565643",
+    "tags": [
+      "AI Infra",
+      "AI Agent",
+      "AI编程提效"
+    ]
+  },
+  "makeplane/plane": {
+    "first_seen": "2026-06-18T05:50:29.565645",
+    "tags": []
+  },
+  "penpot/penpot": {
+    "first_seen": "2026-06-18T05:50:29.565646",
+    "tags": []
+  },
+  "continuedev/continue": {
+    "first_seen": "2026-06-18T05:50:29.565648",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "alexzhang13/rlm": {
+    "first_seen": "2026-06-18T05:50:29.565649",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "yairm210/Unciv": {
+    "first_seen": "2026-06-18T05:50:29.565650",
+    "tags": []
+  },
+  "RocketChat/Rocket.Chat": {
+    "first_seen": "2026-06-18T05:50:29.565651",
+    "tags": []
   }
 }

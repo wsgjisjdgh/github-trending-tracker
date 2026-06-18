@@ -1,0 +1,346 @@
+{
+  "all": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 1523,
+      "total_stars": 134033,
+      "forks": 11635,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 1161,
+      "total_stars": 33527,
+      "forks": 2687,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1129,
+      "total_stars": 231385,
+      "forks": 20565,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars_today": 757,
+      "total_stars": 449221,
+      "forks": 45098,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 606,
+      "total_stars": 22049,
+      "forks": 2144,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars_today": 457,
+      "total_stars": 7699,
+      "forks": 331,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars_today": 421,
+      "total_stars": 9733,
+      "forks": 455,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 371,
+      "total_stars": 5807,
+      "forks": 504,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars_today": 264,
+      "total_stars": 32440,
+      "forks": 7718,
+      "lang": "Ruby",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meshery/meshery",
+      "desc": "Meshery, the cloud native manager",
+      "stars_today": 196,
+      "total_stars": 11061,
+      "forks": 3459,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars_today": 150,
+      "total_stars": 36746,
+      "forks": 3705,
+      "lang": "TypeScript",
+      "tags": [
+        "边缘AI",
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "边缘AI推理框架，支持在移动/嵌入式设备上高效运行模型；AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars_today": 98,
+      "total_stars": 23867,
+      "forks": 3020,
+      "lang": "Rust",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars_today": 98,
+      "total_stars": 5534,
+      "forks": 1017,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "stars_today": 96,
+      "total_stars": 127550,
+      "forks": 15180,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars_today": 89,
+      "total_stars": 51423,
+      "forks": 4573,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "stars_today": 70,
+      "total_stars": 50184,
+      "forks": 3238,
+      "lang": "Clojure",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "continuedev/continue",
+      "desc": "open-source coding agent",
+      "stars_today": 49,
+      "total_stars": 33972,
+      "forks": 4708,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "desc": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "stars_today": 43,
+      "total_stars": 4969,
+      "forks": 827,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "yairm210/Unciv",
+      "desc": "Open-source Android/Desktop remake of Civ V",
+      "stars_today": 24,
+      "total_stars": 10708,
+      "forks": 1844,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "RocketChat/Rocket.Chat",
+      "desc": "The Secure CommsOS™ for mission-critical operations",
+      "stars_today": 22,
+      "total_stars": 45625,
+      "forks": 13659,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 606,
+      "total_stars": 22049,
+      "forks": 2144,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 371,
+      "total_stars": 5807,
+      "forks": 504,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars_today": 98,
+      "total_stars": 23867,
+      "forks": 3020,
+      "lang": "Rust",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars_today": 98,
+      "total_stars": 5534,
+      "forks": 1017,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars_today": 89,
+      "total_stars": 51423,
+      "forks": 4573,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "stars_today": 70,
+      "total_stars": 50184,
+      "forks": 3238,
+      "lang": "Clojure",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "continuedev/continue",
+      "desc": "open-source coding agent",
+      "stars_today": 49,
+      "total_stars": 33972,
+      "forks": 4708,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "desc": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "stars_today": 43,
+      "total_stars": 4969,
+      "forks": 827,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "yairm210/Unciv",
+      "desc": "Open-source Android/Desktop remake of Civ V",
+      "stars_today": 24,
+      "total_stars": 10708,
+      "forks": 1844,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "RocketChat/Rocket.Chat",
+      "desc": "The Secure CommsOS™ for mission-critical operations",
+      "stars_today": 22,
+      "total_stars": 45625,
+      "forks": 13659,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
