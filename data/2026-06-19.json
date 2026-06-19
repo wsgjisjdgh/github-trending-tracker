@@ -1,0 +1,262 @@
+{
+  "all": [
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 2322,
+      "total_stars": 7266,
+      "forks": 574,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1429,
+      "total_stars": 232602,
+      "forks": 20660,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars_today": 1345,
+      "total_stars": 22336,
+      "forks": 2710,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 844,
+      "total_stars": 23445,
+      "forks": 2230,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars_today": 613,
+      "total_stars": 51908,
+      "forks": 4606,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars_today": 417,
+      "total_stars": 449627,
+      "forks": 45138,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars_today": 369,
+      "total_stars": 10062,
+      "forks": 464,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "stars_today": 259,
+      "total_stars": 11321,
+      "forks": 656,
+      "lang": "C++",
+      "tags": [],
+      "cn": "向量数据库/嵌入检索工具；数据库相关工具"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "stars_today": 244,
+      "total_stars": 7965,
+      "forks": 342,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars_today": 202,
+      "total_stars": 4238,
+      "forks": 435,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "stars_today": 162,
+      "total_stars": 5565,
+      "forks": 308,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars_today": 51,
+      "total_stars": 7527,
+      "forks": 1211,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "stars_today": 51,
+      "total_stars": 15031,
+      "forks": 1535,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars_today": 40,
+      "total_stars": 14471,
+      "forks": 2340,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "stars_today": 18,
+      "total_stars": 38743,
+      "forks": 2293,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "stars_today": 14,
+      "total_stars": 38108,
+      "forks": 10712,
+      "lang": "C#",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    }
+  ],
+  "new": [
+    {
+      "name": "Kilo-Org/kilocode",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars_today": 1345,
+      "total_stars": 22336,
+      "forks": 2710,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars_today": 202,
+      "total_stars": 4238,
+      "forks": 435,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars_today": 51,
+      "total_stars": 7527,
+      "forks": 1211,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "stars_today": 51,
+      "total_stars": 15031,
+      "forks": 1535,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "stars_today": 40,
+      "total_stars": 14471,
+      "forks": 2340,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "stars_today": 18,
+      "total_stars": 38743,
+      "forks": 2293,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "stars_today": 14,
+      "total_stars": 38108,
+      "forks": 10712,
+      "lang": "C#",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    }
+  ]
+}

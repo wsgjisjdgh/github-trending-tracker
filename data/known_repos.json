@@ -1239,5 +1239,41 @@
   "RocketChat/Rocket.Chat": {
     "first_seen": "2026-06-18T05:50:29.565651",
     "tags": []
+  },
+  "Kilo-Org/kilocode": {
+    "first_seen": "2026-06-19T06:10:25.500623",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "zai-org/GLM-5": {
+    "first_seen": "2026-06-19T06:10:25.500638",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "Lightricks/LTX-2": {
+    "first_seen": "2026-06-19T06:10:25.500641",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "LibreTranslate/LibreTranslate": {
+    "first_seen": "2026-06-19T06:10:25.500642",
+    "tags": []
+  },
+  "owainlewis/awesome-artificial-intelligence": {
+    "first_seen": "2026-06-19T06:10:25.500644",
+    "tags": []
+  },
+  "Kong/insomnia": {
+    "first_seen": "2026-06-19T06:10:25.500645",
+    "tags": []
+  },
+  "dotnet/aspnetcore": {
+    "first_seen": "2026-06-19T06:10:25.500646",
+    "tags": []
   }
 }
