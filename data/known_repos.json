@@ -1275,5 +1275,27 @@
   "dotnet/aspnetcore": {
     "first_seen": "2026-06-19T06:10:25.500646",
     "tags": []
+  },
+  "palmier-io/palmier-pro": {
+    "first_seen": "2026-06-20T05:06:22.618894",
+    "tags": []
+  },
+  "koala73/worldmonitor": {
+    "first_seen": "2026-06-20T05:06:22.618907",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "BuilderIO/agent-native": {
+    "first_seen": "2026-06-20T05:06:22.618909",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "aishwaryanr/awesome-generative-ai-guide": {
+    "first_seen": "2026-06-20T05:06:22.618911",
+    "tags": [
+      "AI for Science"
+    ]
   }
 }

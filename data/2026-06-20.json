@@ -1,0 +1,227 @@
+{
+  "all": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 4005,
+      "total_stars": 39217,
+      "forks": 2688,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 1510,
+      "total_stars": 24142,
+      "forks": 2276,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1110,
+      "total_stars": 233526,
+      "forks": 20736,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 1058,
+      "total_stars": 8435,
+      "forks": 643,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "stars_today": 756,
+      "total_stars": 2045,
+      "forks": 200,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars_today": 480,
+      "total_stars": 4641,
+      "forks": 468,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "stars_today": 309,
+      "total_stars": 5881,
+      "forks": 326,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "stars_today": 302,
+      "total_stars": 10269,
+      "forks": 466,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "stars_today": 292,
+      "total_stars": 39032,
+      "forks": 2307,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars_today": 196,
+      "total_stars": 7700,
+      "forks": 1223,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars_today": 156,
+      "total_stars": 57378,
+      "forks": 9148,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars_today": 156,
+      "total_stars": 6399,
+      "forks": 1090,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "desc": "A framework for building agent-native applications.",
+      "stars_today": 147,
+      "total_stars": 1108,
+      "forks": 119,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "stars_today": 107,
+      "total_stars": 27690,
+      "forks": 5740,
+      "lang": "HTML",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "stars_today": 85,
+      "total_stars": 50656,
+      "forks": 3271,
+      "lang": "Clojure",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "stars_today": 756,
+      "total_stars": 2045,
+      "forks": 200,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars_today": 156,
+      "total_stars": 57378,
+      "forks": 9148,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "desc": "A framework for building agent-native applications.",
+      "stars_today": 147,
+      "total_stars": 1108,
+      "forks": 119,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "stars_today": 107,
+      "total_stars": 27690,
+      "forks": 5740,
+      "lang": "HTML",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    }
+  ]
+}
