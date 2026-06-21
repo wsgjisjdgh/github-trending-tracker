@@ -1297,5 +1297,24 @@
     "tags": [
       "AI for Science"
     ]
+  },
+  "tursodatabase/turso": {
+    "first_seen": "2026-06-21T05:56:21.823204",
+    "tags": []
+  },
+  "jamiepine/voicebox": {
+    "first_seen": "2026-06-21T05:56:21.823218",
+    "tags": []
+  },
+  "pppscn/SmsForwarder": {
+    "first_seen": "2026-06-21T05:56:21.823220",
+    "tags": []
+  },
+  "1jehuang/jcode": {
+    "first_seen": "2026-06-21T05:56:21.823224",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
