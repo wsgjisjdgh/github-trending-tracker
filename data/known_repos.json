@@ -1316,5 +1316,25 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "topoteretes/cognee": {
+    "first_seen": "2026-06-22T06:23:36.910692",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "smicallef/spiderfoot": {
+    "first_seen": "2026-06-22T06:23:36.910702",
+    "tags": []
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "first_seen": "2026-06-22T06:23:36.910704",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "mikumifa/biliTickerBuy": {
+    "first_seen": "2026-06-22T06:23:36.910706",
+    "tags": []
   }
 }
