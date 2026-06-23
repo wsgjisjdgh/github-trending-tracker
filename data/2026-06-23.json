@@ -1,0 +1,234 @@
+{
+  "all": [
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars_today": 2938,
+      "total_stars": 12754,
+      "forks": 1598,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "stars_today": 2463,
+      "total_stars": 7675,
+      "forks": 516,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 2051,
+      "total_stars": 142063,
+      "forks": 12284,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars_today": 1557,
+      "total_stars": 46080,
+      "forks": 42016,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 1185,
+      "total_stars": 11849,
+      "forks": 871,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo",
+      "stars_today": 956,
+      "total_stars": 18888,
+      "forks": 2227,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars_today": 738,
+      "total_stars": 73406,
+      "forks": 9918,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "stars_today": 728,
+      "total_stars": 52969,
+      "forks": 3389,
+      "lang": "Clojure",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "stars_today": 615,
+      "total_stars": 137526,
+      "forks": 7967,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars_today": 573,
+      "total_stars": 113331,
+      "forks": 16814,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Stirling-Tools/Stirling-PDF",
+      "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "stars_today": 547,
+      "total_stars": 83164,
+      "forks": 7248,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "desc": "Turso is an in-process SQL database, compatible with SQLite.",
+      "stars_today": 540,
+      "total_stars": 21580,
+      "forks": 1092,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars_today": 529,
+      "total_stars": 32459,
+      "forks": 3947,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "stars_today": 395,
+      "total_stars": 30187,
+      "forks": 2831,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 193,
+      "total_stars": 21127,
+      "forks": 2426,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "stars_today": 100,
+      "total_stars": 17930,
+      "forks": 2758,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    }
+  ],
+  "new": [
+    {
+      "name": "firecrawl/firecrawl",
+      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "stars_today": 615,
+      "total_stars": 137526,
+      "forks": 7967,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Stirling-Tools/Stirling-PDF",
+      "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "stars_today": 547,
+      "total_stars": 83164,
+      "forks": 7248,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "stars_today": 395,
+      "total_stars": 30187,
+      "forks": 2831,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "stars_today": 100,
+      "total_stars": 17930,
+      "forks": 2758,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    }
+  ]
+}

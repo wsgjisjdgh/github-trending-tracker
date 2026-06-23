@@ -1336,5 +1336,27 @@
   "mikumifa/biliTickerBuy": {
     "first_seen": "2026-06-22T06:23:36.910706",
     "tags": []
+  },
+  "firecrawl/firecrawl": {
+    "first_seen": "2026-06-23T04:55:11.582283",
+    "tags": []
+  },
+  "Stirling-Tools/Stirling-PDF": {
+    "first_seen": "2026-06-23T04:55:11.582295",
+    "tags": []
+  },
+  "heygen-com/hyperframes": {
+    "first_seen": "2026-06-23T04:55:11.582297",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "JCodesMore/ai-website-cloner-template": {
+    "first_seen": "2026-06-23T04:55:11.582299",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
   }
 }
