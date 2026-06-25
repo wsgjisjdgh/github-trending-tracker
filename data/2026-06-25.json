@@ -1,0 +1,238 @@
+{
+  "all": [
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars_today": 3719,
+      "total_stars": 20080,
+      "forks": 2267,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars_today": 1838,
+      "total_stars": 42477,
+      "forks": 1249,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars_today": 1468,
+      "total_stars": 48821,
+      "forks": 43098,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1178,
+      "total_stars": 202250,
+      "forks": 36147,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "stars_today": 692,
+      "total_stars": 19531,
+      "forks": 2902,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars_today": 619,
+      "total_stars": 17558,
+      "forks": 1578,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars_today": 331,
+      "total_stars": 6945,
+      "forks": 500,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars_today": 277,
+      "total_stars": 7819,
+      "forks": 1063,
+      "lang": "HTML",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "desc": "AI agent to evaluate and score resumes.",
+      "stars_today": 203,
+      "total_stars": 2368,
+      "forks": 613,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "desc": "git push no-mistakes",
+      "stars_today": 110,
+      "total_stars": 2377,
+      "forks": 156,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars_today": 73,
+      "total_stars": 177443,
+      "forks": 30550,
+      "lang": "Dart",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "desc": "No description",
+      "stars_today": 61,
+      "total_stars": 30043,
+      "forks": 2344,
+      "lang": "Batchfile",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "desc": "Headunit App for displaying Android Auto",
+      "stars_today": 41,
+      "total_stars": 1458,
+      "forks": 115,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars_today": 619,
+      "total_stars": 17558,
+      "forks": 1578,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars_today": 331,
+      "total_stars": 6945,
+      "forks": 500,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "desc": "AI agent to evaluate and score resumes.",
+      "stars_today": 203,
+      "total_stars": 2368,
+      "forks": 613,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "desc": "git push no-mistakes",
+      "stars_today": 110,
+      "total_stars": 2377,
+      "forks": 156,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars_today": 73,
+      "total_stars": 177443,
+      "forks": 30550,
+      "lang": "Dart",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "desc": "No description",
+      "stars_today": 61,
+      "total_stars": 30043,
+      "forks": 2344,
+      "lang": "Batchfile",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "desc": "Headunit App for displaying Android Auto",
+      "stars_today": 41,
+      "total_stars": 1458,
+      "forks": 115,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

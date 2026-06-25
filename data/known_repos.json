@@ -1365,5 +1365,41 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "google-labs-code/design.md": {
+    "first_seen": "2026-06-25T04:58:54.435399",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "stablyai/orca": {
+    "first_seen": "2026-06-25T04:58:54.435410",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "interviewstreet/hiring-agent": {
+    "first_seen": "2026-06-25T04:58:54.435414",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "kunchenguid/no-mistakes": {
+    "first_seen": "2026-06-25T04:58:54.435416",
+    "tags": []
+  },
+  "flutter/flutter": {
+    "first_seen": "2026-06-25T04:58:54.435420",
+    "tags": []
+  },
+  "Flowseal/zapret-discord-youtube": {
+    "first_seen": "2026-06-25T04:58:54.435421",
+    "tags": []
+  },
+  "andreknieriem/headunit-revived": {
+    "first_seen": "2026-06-25T04:58:54.435423",
+    "tags": []
   }
 }
