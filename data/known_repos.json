@@ -1401,5 +1401,47 @@
   "andreknieriem/headunit-revived": {
     "first_seen": "2026-06-25T04:58:54.435423",
     "tags": []
+  },
+  "opendatalab/MinerU": {
+    "first_seen": "2026-06-26T05:04:24.390611",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "NanmiCoder/MediaCrawler": {
+    "first_seen": "2026-06-26T05:04:24.390624",
+    "tags": []
+  },
+  "xbtlin/ai-berkshire": {
+    "first_seen": "2026-06-26T05:04:24.390626",
+    "tags": [
+      "AI Agent",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "mauriceboe/TREK": {
+    "first_seen": "2026-06-26T05:04:24.390628",
+    "tags": []
+  },
+  "IceWhaleTech/CasaOS": {
+    "first_seen": "2026-06-26T05:04:24.390629",
+    "tags": []
+  },
+  "alibaba/page-agent": {
+    "first_seen": "2026-06-26T05:04:24.390630",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "every-app/open-seo": {
+    "first_seen": "2026-06-26T05:04:24.390632",
+    "tags": []
+  },
+  "aws/agent-toolkit-for-aws": {
+    "first_seen": "2026-06-26T05:04:24.390633",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
