@@ -1443,5 +1443,23 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "simplex-chat/simplex-chat": {
+    "first_seen": "2026-06-27T04:45:35.801769",
+    "tags": []
+  },
+  "ripienaar/free-for-dev": {
+    "first_seen": "2026-06-27T04:45:35.801778",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "commaai/openpilot": {
+    "first_seen": "2026-06-27T04:45:35.801782",
+    "tags": []
+  },
+  "grafana/grafana": {
+    "first_seen": "2026-06-27T04:45:35.801783",
+    "tags": []
   }
 }
