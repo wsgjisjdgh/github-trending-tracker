@@ -1,0 +1,288 @@
+{
+  "all": [
+    {
+      "name": "google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars_today": 1541,
+      "total_stars": 22456,
+      "forks": 1792,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "stars_today": 1469,
+      "total_stars": 13995,
+      "forks": 802,
+      "lang": "Haskell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars_today": 780,
+      "total_stars": 24123,
+      "forks": 2259,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "stars_today": 750,
+      "total_stars": 22247,
+      "forks": 3185,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+      "stars_today": 685,
+      "total_stars": 4403,
+      "forks": 613,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars_today": 674,
+      "total_stars": 117361,
+      "forks": 17435,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "desc": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images",
+      "stars_today": 589,
+      "total_stars": 33238,
+      "forks": 2821,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "stars_today": 502,
+      "total_stars": 35850,
+      "forks": 2045,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars_today": 459,
+      "total_stars": 124236,
+      "forks": 13086,
+      "lang": "HTML",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars_today": 394,
+      "total_stars": 53836,
+      "forks": 11018,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars_today": 392,
+      "total_stars": 179863,
+      "forks": 22109,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars_today": 322,
+      "total_stars": 62115,
+      "forks": 11069,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "desc": "Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT lic",
+      "stars_today": 255,
+      "total_stars": 21461,
+      "forks": 3649,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "stars_today": 239,
+      "total_stars": 3495,
+      "forks": 379,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "desc": "Spec-driven development (SDD) for AI coding assistants.",
+      "stars_today": 177,
+      "total_stars": 57216,
+      "forks": 3990,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars_today": 141,
+      "total_stars": 38689,
+      "forks": 4659,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 92,
+      "total_stars": 13797,
+      "forks": 2595,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars_today": 57,
+      "total_stars": 135750,
+      "forks": 8168,
+      "lang": "C",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "keycloak/keycloak",
+      "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+      "stars_today": 20,
+      "total_stars": 35326,
+      "forks": 8557,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "stars_today": 18,
+      "total_stars": 13250,
+      "forks": 2440,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "hugohe3/ppt-master",
+      "desc": "AI generates a real, editable PowerPoint from any document — native shapes &amp; animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images",
+      "stars_today": 589,
+      "total_stars": 33238,
+      "forks": 2821,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars_today": 392,
+      "total_stars": 179863,
+      "forks": 22109,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "desc": "Spec-driven development (SDD) for AI coding assistants.",
+      "stars_today": 177,
+      "total_stars": 57216,
+      "forks": 3990,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "keycloak/keycloak",
+      "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+      "stars_today": 20,
+      "total_stars": 35326,
+      "forks": 8557,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "stars_today": 18,
+      "total_stars": 13250,
+      "forks": 2440,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

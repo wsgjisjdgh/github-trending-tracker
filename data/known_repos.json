@@ -1461,5 +1461,30 @@
   "grafana/grafana": {
     "first_seen": "2026-06-27T04:45:35.801783",
     "tags": []
+  },
+  "hugohe3/ppt-master": {
+    "first_seen": "2026-06-28T05:12:49.641711",
+    "tags": []
+  },
+  "anomalyco/opencode": {
+    "first_seen": "2026-06-28T05:12:49.641723",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "Fission-AI/OpenSpec": {
+    "first_seen": "2026-06-28T05:12:49.641726",
+    "tags": [
+      "AI编程提效"
+    ]
+  },
+  "keycloak/keycloak": {
+    "first_seen": "2026-06-28T05:12:49.641728",
+    "tags": []
+  },
+  "dbt-labs/dbt-core": {
+    "first_seen": "2026-06-28T05:12:49.641729",
+    "tags": []
   }
 }
