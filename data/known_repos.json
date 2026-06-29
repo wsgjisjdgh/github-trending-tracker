@@ -1486,5 +1486,34 @@
   "dbt-labs/dbt-core": {
     "first_seen": "2026-06-28T05:12:49.641729",
     "tags": []
+  },
+  "Robbyant/lingbot-map": {
+    "first_seen": "2026-06-29T05:25:32.631174",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "altic-dev/FluidVoice": {
+    "first_seen": "2026-06-29T05:25:32.631185",
+    "tags": []
+  },
+  "ByteByteGoHq/system-design-101": {
+    "first_seen": "2026-06-29T05:25:32.631187",
+    "tags": []
+  },
+  "browser-use/video-use": {
+    "first_seen": "2026-06-29T05:25:32.631189",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "cupy/cupy": {
+    "first_seen": "2026-06-29T05:25:32.631190",
+    "tags": []
+  },
+  "usestrix/strix": {
+    "first_seen": "2026-06-29T05:25:32.631192",
+    "tags": []
   }
 }

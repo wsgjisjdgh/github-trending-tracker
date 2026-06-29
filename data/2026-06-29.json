@@ -1,0 +1,219 @@
+{
+  "all": [
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+      "stars_today": 2190,
+      "total_stars": 20156,
+      "forks": 1452,
+      "lang": "C",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+      "stars_today": 1445,
+      "total_stars": 5697,
+      "forks": 764,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "stars_today": 1180,
+      "total_stars": 15377,
+      "forks": 883,
+      "lang": "Haskell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars_today": 495,
+      "total_stars": 125664,
+      "forks": 13193,
+      "lang": "HTML",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 492,
+      "total_stars": 14504,
+      "forks": 2644,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stars_today": 380,
+      "total_stars": 71840,
+      "forks": 6025,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "stars_today": 372,
+      "total_stars": 8336,
+      "forks": 810,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "stars_today": 365,
+      "total_stars": 3866,
+      "forks": 243,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars_today": 266,
+      "total_stars": 62515,
+      "forks": 11096,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "stars_today": 250,
+      "total_stars": 84670,
+      "forks": 9364,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 196,
+      "total_stars": 11283,
+      "forks": 1532,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "cupy/cupy",
+      "desc": "NumPy &amp; SciPy for GPU",
+      "stars_today": 174,
+      "total_stars": 11587,
+      "forks": 1072,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "usestrix/strix",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars_today": 122,
+      "total_stars": 26895,
+      "forks": 2997,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "stars_today": 372,
+      "total_stars": 8336,
+      "forks": 810,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "stars_today": 365,
+      "total_stars": 3866,
+      "forks": 243,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "stars_today": 250,
+      "total_stars": 84670,
+      "forks": 9364,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 196,
+      "total_stars": 11283,
+      "forks": 1532,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "cupy/cupy",
+      "desc": "NumPy &amp; SciPy for GPU",
+      "stars_today": 174,
+      "total_stars": 11587,
+      "forks": 1072,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "usestrix/strix",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars_today": 122,
+      "total_stars": 26895,
+      "forks": 2997,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
