@@ -1515,5 +1515,25 @@
   "usestrix/strix": {
     "first_seen": "2026-06-29T05:25:32.631192",
     "tags": []
+  },
+  "0xNyk/council-of-high-intelligence": {
+    "first_seen": "2026-06-30T04:58:29.667980",
+    "tags": []
+  },
+  "veracrypt/VeraCrypt": {
+    "first_seen": "2026-06-30T04:58:29.667992",
+    "tags": []
+  },
+  "logto-io/logto": {
+    "first_seen": "2026-06-30T04:58:29.667994",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "Unclecheng-li/VulnClaw": {
+    "first_seen": "2026-06-30T04:58:29.667996",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
