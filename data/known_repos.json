@@ -1535,5 +1535,47 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "first_seen": "2026-07-01T05:16:53.207034",
+    "tags": []
+  },
+  "ogulcancelik/herdr": {
+    "first_seen": "2026-07-01T05:16:53.207046",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "google/agents-cli": {
+    "first_seen": "2026-07-01T05:16:53.207048",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "diegosouzapw/OmniRoute": {
+    "first_seen": "2026-07-01T05:16:53.207050",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "facebook/astryx": {
+    "first_seen": "2026-07-01T05:16:53.207051",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "CoreBunch/Instatic": {
+    "first_seen": "2026-07-01T05:16:53.207052",
+    "tags": []
+  },
+  "microsoft/AI-For-Beginners": {
+    "first_seen": "2026-07-01T05:16:53.207054",
+    "tags": []
+  },
+  "Mebus/cupp": {
+    "first_seen": "2026-07-01T05:16:53.207055",
+    "tags": []
   }
 }
