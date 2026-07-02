@@ -1577,5 +1577,19 @@
   "Mebus/cupp": {
     "first_seen": "2026-07-01T05:16:53.207055",
     "tags": []
+  },
+  "allenai/olmocr": {
+    "first_seen": "2026-07-02T04:54:19.536788",
+    "tags": []
+  },
+  "TencentCloud/CubeSandbox": {
+    "first_seen": "2026-07-02T04:54:19.536798",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "togatoga/karukan": {
+    "first_seen": "2026-07-02T04:54:19.536800",
+    "tags": []
   }
 }

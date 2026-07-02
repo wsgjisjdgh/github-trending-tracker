@@ -1,0 +1,263 @@
+{
+  "all": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "stars_today": 2470,
+      "total_stars": 8582,
+      "forks": 968,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 2114,
+      "total_stars": 123959,
+      "forks": 20150,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars_today": 1211,
+      "total_stars": 30042,
+      "forks": 3244,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "stars_today": 1096,
+      "total_stars": 50676,
+      "forks": 10276,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15",
+      "stars_today": 1010,
+      "total_stars": 9702,
+      "forks": 1484,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "facebook/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 708,
+      "total_stars": 2822,
+      "forks": 152,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 694,
+      "total_stars": 16744,
+      "forks": 2821,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 693,
+      "total_stars": 13326,
+      "forks": 1660,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "stars_today": 609,
+      "total_stars": 9725,
+      "forks": 569,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "stars_today": 572,
+      "total_stars": 5587,
+      "forks": 333,
+      "lang": "Swift",
+      "tags": [
+        "边缘AI"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "desc": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "stars_today": 508,
+      "total_stars": 2070,
+      "forks": 169,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "allenai/olmocr",
+      "desc": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars_today": 334,
+      "total_stars": 18359,
+      "forks": 1511,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "Mebus/cupp",
+      "desc": "Common User Passwords Profiler (CUPP)",
+      "stars_today": 184,
+      "total_stars": 6265,
+      "forks": 2068,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. On",
+      "stars_today": 161,
+      "total_stars": 2726,
+      "forks": 250,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "stars_today": 150,
+      "total_stars": 18073,
+      "forks": 1228,
+      "lang": "TypeScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "stars_today": 132,
+      "total_stars": 1631,
+      "forks": 222,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "stars_today": 116,
+      "total_stars": 22670,
+      "forks": 3412,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "logto-io/logto",
+      "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "stars_today": 113,
+      "total_stars": 13342,
+      "forks": 909,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "stars_today": 79,
+      "total_stars": 6870,
+      "forks": 572,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "togatoga/karukan",
+      "desc": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "stars_today": 42,
+      "total_stars": 603,
+      "forks": 36,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "allenai/olmocr",
+      "desc": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars_today": 334,
+      "total_stars": 18359,
+      "forks": 1511,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "stars_today": 79,
+      "total_stars": 6870,
+      "forks": 572,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "togatoga/karukan",
+      "desc": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "stars_today": 42,
+      "total_stars": 603,
+      "forks": 36,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
