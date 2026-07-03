@@ -1591,5 +1591,42 @@
   "togatoga/karukan": {
     "first_seen": "2026-07-02T04:54:19.536800",
     "tags": []
+  },
+  "JuliusBrussee/caveman": {
+    "first_seen": "2026-07-03T04:37:04.886348",
+    "tags": []
+  },
+  "openai/codex-plugin-cc": {
+    "first_seen": "2026-07-03T04:37:04.886361",
+    "tags": []
+  },
+  "langflow-ai/langflow": {
+    "first_seen": "2026-07-03T04:37:04.886363",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "agentskills/agentskills": {
+    "first_seen": "2026-07-03T04:37:04.886365",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "harvard-edge/cs249r_book": {
+    "first_seen": "2026-07-03T04:37:04.886366",
+    "tags": []
+  },
+  "pytorch/pytorch": {
+    "first_seen": "2026-07-03T04:37:04.886367",
+    "tags": []
+  },
+  "ryanmcdermott/clean-code-javascript": {
+    "first_seen": "2026-07-03T04:37:04.886369",
+    "tags": []
+  },
+  "actions/checkout": {
+    "first_seen": "2026-07-03T04:37:04.886370",
+    "tags": []
   }
 }
