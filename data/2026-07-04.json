@@ -1,0 +1,273 @@
+{
+  "all": [
+    {
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars_today": 2863,
+      "total_stars": 83077,
+      "forks": 4634,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars_today": 2803,
+      "total_stars": 34839,
+      "forks": 3565,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1209,
+      "total_stars": 245630,
+      "forks": 21778,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 1208,
+      "total_stars": 126595,
+      "forks": 20544,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "facebook/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 885,
+      "total_stars": 4782,
+      "forks": 282,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "stars_today": 793,
+      "total_stars": 26247,
+      "forks": 3134,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars_today": 634,
+      "total_stars": 23338,
+      "forks": 1418,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "stars_today": 478,
+      "total_stars": 10888,
+      "forks": 642,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "stars_today": 406,
+      "total_stars": 22047,
+      "forks": 1397,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 405,
+      "total_stars": 45532,
+      "forks": 2961,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars_today": 293,
+      "total_stars": 101458,
+      "forks": 28252,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "stars_today": 239,
+      "total_stars": 9862,
+      "forks": 477,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars_today": 221,
+      "total_stars": 135898,
+      "forks": 21861,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars_today": 169,
+      "total_stars": 105535,
+      "forks": 12973,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "actions/checkout",
+      "desc": "Action for checking out a repo",
+      "stars_today": 129,
+      "total_stars": 8278,
+      "forks": 2535,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "elastic/elasticsearch",
+      "desc": "Free and Open Source, Distributed, RESTful Search Engine",
+      "stars_today": 91,
+      "total_stars": 77366,
+      "forks": 25936,
+      "lang": "Java",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "stars_today": 65,
+      "total_stars": 69236,
+      "forks": 24111,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "stars_today": 60,
+      "total_stars": 7203,
+      "forks": 592,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apache/maven",
+      "desc": "Apache Maven core",
+      "stars_today": 58,
+      "total_stars": 5244,
+      "forks": 2901,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "stars_today": 239,
+      "total_stars": 9862,
+      "forks": 477,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars_today": 169,
+      "total_stars": 105535,
+      "forks": 12973,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "elastic/elasticsearch",
+      "desc": "Free and Open Source, Distributed, RESTful Search Engine",
+      "stars_today": 91,
+      "total_stars": 77366,
+      "forks": 25936,
+      "lang": "Java",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "stars_today": 65,
+      "total_stars": 69236,
+      "forks": 24111,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "apache/maven",
+      "desc": "Apache Maven core",
+      "stars_today": 58,
+      "total_stars": 5244,
+      "forks": 2901,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

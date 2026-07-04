@@ -1628,5 +1628,30 @@
   "actions/checkout": {
     "first_seen": "2026-07-03T04:37:04.886370",
     "tags": []
+  },
+  "rommapp/romm": {
+    "first_seen": "2026-07-04T04:29:26.202342",
+    "tags": []
+  },
+  "supabase/supabase": {
+    "first_seen": "2026-07-04T04:29:26.202350",
+    "tags": []
+  },
+  "elastic/elasticsearch": {
+    "first_seen": "2026-07-04T04:29:26.202352",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "ansible/ansible": {
+    "first_seen": "2026-07-04T04:29:26.202354",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "apache/maven": {
+    "first_seen": "2026-07-04T04:29:26.202355",
+    "tags": []
   }
 }
