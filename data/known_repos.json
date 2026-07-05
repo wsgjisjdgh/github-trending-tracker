@@ -1653,5 +1653,38 @@
   "apache/maven": {
     "first_seen": "2026-07-04T04:29:26.202355",
     "tags": []
+  },
+  "Zackriya-Solutions/meetily": {
+    "first_seen": "2026-07-05T04:51:58.193837",
+    "tags": []
+  },
+  "immich-app/immich": {
+    "first_seen": "2026-07-05T04:51:58.193850",
+    "tags": []
+  },
+  "chthollyphile/folia-major": {
+    "first_seen": "2026-07-05T04:51:58.193852",
+    "tags": []
+  },
+  "alirezarezvani/claude-skills": {
+    "first_seen": "2026-07-05T04:51:58.193854",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效",
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "CoplayDev/unity-mcp": {
+    "first_seen": "2026-07-05T04:51:58.193856",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "crynta/terax-ai": {
+    "first_seen": "2026-07-05T04:51:58.193857",
+    "tags": []
   }
 }

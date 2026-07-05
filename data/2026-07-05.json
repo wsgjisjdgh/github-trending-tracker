@@ -1,0 +1,279 @@
+{
+  "all": [
+    {
+      "name": "usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars_today": 1904,
+      "total_stars": 36243,
+      "forks": 3673,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars_today": 1089,
+      "total_stars": 84119,
+      "forks": 4690,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 973,
+      "total_stars": 156720,
+      "forks": 13484,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars_today": 742,
+      "total_stars": 23241,
+      "forks": 2013,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars_today": 718,
+      "total_stars": 24703,
+      "forks": 1494,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "stars_today": 718,
+      "total_stars": 15448,
+      "forks": 1681,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "stars_today": 707,
+      "total_stars": 11540,
+      "forks": 677,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "stars_today": 471,
+      "total_stars": 49063,
+      "forks": 7999,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "stars_today": 443,
+      "total_stars": 26619,
+      "forks": 3169,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "stars_today": 398,
+      "total_stars": 10263,
+      "forks": 494,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "stars_today": 351,
+      "total_stars": 22388,
+      "forks": 1416,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 304,
+      "total_stars": 45825,
+      "forks": 2984,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars_today": 201,
+      "total_stars": 105701,
+      "forks": 6032,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "stars_today": 175,
+      "total_stars": 1016,
+      "forks": 65,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag",
+      "stars_today": 136,
+      "total_stars": 20206,
+      "forks": 2764,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "stars_today": 69,
+      "total_stars": 11660,
+      "forks": 1267,
+      "lang": "C#",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "stars_today": 62,
+      "total_stars": 8103,
+      "forks": 863,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "stars_today": 59,
+      "total_stars": 3846,
+      "forks": 294,
+      "lang": "C#",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    }
+  ],
+  "new": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "stars_today": 718,
+      "total_stars": 15448,
+      "forks": 1681,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars_today": 201,
+      "total_stars": 105701,
+      "forks": 6032,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "stars_today": 175,
+      "total_stars": 1016,
+      "forks": 65,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag",
+      "stars_today": 136,
+      "total_stars": 20206,
+      "forks": 2764,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "stars_today": 69,
+      "total_stars": 11660,
+      "forks": 1267,
+      "lang": "C#",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "stars_today": 62,
+      "total_stars": 8103,
+      "forks": 863,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
