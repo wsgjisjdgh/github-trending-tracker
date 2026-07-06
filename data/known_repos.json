@@ -1686,5 +1686,39 @@
   "crynta/terax-ai": {
     "first_seen": "2026-07-05T04:51:58.193857",
     "tags": []
+  },
+  "steipete/CodexBar": {
+    "first_seen": "2026-07-06T05:04:50.000505",
+    "tags": [
+      "AI编程提效"
+    ]
+  },
+  "hesreallyhim/awesome-claude-code": {
+    "first_seen": "2026-07-06T05:04:50.000516",
+    "tags": [
+      "AI Agent",
+      "AI编程提效"
+    ]
+  },
+  "coreyhaines31/marketingskills": {
+    "first_seen": "2026-07-06T05:04:50.000518",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
+  },
+  "OthmanAdi/planning-with-files": {
+    "first_seen": "2026-07-06T05:04:50.000519",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "gastownhall/gastown": {
+    "first_seen": "2026-07-06T05:04:50.000521",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
