@@ -1,0 +1,218 @@
+{
+  "all": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+      "stars_today": 2494,
+      "total_stars": 19636,
+      "forks": 1987,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars_today": 1458,
+      "total_stars": 59234,
+      "forks": 4031,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "stars_today": 1378,
+      "total_stars": 51842,
+      "forks": 8452,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1112,
+      "total_stars": 71064,
+      "forks": 7692,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars_today": 906,
+      "total_stars": 26374,
+      "forks": 1582,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "stars_today": 867,
+      "total_stars": 146489,
+      "forks": 8425,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "stars_today": 779,
+      "total_stars": 12990,
+      "forks": 754,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "desc": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding ag",
+      "stars_today": 610,
+      "total_stars": 21255,
+      "forks": 2849,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars_today": 598,
+      "total_stars": 16793,
+      "forks": 1380,
+      "lang": "Swift",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 470,
+      "total_stars": 77679,
+      "forks": 10432,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 458,
+      "total_stars": 49899,
+      "forks": 4158,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars_today": 427,
+      "total_stars": 4419,
+      "forks": 616,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "stars_today": 382,
+      "total_stars": 13607,
+      "forks": 831,
+      "lang": "C++",
+      "tags": [],
+      "cn": "向量数据库/嵌入检索工具；数据库相关工具"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "desc": "😎 Awesome lists about all kinds of interesting topics",
+      "stars_today": 345,
+      "total_stars": 482415,
+      "forks": 35742,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "gastownhall/gastown",
+      "desc": "Gas Town - multi-agent workspace manager",
+      "stars_today": 291,
+      "total_stars": 16750,
+      "forks": 1542,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "stars_today": 199,
+      "total_stars": 26968,
+      "forks": 1324,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars_today": 427,
+      "total_stars": 4419,
+      "forks": 616,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "desc": "😎 Awesome lists about all kinds of interesting topics",
+      "stars_today": 345,
+      "total_stars": 482415,
+      "forks": 35742,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "stars_today": 199,
+      "total_stars": 26968,
+      "forks": 1324,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

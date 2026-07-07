@@ -1720,5 +1720,17 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "bradautomates/claude-video": {
+    "first_seen": "2026-07-07T04:44:32.869926",
+    "tags": []
+  },
+  "sindresorhus/awesome": {
+    "first_seen": "2026-07-07T04:44:32.869935",
+    "tags": []
+  },
+  "karakeep-app/karakeep": {
+    "first_seen": "2026-07-07T04:44:32.869937",
+    "tags": []
   }
 }
