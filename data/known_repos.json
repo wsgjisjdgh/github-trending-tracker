@@ -1732,5 +1732,23 @@
   "karakeep-app/karakeep": {
     "first_seen": "2026-07-07T04:44:32.869937",
     "tags": []
+  },
+  "MadsLorentzen/ai-job-search": {
+    "first_seen": "2026-07-08T04:09:54.518905",
+    "tags": []
+  },
+  "iOfficeAI/OfficeCLI": {
+    "first_seen": "2026-07-08T04:09:54.518918",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "kyutai-labs/pocket-tts": {
+    "first_seen": "2026-07-08T04:09:54.518923",
+    "tags": []
+  },
+  "AhmadIbrahiim/Website-downloader": {
+    "first_seen": "2026-07-08T04:09:54.518925",
+    "tags": []
   }
 }
