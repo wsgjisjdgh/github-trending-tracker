@@ -1750,5 +1750,33 @@
   "AhmadIbrahiim/Website-downloader": {
     "first_seen": "2026-07-08T04:09:54.518925",
     "tags": []
+  },
+  "TencentCloud/TencentDB-Agent-Memory": {
+    "first_seen": "2026-07-09T04:44:33.113952",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "huxingyi/autoremesher": {
+    "first_seen": "2026-07-09T04:44:33.113962",
+    "tags": []
+  },
+  "prisma/prisma": {
+    "first_seen": "2026-07-09T04:44:33.113967",
+    "tags": []
+  },
+  "argoproj/argo-cd": {
+    "first_seen": "2026-07-09T04:44:33.113969",
+    "tags": [
+      "AI部署",
+      "AI Infra"
+    ]
+  },
+  "wonderwhy-er/DesktopCommanderMCP": {
+    "first_seen": "2026-07-09T04:44:33.113970",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
