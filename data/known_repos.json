@@ -1778,5 +1778,22 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "VoltAgent/awesome-design-md": {
+    "first_seen": "2026-07-10T04:44:21.490110",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "vxcontrol/pentagi": {
+    "first_seen": "2026-07-10T04:44:21.490120",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "SmartlyDressedGames/U3-SDK": {
+    "first_seen": "2026-07-10T04:44:21.490124",
+    "tags": []
   }
 }

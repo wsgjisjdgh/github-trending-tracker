@@ -1,0 +1,206 @@
+{
+  "all": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars_today": 3716,
+      "total_stars": 19513,
+      "forks": 5593,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 2554,
+      "total_stars": 76083,
+      "forks": 8180,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "stars_today": 1929,
+      "total_stars": 13687,
+      "forks": 929,
+      "lang": "C#",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars_today": 1391,
+      "total_stars": 99973,
+      "forks": 11590,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+      "stars_today": 1125,
+      "total_stars": 55278,
+      "forks": 9036,
+      "lang": "JavaScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars_today": 718,
+      "total_stars": 6808,
+      "forks": 776,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars_today": 535,
+      "total_stars": 19536,
+      "forks": 2630,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "stars_today": 524,
+      "total_stars": 2118,
+      "forks": 268,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "desc": "Automatic quad remeshing tool",
+      "stars_today": 403,
+      "total_stars": 2409,
+      "forks": 175,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "prisma/prisma",
+      "desc": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "stars_today": 376,
+      "total_stars": 46947,
+      "forks": 2332,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "desc": "An evolving how-to guide for securing a Linux server.",
+      "stars_today": 243,
+      "total_stars": 29169,
+      "forks": 1942,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "desc": "A TTS that fits in your CPU (and pocket)",
+      "stars_today": 235,
+      "total_stars": 7052,
+      "forks": 707,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars_today": 215,
+      "total_stars": 71939,
+      "forks": 7383,
+      "lang": "Python",
+      "tags": [],
+      "cn": "智能爬虫/数据采集工具；大语言模型相关工具或资源"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars_today": 194,
+      "total_stars": 47244,
+      "forks": 5559,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars_today": 185,
+      "total_stars": 6606,
+      "forks": 782,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars_today": 1391,
+      "total_stars": 99973,
+      "forks": 11590,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars_today": 535,
+      "total_stars": 19536,
+      "forks": 2630,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "stars_today": 524,
+      "total_stars": 2118,
+      "forks": 268,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
