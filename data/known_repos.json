@@ -1795,5 +1795,60 @@
   "SmartlyDressedGames/U3-SDK": {
     "first_seen": "2026-07-10T04:44:21.490124",
     "tags": []
+  },
+  "vercel/next.js": {
+    "first_seen": "2026-07-11T04:07:51.974717",
+    "tags": []
+  },
+  "microsoft/TypeScript": {
+    "first_seen": "2026-07-11T04:07:51.974732",
+    "tags": []
+  },
+  "hashicorp/terraform": {
+    "first_seen": "2026-07-11T04:07:51.974734",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "tailscale/tailscale": {
+    "first_seen": "2026-07-11T04:07:51.974736",
+    "tags": []
+  },
+  "davila7/claude-code-templates": {
+    "first_seen": "2026-07-11T04:07:51.974738",
+    "tags": []
+  },
+  "google-labs-code/stitch-skills": {
+    "first_seen": "2026-07-11T04:07:51.974739",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "chriskohlhoff/asio": {
+    "first_seen": "2026-07-11T04:07:51.974741",
+    "tags": []
+  },
+  "zeux/meshoptimizer": {
+    "first_seen": "2026-07-11T04:07:51.974742",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "abseil/abseil-cpp": {
+    "first_seen": "2026-07-11T04:07:51.974743",
+    "tags": []
+  },
+  "grpc/grpc": {
+    "first_seen": "2026-07-11T04:07:51.974744",
+    "tags": []
+  },
+  "catchorg/Catch2": {
+    "first_seen": "2026-07-11T04:07:51.974745",
+    "tags": []
+  },
+  "jbeder/yaml-cpp": {
+    "first_seen": "2026-07-11T04:07:51.974746",
+    "tags": []
   }
 }

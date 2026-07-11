@@ -1,0 +1,345 @@
+{
+  "all": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 1712,
+      "total_stars": 164797,
+      "forks": 14177,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation require",
+      "stars_today": 1224,
+      "total_stars": 14531,
+      "forks": 991,
+      "lang": "C#",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1116,
+      "total_stars": 76910,
+      "forks": 8262,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 1013,
+      "total_stars": 251880,
+      "forks": 22478,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars_today": 328,
+      "total_stars": 7389,
+      "forks": 935,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars_today": 209,
+      "total_stars": 94303,
+      "forks": 4940,
+      "lang": "Rust",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vercel/next.js",
+      "desc": "The React Framework",
+      "stars_today": 191,
+      "total_stars": 140752,
+      "forks": 31527,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "stars_today": 177,
+      "total_stars": 109802,
+      "forks": 13634,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "stars_today": 172,
+      "total_stars": 49198,
+      "forks": 10674,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars_today": 143,
+      "total_stars": 33703,
+      "forks": 2913,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars_today": 123,
+      "total_stars": 8284,
+      "forks": 762,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 118,
+      "total_stars": 28795,
+      "forks": 3161,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars_today": 117,
+      "total_stars": 6790,
+      "forks": 931,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "stars_today": 92,
+      "total_stars": 6080,
+      "forks": 1500,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars_today": 91,
+      "total_stars": 8036,
+      "forks": 783,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "stars_today": 89,
+      "total_stars": 17539,
+      "forks": 3195,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "grpc/grpc",
+      "desc": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "stars_today": 78,
+      "total_stars": 45153,
+      "forks": 11324,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "stars_today": 76,
+      "total_stars": 20624,
+      "forks": 3409,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "desc": "A YAML parser and emitter in C++",
+      "stars_today": 69,
+      "total_stars": 6091,
+      "forks": 2257,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "vercel/next.js",
+      "desc": "The React Framework",
+      "stars_today": 191,
+      "total_stars": 140752,
+      "forks": 31527,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "stars_today": 177,
+      "total_stars": 109802,
+      "forks": 13634,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "stars_today": 172,
+      "total_stars": 49198,
+      "forks": 10674,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+      "stars_today": 143,
+      "total_stars": 33703,
+      "forks": 2913,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 118,
+      "total_stars": 28795,
+      "forks": 3161,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars_today": 117,
+      "total_stars": 6790,
+      "forks": 931,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "stars_today": 92,
+      "total_stars": 6080,
+      "forks": 1500,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars_today": 91,
+      "total_stars": 8036,
+      "forks": 783,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "stars_today": 89,
+      "total_stars": 17539,
+      "forks": 3195,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "grpc/grpc",
+      "desc": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "stars_today": 78,
+      "total_stars": 45153,
+      "forks": 11324,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "stars_today": 76,
+      "total_stars": 20624,
+      "forks": 3409,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "desc": "A YAML parser and emitter in C++",
+      "stars_today": 69,
+      "total_stars": 6091,
+      "forks": 2257,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
