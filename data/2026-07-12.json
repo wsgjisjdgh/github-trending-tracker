@@ -1,0 +1,314 @@
+{
+  "all": [
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars_today": 909,
+      "total_stars": 7806,
+      "forks": 972,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "malisper/pgrust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "stars_today": 774,
+      "total_stars": 2135,
+      "forks": 54,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 740,
+      "total_stars": 252539,
+      "forks": 22542,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "stars_today": 658,
+      "total_stars": 94581,
+      "forks": 4955,
+      "lang": "Rust",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars_today": 340,
+      "total_stars": 7115,
+      "forks": 947,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "vercel/next.js",
+      "desc": "The React Framework",
+      "stars_today": 334,
+      "total_stars": 140977,
+      "forks": 31549,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 232,
+      "total_stars": 29058,
+      "forks": 3187,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo",
+      "stars_today": 229,
+      "total_stars": 49389,
+      "forks": 10682,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars_today": 219,
+      "total_stars": 47997,
+      "forks": 5679,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "stars_today": 118,
+      "total_stars": 17835,
+      "forks": 3209,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "stars_today": 113,
+      "total_stars": 21108,
+      "forks": 3428,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "stars_today": 110,
+      "total_stars": 8152,
+      "forks": 786,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza",
+      "stars_today": 81,
+      "total_stars": 33330,
+      "forks": 3608,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "home-assistant/core",
+      "desc": "🏡 Open source home automation that puts local control and privacy first.",
+      "stars_today": 80,
+      "total_stars": 88739,
+      "forks": 38051,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "stars_today": 76,
+      "total_stars": 6145,
+      "forks": 1507,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "stars_today": 39,
+      "total_stars": 136457,
+      "forks": 8365,
+      "lang": "C",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "prisma/prisma",
+      "desc": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "stars_today": 37,
+      "total_stars": 47274,
+      "forks": 2474,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openai/plugins",
+      "desc": "OpenAI Plugins",
+      "stars_today": 29,
+      "total_stars": 4443,
+      "forks": 659,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "stars_today": 24,
+      "total_stars": 69609,
+      "forks": 24277,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "nasa/fprime",
+      "desc": "F´ - A flight software and embedded systems framework",
+      "stars_today": 22,
+      "total_stars": 11511,
+      "forks": 1729,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars_today": 19,
+      "total_stars": 50638,
+      "forks": 3591,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "nuxt/nuxt",
+      "desc": "the full-stack Vue framework",
+      "stars_today": 16,
+      "total_stars": 60741,
+      "forks": 5841,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "actions/checkout",
+      "desc": "Action for checking out a repo",
+      "stars_today": 8,
+      "total_stars": 8474,
+      "forks": 2713,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "stars_today": 4,
+      "total_stars": 38313,
+      "forks": 10884,
+      "lang": "C#",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    }
+  ],
+  "new": [
+    {
+      "name": "malisper/pgrust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "stars_today": 774,
+      "total_stars": 2135,
+      "forks": 54,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "desc": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza",
+      "stars_today": 81,
+      "total_stars": 33330,
+      "forks": 3608,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "home-assistant/core",
+      "desc": "🏡 Open source home automation that puts local control and privacy first.",
+      "stars_today": 80,
+      "total_stars": 88739,
+      "forks": 38051,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nasa/fprime",
+      "desc": "F´ - A flight software and embedded systems framework",
+      "stars_today": 22,
+      "total_stars": 11511,
+      "forks": 1729,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "nuxt/nuxt",
+      "desc": "the full-stack Vue framework",
+      "stars_today": 16,
+      "total_stars": 60741,
+      "forks": 5841,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    }
+  ]
+}

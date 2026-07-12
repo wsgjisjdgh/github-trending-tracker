@@ -1850,5 +1850,25 @@
   "jbeder/yaml-cpp": {
     "first_seen": "2026-07-11T04:07:51.974746",
     "tags": []
+  },
+  "malisper/pgrust": {
+    "first_seen": "2026-07-12T04:21:37.605570",
+    "tags": []
+  },
+  "DayuanJiang/next-ai-draw-io": {
+    "first_seen": "2026-07-12T04:21:37.605585",
+    "tags": []
+  },
+  "home-assistant/core": {
+    "first_seen": "2026-07-12T04:21:37.605587",
+    "tags": []
+  },
+  "nasa/fprime": {
+    "first_seen": "2026-07-12T04:21:37.605589",
+    "tags": []
+  },
+  "nuxt/nuxt": {
+    "first_seen": "2026-07-12T04:21:37.605590",
+    "tags": []
   }
 }
