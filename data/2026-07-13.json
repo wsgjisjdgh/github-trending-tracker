@@ -1,0 +1,299 @@
+{
+  "all": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 768,
+      "total_stars": 20757,
+      "forks": 3620,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars_today": 609,
+      "total_stars": 7022,
+      "forks": 19648,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "malisper/pgrust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "stars_today": 518,
+      "total_stars": 2562,
+      "forks": 73,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars_today": 459,
+      "total_stars": 48532,
+      "forks": 5740,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars_today": 444,
+      "total_stars": 3120,
+      "forks": 113,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars_today": 408,
+      "total_stars": 118765,
+      "forks": 17653,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "home-assistant/core",
+      "desc": "🏡 Open source home automation that puts local control and privacy first.",
+      "stars_today": 400,
+      "total_stars": 89152,
+      "forks": 38089,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "stars_today": 314,
+      "total_stars": 1344,
+      "forks": 79,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 274,
+      "total_stars": 29279,
+      "forks": 3207,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "stars_today": 210,
+      "total_stars": 8035,
+      "forks": 991,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 155,
+      "total_stars": 4422,
+      "forks": 255,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "stars_today": 154,
+      "total_stars": 45302,
+      "forks": 2857,
+      "lang": "Dart",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars_today": 125,
+      "total_stars": 33879,
+      "forks": 3397,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "stars_today": 115,
+      "total_stars": 61467,
+      "forks": 10867,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "desc": "No description",
+      "stars_today": 75,
+      "total_stars": 13787,
+      "forks": 2897,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "stars_today": 66,
+      "total_stars": 23212,
+      "forks": 2398,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "desc": "An open-source background agents coding system",
+      "stars_today": 16,
+      "total_stars": 2307,
+      "forks": 343,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars_today": 609,
+      "total_stars": 7022,
+      "forks": 19648,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars_today": 444,
+      "total_stars": 3120,
+      "forks": 113,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars_today": 408,
+      "total_stars": 118765,
+      "forks": 17653,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "stars_today": 314,
+      "total_stars": 1344,
+      "forks": 79,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 155,
+      "total_stars": 4422,
+      "forks": 255,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "stars_today": 115,
+      "total_stars": 61467,
+      "forks": 10867,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "desc": "No description",
+      "stars_today": 75,
+      "total_stars": 13787,
+      "forks": 2897,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "stars_today": 66,
+      "total_stars": 23212,
+      "forks": 2398,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "desc": "An open-source background agents coding system",
+      "stars_today": 16,
+      "total_stars": 2307,
+      "forks": 343,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

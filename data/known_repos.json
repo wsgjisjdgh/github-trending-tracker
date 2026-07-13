@@ -1870,5 +1870,55 @@
   "nuxt/nuxt": {
     "first_seen": "2026-07-12T04:21:37.605590",
     "tags": []
+  },
+  "k1tbyte/Wand-Enhancer": {
+    "first_seen": "2026-07-13T04:25:35.366103",
+    "tags": []
+  },
+  "Dicklesworthstone/destructive_command_guard": {
+    "first_seen": "2026-07-13T04:25:35.366115",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "first_seen": "2026-07-13T04:25:35.366117",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "par274/sharpemu": {
+    "first_seen": "2026-07-13T04:25:35.366121",
+    "tags": []
+  },
+  "Nutlope/hallmark": {
+    "first_seen": "2026-07-13T04:25:35.366123",
+    "tags": [
+      "Vibe Coding"
+    ]
+  },
+  "virattt/ai-hedge-fund": {
+    "first_seen": "2026-07-13T04:25:35.366125",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "pingdotgg/t3code": {
+    "first_seen": "2026-07-13T04:25:35.366127",
+    "tags": []
+  },
+  "PrefectHQ/prefect": {
+    "first_seen": "2026-07-13T04:25:35.366128",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "ColeMurray/background-agents": {
+    "first_seen": "2026-07-13T04:25:35.366132",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
   }
 }
