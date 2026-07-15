@@ -1,0 +1,205 @@
+{
+  "all": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 4276,
+      "total_stars": 69398,
+      "forks": 7220,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "stars_today": 1851,
+      "total_stars": 86595,
+      "forks": 8517,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率；数据库相关工具"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 1679,
+      "total_stars": 170645,
+      "forks": 14682,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 1256,
+      "total_stars": 23006,
+      "forks": 3948,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars_today": 1106,
+      "total_stars": 121035,
+      "forks": 17903,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 1015,
+      "total_stars": 6288,
+      "forks": 357,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars_today": 851,
+      "total_stars": 13682,
+      "forks": 1635,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+      "stars_today": 783,
+      "total_stars": 51830,
+      "forks": 2139,
+      "lang": "PowerShell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars_today": 473,
+      "total_stars": 4471,
+      "forks": 167,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "penpot/penpot",
+      "desc": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "stars_today": 395,
+      "total_stars": 56226,
+      "forks": 3694,
+      "lang": "Clojure",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "stars_today": 332,
+      "total_stars": 2197,
+      "forks": 141,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "stars_today": 186,
+      "total_stars": 5901,
+      "forks": 1931,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars_today": 112,
+      "total_stars": 5356,
+      "forks": 711,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "stars_today": 109,
+      "total_stars": 61937,
+      "forks": 10917,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "stars_today": 85,
+      "total_stars": 2692,
+      "forks": 281,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "chenyme/grok2api",
+      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "stars_today": 186,
+      "total_stars": 5901,
+      "forks": 1931,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars_today": 112,
+      "total_stars": 5356,
+      "forks": 711,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "stars_today": 85,
+      "total_stars": 2692,
+      "forks": 281,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
