@@ -1,0 +1,186 @@
+{
+  "all": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 2130,
+      "total_stars": 172585,
+      "forks": 14819,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 1664,
+      "total_stars": 72214,
+      "forks": 7373,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 1277,
+      "total_stars": 8941,
+      "forks": 458,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars_today": 1236,
+      "total_stars": 122049,
+      "forks": 18011,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars_today": 949,
+      "total_stars": 14478,
+      "forks": 1735,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 915,
+      "total_stars": 23806,
+      "forks": 4051,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars_today": 725,
+      "total_stars": 6004,
+      "forks": 748,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "stars_today": 471,
+      "total_stars": 4819,
+      "forks": 180,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars_today": 340,
+      "total_stars": 39864,
+      "forks": 6326,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for low-cost models",
+      "stars_today": 299,
+      "total_stars": 65571,
+      "forks": 5657,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars_today": 172,
+      "total_stars": 26391,
+      "forks": 3580,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars_today": 110,
+      "total_stars": 42586,
+      "forks": 4253,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "stars_today": 38,
+      "total_stars": 1441,
+      "forks": 355,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for low-cost models",
+      "stars_today": 299,
+      "total_stars": 65571,
+      "forks": 5657,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars_today": 172,
+      "total_stars": 26391,
+      "forks": 3580,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "stars_today": 38,
+      "total_stars": 1441,
+      "forks": 355,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

@@ -1946,5 +1946,20 @@
   "AIEraDev/Clypra": {
     "first_seen": "2026-07-15T03:53:48.763973",
     "tags": []
+  },
+  "openinterpreter/openinterpreter": {
+    "first_seen": "2026-07-16T03:56:30.160430",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "HKUDS/DeepTutor": {
+    "first_seen": "2026-07-16T03:56:30.160440",
+    "tags": []
+  },
+  "YimMenu/YimMenuV2": {
+    "first_seen": "2026-07-16T03:56:30.160442",
+    "tags": []
   }
 }
