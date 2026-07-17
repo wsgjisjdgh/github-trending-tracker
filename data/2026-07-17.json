@@ -1,0 +1,264 @@
+{
+  "all": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 3537,
+      "total_stars": 74164,
+      "forks": 7489,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 3372,
+      "total_stars": 11110,
+      "forks": 552,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars_today": 2060,
+      "total_stars": 174478,
+      "forks": 14968,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable",
+      "stars_today": 1107,
+      "total_stars": 89261,
+      "forks": 8712,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率；数据库相关工具"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "stars_today": 923,
+      "total_stars": 123041,
+      "forks": 18138,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "stars_today": 710,
+      "total_stars": 15130,
+      "forks": 1819,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "stars_today": 661,
+      "total_stars": 66041,
+      "forks": 5677,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars_today": 656,
+      "total_stars": 26963,
+      "forks": 3620,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 435,
+      "total_stars": 526450,
+      "forks": 49805,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "stars_today": 196,
+      "total_stars": 1560,
+      "forks": 156,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "stars_today": 178,
+      "total_stars": 4368,
+      "forks": 186,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "stars_today": 128,
+      "total_stars": 1516,
+      "forks": 362,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ossu/computer-science",
+      "desc": "🎓 Path to a free self-taught education in Computer Science!",
+      "stars_today": 107,
+      "total_stars": 206622,
+      "forks": 25632,
+      "lang": "HTML",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars_today": 77,
+      "total_stars": 35903,
+      "forks": 2996,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars_today": 71,
+      "total_stars": 80240,
+      "forks": 15614,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic",
+      "stars_today": 60,
+      "total_stars": 965,
+      "forks": 138,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 13,
+      "total_stars": 9680,
+      "forks": 1319,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "stars_today": 196,
+      "total_stars": 1560,
+      "forks": 156,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "stars_today": 178,
+      "total_stars": 4368,
+      "forks": 186,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ossu/computer-science",
+      "desc": "🎓 Path to a free self-taught education in Computer Science!",
+      "stars_today": 107,
+      "total_stars": 206622,
+      "forks": 25632,
+      "lang": "HTML",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars_today": 77,
+      "total_stars": 35903,
+      "forks": 2996,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars_today": 71,
+      "total_stars": 80240,
+      "forks": 15614,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic",
+      "stars_today": 60,
+      "total_stars": 965,
+      "forks": 138,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

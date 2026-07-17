@@ -1961,5 +1961,36 @@
   "YimMenu/YimMenuV2": {
     "first_seen": "2026-07-16T03:56:30.160442",
     "tags": []
+  },
+  "PrismML-Eng/Bonsai-demo": {
+    "first_seen": "2026-07-17T03:55:59.387139",
+    "tags": []
+  },
+  "ibelick/ui-skills": {
+    "first_seen": "2026-07-17T03:55:59.387148",
+    "tags": []
+  },
+  "ossu/computer-science": {
+    "first_seen": "2026-07-17T03:55:59.387151",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "PostHog/posthog": {
+    "first_seen": "2026-07-17T03:55:59.387152",
+    "tags": [
+      "AI Agent",
+      "AI编程提效"
+    ]
+  },
+  "lobehub/lobehub": {
+    "first_seen": "2026-07-17T03:55:59.387153",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "apache/ossie": {
+    "first_seen": "2026-07-17T03:55:59.387154",
+    "tags": []
   }
 }
