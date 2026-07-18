@@ -1,0 +1,197 @@
+{
+  "all": [
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 1485,
+      "total_stars": 12156,
+      "forks": 609,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 1074,
+      "total_stars": 74956,
+      "forks": 7554,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 1068,
+      "total_stars": 527512,
+      "forks": 49918,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars_today": 531,
+      "total_stars": 27417,
+      "forks": 3652,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars_today": 438,
+      "total_stars": 36242,
+      "forks": 3010,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "stars_today": 431,
+      "total_stars": 66426,
+      "forks": 5707,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars_today": 280,
+      "total_stars": 13369,
+      "forks": 1179,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "stars_today": 278,
+      "total_stars": 1728,
+      "forks": 167,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 233,
+      "total_stars": 9813,
+      "forks": 1332,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "stars_today": 200,
+      "total_stars": 6682,
+      "forks": 812,
+      "lang": "TypeScript",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "stars_today": 91,
+      "total_stars": 17888,
+      "forks": 1771,
+      "lang": "Ruby",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars_today": 74,
+      "total_stars": 19805,
+      "forks": 2111,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "desc": "No description",
+      "stars_today": 45,
+      "total_stars": 1613,
+      "forks": 490,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "stars_today": 11,
+      "total_stars": 71549,
+      "forks": 16193,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars_today": 74,
+      "total_stars": 19805,
+      "forks": 2111,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "desc": "No description",
+      "stars_today": 45,
+      "total_stars": 1613,
+      "forks": 490,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "stars_today": 11,
+      "total_stars": 71549,
+      "forks": 16193,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

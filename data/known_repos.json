@@ -1992,5 +1992,20 @@
   "apache/ossie": {
     "first_seen": "2026-07-17T03:55:59.387154",
     "tags": []
+  },
+  "tirth8205/code-review-graph": {
+    "first_seen": "2026-07-18T03:50:04.183455",
+    "tags": [
+      "AI Agent",
+      "AI编程提效"
+    ]
+  },
+  "anthropics/cwc-workshops": {
+    "first_seen": "2026-07-18T03:50:04.183467",
+    "tags": []
+  },
+  "protocolbuffers/protobuf": {
+    "first_seen": "2026-07-18T03:50:04.183469",
+    "tags": []
   }
 }
