@@ -2007,5 +2007,24 @@
   "protocolbuffers/protobuf": {
     "first_seen": "2026-07-18T03:50:04.183469",
     "tags": []
+  },
+  "KnockOutEZ/wigolo": {
+    "first_seen": "2026-07-19T04:17:39.080430",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效",
+      "AI for Science"
+    ]
+  },
+  "elder-plinius/G0DM0D3": {
+    "first_seen": "2026-07-19T04:17:39.080442",
+    "tags": []
+  },
+  "MoonshotAI/kimi-cli": {
+    "first_seen": "2026-07-19T04:17:39.080445",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }

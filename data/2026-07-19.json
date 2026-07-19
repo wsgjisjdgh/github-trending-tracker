@@ -1,0 +1,170 @@
+{
+  "all": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 1126,
+      "total_stars": 528369,
+      "forks": 49996,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "stars_today": 831,
+      "total_stars": 13050,
+      "forks": 1351,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars_today": 355,
+      "total_stars": 20249,
+      "forks": 2129,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture al",
+      "stars_today": 338,
+      "total_stars": 36640,
+      "forks": 3032,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars_today": 203,
+      "total_stars": 1309,
+      "forks": 88,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 191,
+      "total_stars": 39172,
+      "forks": 6555,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 161,
+      "total_stars": 23378,
+      "forks": 2658,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "stars_today": 123,
+      "total_stars": 5106,
+      "forks": 219,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "desc": "LIBERATED AI CHAT",
+      "stars_today": 69,
+      "total_stars": 9551,
+      "forks": 2257,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "stars_today": 65,
+      "total_stars": 9539,
+      "forks": 1168,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic",
+      "stars_today": 47,
+      "total_stars": 1303,
+      "forks": 156,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars_today": 203,
+      "total_stars": 1309,
+      "forks": 88,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "desc": "LIBERATED AI CHAT",
+      "stars_today": 69,
+      "total_stars": 9551,
+      "forks": 2257,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "stars_today": 65,
+      "total_stars": 9539,
+      "forks": 1168,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    }
+  ]
+}
