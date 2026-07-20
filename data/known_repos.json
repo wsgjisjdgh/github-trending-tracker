@@ -2026,5 +2026,41 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "bojieli/ai-agent-book": {
+    "first_seen": "2026-07-20T04:32:01.711764",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "kvcache-ai/ktransformers": {
+    "first_seen": "2026-07-20T04:32:01.711779",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "PKUFlyingPig/cs-self-learning": {
+    "first_seen": "2026-07-20T04:32:01.711781",
+    "tags": []
+  },
+  "Canner/WrenAI": {
+    "first_seen": "2026-07-20T04:32:01.711782",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "AstrBotDevs/AstrBot": {
+    "first_seen": "2026-07-20T04:32:01.711783",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "microsoft/terminal": {
+    "first_seen": "2026-07-20T04:32:01.711784",
+    "tags": []
+  },
+  "andrewrabert/jellium-desktop": {
+    "first_seen": "2026-07-20T04:32:01.711785",
+    "tags": []
   }
 }
