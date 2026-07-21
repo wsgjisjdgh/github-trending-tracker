@@ -2062,5 +2062,37 @@
   "andrewrabert/jellium-desktop": {
     "first_seen": "2026-07-20T04:32:01.711785",
     "tags": []
+  },
+  "oblien/openship": {
+    "first_seen": "2026-07-21T04:11:16.504943",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "microsoft/Ontology-Playground": {
+    "first_seen": "2026-07-21T04:11:16.504956",
+    "tags": []
+  },
+  "handy-computer/transcribe.cpp": {
+    "first_seen": "2026-07-21T04:11:16.504958",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "tokio-rs/topcoat": {
+    "first_seen": "2026-07-21T04:11:16.504960",
+    "tags": []
+  },
+  "moonshine-ai/moonshine": {
+    "first_seen": "2026-07-21T04:11:16.504962",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "PrefectHQ/fastmcp": {
+    "first_seen": "2026-07-21T04:11:16.504963",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }

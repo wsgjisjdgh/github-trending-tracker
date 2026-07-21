@@ -1,0 +1,307 @@
+{
+  "all": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars_today": 1833,
+      "total_stars": 23537,
+      "forks": 2288,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "stars_today": 1641,
+      "total_stars": 5005,
+      "forks": 347,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. ",
+      "stars_today": 1107,
+      "total_stars": 22126,
+      "forks": 2990,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "stars_today": 939,
+      "total_stars": 5991,
+      "forks": 655,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 862,
+      "total_stars": 134863,
+      "forks": 21982,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 823,
+      "total_stars": 40712,
+      "forks": 6749,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars_today": 821,
+      "total_stars": 44332,
+      "forks": 5394,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars_today": 689,
+      "total_stars": 2646,
+      "forks": 156,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "desc": "The most intelligent agent harness for code",
+      "stars_today": 568,
+      "total_stars": 9765,
+      "forks": 1088,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "stars_today": 565,
+      "total_stars": 14339,
+      "forks": 1488,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagram",
+      "stars_today": 464,
+      "total_stars": 1781,
+      "forks": 235,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars_today": 458,
+      "total_stars": 18769,
+      "forks": 1463,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "stars_today": 410,
+      "total_stars": 10293,
+      "forks": 1223,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "desc": "ggml speech-to-text inference for 16+ model families",
+      "stars_today": 395,
+      "total_stars": 1328,
+      "forks": 32,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "stars_today": 371,
+      "total_stars": 1643,
+      "forks": 42,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars_today": 317,
+      "total_stars": 37171,
+      "forks": 2586,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "desc": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "stars_today": 282,
+      "total_stars": 9954,
+      "forks": 521,
+      "lang": "C++",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "stars_today": 240,
+      "total_stars": 133822,
+      "forks": 7565,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars_today": 234,
+      "total_stars": 28854,
+      "forks": 2746,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "desc": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "stars_today": 96,
+      "total_stars": 26590,
+      "forks": 2165,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ],
+  "new": [
+    {
+      "name": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "stars_today": 1641,
+      "total_stars": 5005,
+      "forks": 347,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagram",
+      "stars_today": 464,
+      "total_stars": 1781,
+      "forks": 235,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "desc": "ggml speech-to-text inference for 16+ model families",
+      "stars_today": 395,
+      "total_stars": 1328,
+      "forks": 32,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "stars_today": 371,
+      "total_stars": 1643,
+      "forks": 42,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "desc": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "stars_today": 282,
+      "total_stars": 9954,
+      "forks": 521,
+      "lang": "C++",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "desc": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "stars_today": 96,
+      "total_stars": 26590,
+      "forks": 2165,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ]
+}
