@@ -2094,5 +2094,63 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "ayghri/i-have-adhd": {
+    "first_seen": "2026-07-22T04:12:30.401510",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "chrislgarry/Apollo-11": {
+    "first_seen": "2026-07-22T04:12:30.401521",
+    "tags": []
+  },
+  "schollz/croc": {
+    "first_seen": "2026-07-22T04:12:30.401526",
+    "tags": []
+  },
+  "agegr/pi-web": {
+    "first_seen": "2026-07-22T04:12:30.401528",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "earthtojake/text-to-cad": {
+    "first_seen": "2026-07-22T04:12:30.401530",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "DioxusLabs/dioxus": {
+    "first_seen": "2026-07-22T04:12:30.401531",
+    "tags": []
+  },
+  "AlexsJones/llmfit": {
+    "first_seen": "2026-07-22T04:12:30.401533",
+    "tags": []
+  },
+  "tradesdontlie/tradingview-mcp": {
+    "first_seen": "2026-07-22T04:12:30.401534",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
+  },
+  "dottxt-ai/outlines": {
+    "first_seen": "2026-07-22T04:12:30.401535",
+    "tags": []
+  },
+  "hyprwm/Hyprland": {
+    "first_seen": "2026-07-22T04:12:30.401536",
+    "tags": []
+  },
+  "langchain-ai/open_deep_research": {
+    "first_seen": "2026-07-22T04:12:30.401537",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
   }
 }
