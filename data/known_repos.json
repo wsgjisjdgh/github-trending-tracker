@@ -2152,5 +2152,21 @@
       "AI Agent",
       "AI for Science"
     ]
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "first_seen": "2026-07-23T04:10:27.644743",
+    "tags": []
+  },
+  "Pumpkin-MC/Pumpkin": {
+    "first_seen": "2026-07-23T04:10:27.644753",
+    "tags": []
+  },
+  "likec4/likec4": {
+    "first_seen": "2026-07-23T04:10:27.644755",
+    "tags": []
+  },
+  "dreamhunter2333/cloudflare_temp_email": {
+    "first_seen": "2026-07-23T04:10:27.644756",
+    "tags": []
   }
 }

@@ -1,0 +1,255 @@
+{
+  "all": [
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars_today": 4139,
+      "total_stars": 69427,
+      "forks": 10593,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars_today": 1699,
+      "total_stars": 8479,
+      "forks": 389,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+      "stars_today": 1651,
+      "total_stars": 25578,
+      "forks": 3378,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "stars_today": 1302,
+      "total_stars": 7405,
+      "forks": 546,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w",
+      "stars_today": 882,
+      "total_stars": 25435,
+      "forks": 2399,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars_today": 768,
+      "total_stars": 70692,
+      "forks": 7889,
+      "lang": "Assembly",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 741,
+      "total_stars": 84019,
+      "forks": 11251,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "schollz/croc",
+      "desc": "Easily and securely send things from one computer to another 🐊 📦",
+      "stars_today": 739,
+      "total_stars": 37746,
+      "forks": 1491,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 652,
+      "total_stars": 42382,
+      "forks": 7059,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars_today": 557,
+      "total_stars": 45898,
+      "forks": 5595,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "desc": "Fullstack app framework for web, desktop, and mobile.",
+      "stars_today": 420,
+      "total_stars": 38068,
+      "forks": 1789,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "desc": "Structured Outputs",
+      "stars_today": 364,
+      "total_stars": 15155,
+      "forks": 805,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "stars_today": 356,
+      "total_stars": 37330,
+      "forks": 1872,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "stars_today": 314,
+      "total_stars": 2117,
+      "forks": 312,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars_today": 163,
+      "total_stars": 68883,
+      "forks": 7811,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 137,
+      "total_stars": 32674,
+      "forks": 5606,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars_today": 108,
+      "total_stars": 8495,
+      "forks": 595,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars_today": 80,
+      "total_stars": 4370,
+      "forks": 305,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "desc": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "stars_today": 68,
+      "total_stars": 10858,
+      "forks": 7302,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars_today": 163,
+      "total_stars": 68883,
+      "forks": 7811,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars_today": 108,
+      "total_stars": 8495,
+      "forks": 595,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars_today": 80,
+      "total_stars": 4370,
+      "forks": 305,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "desc": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "stars_today": 68,
+      "total_stars": 10858,
+      "forks": 7302,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
