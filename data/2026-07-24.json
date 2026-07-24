@@ -1,0 +1,221 @@
+{
+  "all": [
+    {
+      "name": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars_today": 3175,
+      "total_stars": 71921,
+      "forks": 10823,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "stars_today": 2162,
+      "total_stars": 7332,
+      "forks": 588,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod",
+      "stars_today": 1929,
+      "total_stars": 27461,
+      "forks": 3597,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 1708,
+      "total_stars": 85322,
+      "forks": 11383,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars_today": 636,
+      "total_stars": 69541,
+      "forks": 7861,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars_today": 624,
+      "total_stars": 12436,
+      "forks": 463,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars_today": 592,
+      "total_stars": 71157,
+      "forks": 7924,
+      "lang": "Assembly",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars_today": 565,
+      "total_stars": 8992,
+      "forks": 617,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars_today": 472,
+      "total_stars": 4759,
+      "forks": 325,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 401,
+      "total_stars": 33158,
+      "forks": 5655,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "stars_today": 315,
+      "total_stars": 2433,
+      "forks": 334,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "desc": "The best browser for both you and your AI agents work in parallel.",
+      "stars_today": 247,
+      "total_stars": 1799,
+      "forks": 99,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "desc": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars_today": 230,
+      "total_stars": 10083,
+      "forks": 1108,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
+      "stars_today": 180,
+      "total_stars": 11718,
+      "forks": 809,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend &amp; API",
+      "stars_today": 66,
+      "total_stars": 54776,
+      "forks": 5169,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "stars_today": 2162,
+      "total_stars": 7332,
+      "forks": 588,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars_today": 624,
+      "total_stars": 12436,
+      "forks": 463,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "desc": "The best browser for both you and your AI agents work in parallel.",
+      "stars_today": 247,
+      "total_stars": 1799,
+      "forks": 99,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
+      "stars_today": 180,
+      "total_stars": 11718,
+      "forks": 809,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    }
+  ]
+}

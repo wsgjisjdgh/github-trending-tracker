@@ -2168,5 +2168,27 @@
   "dreamhunter2333/cloudflare_temp_email": {
     "first_seen": "2026-07-23T04:10:27.644756",
     "tags": []
+  },
+  "block/buzz": {
+    "first_seen": "2026-07-24T04:09:13.660049",
+    "tags": []
+  },
+  "Automattic/harper": {
+    "first_seen": "2026-07-24T04:09:13.660061",
+    "tags": []
+  },
+  "citrolabs/ego-lite": {
+    "first_seen": "2026-07-24T04:09:13.660066",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "alibaba/open-code-review": {
+    "first_seen": "2026-07-24T04:09:13.660068",
+    "tags": [
+      "AI Infra",
+      "AI Agent",
+      "AI编程提效"
+    ]
   }
 }
