@@ -1,0 +1,218 @@
+{
+  "all": [
+    {
+      "name": "block/buzz",
+      "desc": "A hive mind communication platform",
+      "stars_today": 2491,
+      "total_stars": 12126,
+      "forks": 974,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1740,
+      "total_stars": 188467,
+      "forks": 16191,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "stars_today": 1720,
+      "total_stars": 28816,
+      "forks": 4345,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars_today": 986,
+      "total_stars": 3705,
+      "forks": 182,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars_today": 577,
+      "total_stars": 70655,
+      "forks": 7946,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars_today": 503,
+      "total_stars": 13466,
+      "forks": 512,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 479,
+      "total_stars": 261167,
+      "forks": 23305,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
+      "stars_today": 431,
+      "total_stars": 13078,
+      "forks": 891,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars_today": 426,
+      "total_stars": 5164,
+      "forks": 487,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；数据库相关工具"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "stars_today": 412,
+      "total_stars": 12264,
+      "forks": 896,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars_today": 408,
+      "total_stars": 45406,
+      "forks": 5423,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 377,
+      "total_stars": 233374,
+      "forks": 35579,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "stars_today": 360,
+      "total_stars": 26727,
+      "forks": 2913,
+      "lang": "Java",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率；数据库相关工具"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars_today": 358,
+      "total_stars": 9742,
+      "forks": 658,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 319,
+      "total_stars": 33844,
+      "forks": 5711,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars_today": 132,
+      "total_stars": 49938,
+      "forks": 5899,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars_today": 86,
+      "total_stars": 14314,
+      "forks": 1270,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "stars_today": 77,
+      "total_stars": 15255,
+      "forks": 1616,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "stars_today": 1720,
+      "total_stars": 28816,
+      "forks": 4345,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
