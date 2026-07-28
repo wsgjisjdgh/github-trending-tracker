@@ -2220,5 +2220,23 @@
   "jenkinsci/jenkins": {
     "first_seen": "2026-07-27T04:31:53.320320",
     "tags": []
+  },
+  "opengeos/GeoLibre": {
+    "first_seen": "2026-07-28T03:55:31.712347",
+    "tags": []
+  },
+  "ocornut/imgui": {
+    "first_seen": "2026-07-28T03:55:31.712357",
+    "tags": []
+  },
+  "vudovn/ag-kit": {
+    "first_seen": "2026-07-28T03:55:31.712358",
+    "tags": []
+  },
+  "apache/cassandra": {
+    "first_seen": "2026-07-28T03:55:31.712360",
+    "tags": [
+      "AI Infra"
+    ]
   }
 }

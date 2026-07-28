@@ -1,0 +1,211 @@
+{
+  "all": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "stars_today": 2346,
+      "total_stars": 32451,
+      "forks": 5084,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thr",
+      "stars_today": 979,
+      "total_stars": 15013,
+      "forks": 1013,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars_today": 847,
+      "total_stars": 51690,
+      "forks": 3050,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "stars_today": 600,
+      "total_stars": 20990,
+      "forks": 678,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars_today": 572,
+      "total_stars": 44180,
+      "forks": 4406,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "desc": "Amnezia VPN Client (Desktop+Mobile)",
+      "stars_today": 515,
+      "total_stars": 13927,
+      "forks": 1036,
+      "lang": "C++",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 441,
+      "total_stars": 34621,
+      "forks": 5801,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars_today": 434,
+      "total_stars": 11251,
+      "forks": 1152,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars_today": 420,
+      "total_stars": 2818,
+      "forks": 362,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars_today": 362,
+      "total_stars": 58420,
+      "forks": 11613,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 240,
+      "total_stars": 54269,
+      "forks": 4701,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "stars_today": 180,
+      "total_stars": 25912,
+      "forks": 9680,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ocornut/imgui",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "stars_today": 51,
+      "total_stars": 75239,
+      "forks": 11970,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "desc": "No description",
+      "stars_today": 14,
+      "total_stars": 7997,
+      "forks": 1512,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "apache/cassandra",
+      "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "stars_today": 11,
+      "total_stars": 9988,
+      "forks": 4008,
+      "lang": "Java",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "数据库相关工具"
+    }
+  ],
+  "new": [
+    {
+      "name": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars_today": 420,
+      "total_stars": 2818,
+      "forks": 362,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "ocornut/imgui",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "stars_today": 51,
+      "total_stars": 75239,
+      "forks": 11970,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "desc": "No description",
+      "stars_today": 14,
+      "total_stars": 7997,
+      "forks": 1512,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "apache/cassandra",
+      "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "stars_today": 11,
+      "total_stars": 9988,
+      "forks": 4008,
+      "lang": "Java",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "数据库相关工具"
+    }
+  ]
+}
