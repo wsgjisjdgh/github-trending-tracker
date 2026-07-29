@@ -2238,5 +2238,33 @@
     "tags": [
       "AI Infra"
     ]
+  },
+  "virgiliojr94/book-to-skill": {
+    "first_seen": "2026-07-29T03:59:42.569275",
+    "tags": []
+  },
+  "paperswithbacktest/awesome-systematic-trading": {
+    "first_seen": "2026-07-29T03:59:42.569288",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "huggingface/speech-to-speech": {
+    "first_seen": "2026-07-29T03:59:42.569290",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "hello245m/free-stockdb": {
+    "first_seen": "2026-07-29T03:59:42.569292",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "microsoft/agent-governance-toolkit": {
+    "first_seen": "2026-07-29T03:59:42.569293",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }

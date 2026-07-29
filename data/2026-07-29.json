@@ -1,0 +1,207 @@
+{
+  "all": [
+    {
+      "name": "bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars_today": 988,
+      "total_stars": 12242,
+      "forks": 1224,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf",
+      "stars_today": 797,
+      "total_stars": 44887,
+      "forks": 4454,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "stars_today": 662,
+      "total_stars": 21560,
+      "forks": 698,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 636,
+      "total_stars": 234951,
+      "forks": 35796,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "stars_today": 607,
+      "total_stars": 3494,
+      "forks": 397,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars_today": 423,
+      "total_stars": 11629,
+      "forks": 1353,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "stars_today": 341,
+      "total_stars": 18879,
+      "forks": 2538,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars_today": 309,
+      "total_stars": 9776,
+      "forks": 1304,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "stars_today": 227,
+      "total_stars": 7361,
+      "forks": 960,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "stars_today": 180,
+      "total_stars": 26108,
+      "forks": 9689,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "stars_today": 62,
+      "total_stars": 15725,
+      "forks": 1657,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "stars_today": 50,
+      "total_stars": 1427,
+      "forks": 215,
+      "lang": "HTML",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars_today": 46,
+      "total_stars": 5281,
+      "forks": 840,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars_today": 423,
+      "total_stars": 11629,
+      "forks": 1353,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars_today": 309,
+      "total_stars": 9776,
+      "forks": 1304,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "stars_today": 227,
+      "total_stars": 7361,
+      "forks": 960,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "stars_today": 50,
+      "total_stars": 1427,
+      "forks": 215,
+      "lang": "HTML",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars_today": 46,
+      "total_stars": 5281,
+      "forks": 840,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}
