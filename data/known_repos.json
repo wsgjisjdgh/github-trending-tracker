@@ -2266,5 +2266,25 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "deepfakes/faceswap": {
+    "first_seen": "2026-07-30T03:51:36.166268",
+    "tags": []
+  },
+  "grokability/snipe-it": {
+    "first_seen": "2026-07-30T03:51:36.166277",
+    "tags": []
+  },
+  "different-ai/openwork": {
+    "first_seen": "2026-07-30T03:51:36.166280",
+    "tags": []
+  },
+  "MoonshotAI/FlashKDA": {
+    "first_seen": "2026-07-30T03:51:36.166281",
+    "tags": []
+  },
+  "maderix/ANE": {
+    "first_seen": "2026-07-30T03:51:36.166282",
+    "tags": []
   }
 }
