@@ -2286,5 +2286,15 @@
   "maderix/ANE": {
     "first_seen": "2026-07-30T03:51:36.166282",
     "tags": []
+  },
+  "agavra/tuicr": {
+    "first_seen": "2026-07-31T04:17:29.736416",
+    "tags": [
+      "AI编程提效"
+    ]
+  },
+  "WhiskeySockets/Baileys": {
+    "first_seen": "2026-07-31T04:17:29.736429",
+    "tags": []
   }
 }
