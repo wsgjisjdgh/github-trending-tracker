@@ -2296,5 +2296,21 @@
   "WhiskeySockets/Baileys": {
     "first_seen": "2026-07-31T04:17:29.736429",
     "tags": []
+  },
+  "zhaoxuya520/reverse-skill": {
+    "first_seen": "2026-08-01T04:16:56.012596",
+    "tags": [
+      "Vibe Coding",
+      "AI编程提效",
+      "AI for Science"
+    ]
+  },
+  "usekaneo/kaneo": {
+    "first_seen": "2026-08-01T04:16:56.012610",
+    "tags": []
+  },
+  "geo-tp/ESP32-Bit-Pirate": {
+    "first_seen": "2026-08-01T04:16:56.012612",
+    "tags": []
   }
 }
