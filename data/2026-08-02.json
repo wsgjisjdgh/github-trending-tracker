@@ -1,0 +1,235 @@
+{
+  "all": [
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars_today": 1320,
+      "total_stars": 12031,
+      "forks": 1819,
+      "lang": "PowerShell",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "stars_today": 949,
+      "total_stars": 57560,
+      "forks": 11387,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars_today": 760,
+      "total_stars": 5742,
+      "forks": 493,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars_today": 523,
+      "total_stars": 12316,
+      "forks": 1517,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "stars_today": 442,
+      "total_stars": 10254,
+      "forks": 1251,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "stars_today": 435,
+      "total_stars": 21655,
+      "forks": 2434,
+      "lang": "Crystal",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+      "stars_today": 227,
+      "total_stars": 10362,
+      "forks": 993,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta",
+      "stars_today": 209,
+      "total_stars": 78779,
+      "forks": 10748,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars_today": 142,
+      "total_stars": 10296,
+      "forks": 1388,
+      "lang": "Java",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "stars_today": 108,
+      "total_stars": 114306,
+      "forks": 61232,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/TRELLIS.2",
+      "desc": "Native and Compact Structured Latents for 3D Generation",
+      "stars_today": 107,
+      "total_stars": 9969,
+      "forks": 1202,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abus-aikorea/voice-pro",
+      "desc": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
+      "stars_today": 58,
+      "total_stars": 11818,
+      "forks": 1727,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "desc": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "stars_today": 53,
+      "total_stars": 6763,
+      "forks": 798,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/gh-stack",
+      "desc": "GitHub Stacked PRs",
+      "stars_today": 46,
+      "total_stars": 843,
+      "forks": 38,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "stars_today": 30,
+      "total_stars": 70125,
+      "forks": 24271,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    }
+  ],
+  "new": [
+    {
+      "name": "iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "stars_today": 435,
+      "total_stars": 21655,
+      "forks": 2434,
+      "lang": "Crystal",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "stars_today": 108,
+      "total_stars": 114306,
+      "forks": 61232,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/TRELLIS.2",
+      "desc": "Native and Compact Structured Latents for 3D Generation",
+      "stars_today": 107,
+      "total_stars": 9969,
+      "forks": 1202,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abus-aikorea/voice-pro",
+      "desc": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 &amp; F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal i",
+      "stars_today": 58,
+      "total_stars": 11818,
+      "forks": 1727,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "desc": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "stars_today": 53,
+      "total_stars": 6763,
+      "forks": 798,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/gh-stack",
+      "desc": "GitHub Stacked PRs",
+      "stars_today": 46,
+      "total_stars": 843,
+      "forks": 38,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

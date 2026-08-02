@@ -2312,5 +2312,29 @@
   "geo-tp/ESP32-Bit-Pirate": {
     "first_seen": "2026-08-01T04:16:56.012612",
     "tags": []
+  },
+  "iv-org/invidious": {
+    "first_seen": "2026-08-02T04:19:35.743197",
+    "tags": []
+  },
+  "microsoft/generative-ai-for-beginners": {
+    "first_seen": "2026-08-02T04:19:35.743208",
+    "tags": []
+  },
+  "microsoft/TRELLIS.2": {
+    "first_seen": "2026-08-02T04:19:35.743210",
+    "tags": []
+  },
+  "abus-aikorea/voice-pro": {
+    "first_seen": "2026-08-02T04:19:35.743212",
+    "tags": []
+  },
+  "NomaDamas/k-skill": {
+    "first_seen": "2026-08-02T04:19:35.743213",
+    "tags": []
+  },
+  "github/gh-stack": {
+    "first_seen": "2026-08-02T04:19:35.743214",
+    "tags": []
   }
 }
