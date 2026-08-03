@@ -2336,5 +2336,23 @@
   "github/gh-stack": {
     "first_seen": "2026-08-02T04:19:35.743214",
     "tags": []
+  },
+  "esengine/DeepSeek-Reasonix": {
+    "first_seen": "2026-08-03T04:24:54.993724",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "antirez/ds4": {
+    "first_seen": "2026-08-03T04:24:54.993751",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "HarbourMasters/Lighthouse": {
+    "first_seen": "2026-08-03T04:24:54.993753",
+    "tags": []
   }
 }

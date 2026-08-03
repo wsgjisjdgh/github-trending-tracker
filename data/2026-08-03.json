@@ -1,0 +1,212 @@
+{
+  "all": [
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "stars_today": 2629,
+      "total_stars": 59495,
+      "forks": 11674,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars_today": 1141,
+      "total_stars": 14008,
+      "forks": 2076,
+      "lang": "PowerShell",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 819,
+      "total_stars": 25863,
+      "forks": 2898,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "stars_today": 674,
+      "total_stars": 535078,
+      "forks": 50576,
+      "lang": "Markdown",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 659,
+      "total_stars": 64922,
+      "forks": 5368,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+      "stars_today": 602,
+      "total_stars": 11288,
+      "forks": 1067,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "stars_today": 588,
+      "total_stars": 114938,
+      "forks": 61317,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars_today": 496,
+      "total_stars": 6298,
+      "forks": 524,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars_today": 333,
+      "total_stars": 29251,
+      "forks": 1886,
+      "lang": "Go",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "stars_today": 305,
+      "total_stars": 22043,
+      "forks": 2463,
+      "lang": "Crystal",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "different-ai/openwork",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars_today": 280,
+      "total_stars": 20442,
+      "forks": 2095,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 206,
+      "total_stars": 56952,
+      "forks": 4987,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "desc": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "stars_today": 177,
+      "total_stars": 6920,
+      "forks": 811,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars_today": 139,
+      "total_stars": 20074,
+      "forks": 1780,
+      "lang": "C",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "HarbourMasters/Lighthouse",
+      "desc": "No description",
+      "stars_today": 65,
+      "total_stars": 246,
+      "forks": 19,
+      "lang": "C",
+      "tags": [],
+      "cn": "暂无简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars_today": 333,
+      "total_stars": 29251,
+      "forks": 1886,
+      "lang": "Go",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "stars_today": 139,
+      "total_stars": 20074,
+      "forks": 1780,
+      "lang": "C",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "HarbourMasters/Lighthouse",
+      "desc": "No description",
+      "stars_today": 65,
+      "total_stars": 246,
+      "forks": 19,
+      "lang": "C",
+      "tags": [],
+      "cn": "暂无简介"
+    }
+  ]
+}
