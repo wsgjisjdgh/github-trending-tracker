@@ -2354,5 +2354,19 @@
   "HarbourMasters/Lighthouse": {
     "first_seen": "2026-08-03T04:24:54.993753",
     "tags": []
+  },
+  "firecrawl/pdf-inspector": {
+    "first_seen": "2026-08-04T03:59:16.234507",
+    "tags": []
+  },
+  "donnemartin/system-design-primer": {
+    "first_seen": "2026-08-04T03:59:16.234519",
+    "tags": []
+  },
+  "livekit/agents": {
+    "first_seen": "2026-08-04T03:59:16.234521",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
