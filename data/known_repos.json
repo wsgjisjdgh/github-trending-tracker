@@ -2368,5 +2368,34 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "uber/ADR": {
+    "first_seen": "2026-08-05T03:54:18.868233",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "tailwindlabs/tailwindcss": {
+    "first_seen": "2026-08-05T03:54:18.868242",
+    "tags": []
+  },
+  "denoland/deno": {
+    "first_seen": "2026-08-05T03:54:18.868246",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "angular/angular": {
+    "first_seen": "2026-08-05T03:54:18.868248",
+    "tags": []
+  },
+  "webpack/webpack": {
+    "first_seen": "2026-08-05T03:54:18.868250",
+    "tags": []
+  },
+  "gabime/spdlog": {
+    "first_seen": "2026-08-05T03:54:18.868252",
+    "tags": []
   }
 }

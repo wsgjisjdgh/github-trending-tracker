@@ -1,0 +1,277 @@
+{
+  "all": [
+    {
+      "name": "firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars_today": 2540,
+      "total_stars": 10253,
+      "forks": 668,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars_today": 2297,
+      "total_stars": 18154,
+      "forks": 2485,
+      "lang": "PowerShell",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 1711,
+      "total_stars": 28505,
+      "forks": 3075,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s",
+      "stars_today": 1111,
+      "total_stars": 13943,
+      "forks": 1297,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars_today": 922,
+      "total_stars": 30912,
+      "forks": 1986,
+      "lang": "Go",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "stars_today": 783,
+      "total_stars": 116357,
+      "forks": 61572,
+      "lang": "Jupyter Notebook",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 653,
+      "total_stars": 266617,
+      "forks": 23836,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars_today": 559,
+      "total_stars": 7339,
+      "forks": 581,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "stars_today": 432,
+      "total_stars": 12482,
+      "forks": 3484,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 320,
+      "total_stars": 19424,
+      "forks": 2416,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "uber/ADR",
+      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "stars_today": 148,
+      "total_stars": 734,
+      "forks": 71,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "stars_today": 52,
+      "total_stars": 96533,
+      "forks": 5537,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "stars_today": 40,
+      "total_stars": 23911,
+      "forks": 1958,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "denoland/deno",
+      "desc": "A modern runtime for JavaScript and TypeScript.",
+      "stars_today": 31,
+      "total_stars": 108082,
+      "forks": 6306,
+      "lang": "Rust",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "angular/angular",
+      "desc": "Deliver web apps with confidence 🚀",
+      "stars_today": 13,
+      "total_stars": 100857,
+      "forks": 27400,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars_today": 11,
+      "total_stars": 50822,
+      "forks": 3628,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "webpack/webpack",
+      "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AM",
+      "stars_today": 10,
+      "total_stars": 65950,
+      "forks": 9529,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "gabime/spdlog",
+      "desc": "Fast C++ logging library.",
+      "stars_today": 10,
+      "total_stars": 29393,
+      "forks": 5372,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "uber/ADR",
+      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "stars_today": 148,
+      "total_stars": 734,
+      "forks": 71,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "stars_today": 52,
+      "total_stars": 96533,
+      "forks": 5537,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "denoland/deno",
+      "desc": "A modern runtime for JavaScript and TypeScript.",
+      "stars_today": 31,
+      "total_stars": 108082,
+      "forks": 6306,
+      "lang": "Rust",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "angular/angular",
+      "desc": "Deliver web apps with confidence 🚀",
+      "stars_today": 13,
+      "total_stars": 100857,
+      "forks": 27400,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "webpack/webpack",
+      "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AM",
+      "stars_today": 10,
+      "total_stars": 65950,
+      "forks": 9529,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "gabime/spdlog",
+      "desc": "Fast C++ logging library.",
+      "stars_today": 10,
+      "total_stars": 29393,
+      "forks": 5372,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
