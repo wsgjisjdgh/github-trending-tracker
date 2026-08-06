@@ -2397,5 +2397,18 @@
   "gabime/spdlog": {
     "first_seen": "2026-08-05T03:54:18.868252",
     "tags": []
+  },
+  "cloudflare/computer": {
+    "first_seen": "2026-08-06T04:00:07.511032",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "huangruiteng/loopx": {
+    "first_seen": "2026-08-06T04:00:07.511044",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
