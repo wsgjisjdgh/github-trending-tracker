@@ -2410,5 +2410,17 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "goauthentik/authentik": {
+    "first_seen": "2026-08-07T03:44:11.654462",
+    "tags": []
+  },
+  "Significant-Gravitas/AutoGPT": {
+    "first_seen": "2026-08-07T03:44:11.654473",
+    "tags": []
+  },
+  "google/guava": {
+    "first_seen": "2026-08-07T03:44:11.654474",
+    "tags": []
   }
 }
