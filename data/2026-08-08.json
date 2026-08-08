@@ -1,0 +1,280 @@
+{
+  "all": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars_today": 2293,
+      "total_stars": 6714,
+      "forks": 536,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 2152,
+      "total_stars": 208927,
+      "forks": 18037,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 1131,
+      "total_stars": 83950,
+      "forks": 8972,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "stars_today": 872,
+      "total_stars": 5812,
+      "forks": 292,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 782,
+      "total_stars": 268788,
+      "forks": 24001,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "stars_today": 530,
+      "total_stars": 23639,
+      "forks": 1810,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "stars_today": 516,
+      "total_stars": 2232,
+      "forks": 63,
+      "lang": "Rust",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars_today": 355,
+      "total_stars": 186345,
+      "forks": 46060,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "stars_today": 327,
+      "total_stars": 16283,
+      "forks": 1293,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "stars_today": 234,
+      "total_stars": 19797,
+      "forks": 643,
+      "lang": "Go",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "google/guava",
+      "desc": "Google core libraries for Java",
+      "stars_today": 152,
+      "total_stars": 51767,
+      "forks": 11176,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "stars_today": 141,
+      "total_stars": 70538,
+      "forks": 10992,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jdx/mise",
+      "desc": "dev tools, env vars, task runner",
+      "stars_today": 135,
+      "total_stars": 32087,
+      "forks": 1336,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars_today": 122,
+      "total_stars": 2375,
+      "forks": 308,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "desc": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "stars_today": 109,
+      "total_stars": 1467,
+      "forks": 191,
+      "lang": "N/A",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "desc": "A simple tool for coordinating several AI agents.",
+      "stars_today": 81,
+      "total_stars": 1850,
+      "forks": 203,
+      "lang": "Clojure",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "stars_today": 55,
+      "total_stars": 7149,
+      "forks": 2170,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars_today": 2293,
+      "total_stars": 6714,
+      "forks": 536,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "stars_today": 516,
+      "total_stars": 2232,
+      "forks": 63,
+      "lang": "Rust",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "stars_today": 234,
+      "total_stars": 19797,
+      "forks": 643,
+      "lang": "Go",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "jdx/mise",
+      "desc": "dev tools, env vars, task runner",
+      "stars_today": 135,
+      "total_stars": 32087,
+      "forks": 1336,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars_today": 122,
+      "total_stars": 2375,
+      "forks": 308,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "desc": "A list of OSINT tools &amp; resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "stars_today": 109,
+      "total_stars": 1467,
+      "forks": 191,
+      "lang": "N/A",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "desc": "A simple tool for coordinating several AI agents.",
+      "stars_today": 81,
+      "total_stars": 1850,
+      "forks": 203,
+      "lang": "Clojure",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

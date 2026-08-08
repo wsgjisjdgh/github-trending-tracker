@@ -2422,5 +2422,43 @@
   "google/guava": {
     "first_seen": "2026-08-07T03:44:11.654474",
     "tags": []
+  },
+  "PrimeIntellect-ai/prime-agent": {
+    "first_seen": "2026-08-08T02:51:11.172941",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "denoland/celld": {
+    "first_seen": "2026-08-08T02:51:11.172951",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "pranshuparmar/witr": {
+    "first_seen": "2026-08-08T02:51:11.172956",
+    "tags": []
+  },
+  "jdx/mise": {
+    "first_seen": "2026-08-08T02:51:11.172958",
+    "tags": []
+  },
+  "semantica-agi/semantica": {
+    "first_seen": "2026-08-08T02:51:11.172960",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "K2SOsint/Legendary_OSINT": {
+    "first_seen": "2026-08-08T02:51:11.172961",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "unclebob/swarm-forge": {
+    "first_seen": "2026-08-08T02:51:11.172963",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
