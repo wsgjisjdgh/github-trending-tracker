@@ -2464,5 +2464,23 @@
   "litu54/DevOps-Interview-Guide": {
     "first_seen": "2026-08-09T02:58:43.042597",
     "tags": []
+  },
+  "Comfy-Org/ComfyUI": {
+    "first_seen": "2026-08-10T03:07:53.704470",
+    "tags": []
+  },
+  "vitali87/code-graph-rag": {
+    "first_seen": "2026-08-10T03:07:53.704483",
+    "tags": []
+  },
+  "google-deepmind/weathernext": {
+    "first_seen": "2026-08-10T03:07:53.704485",
+    "tags": []
+  },
+  "harveyai/harvey-labs": {
+    "first_seen": "2026-08-10T03:07:53.704487",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
