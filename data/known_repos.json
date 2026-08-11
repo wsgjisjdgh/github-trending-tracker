@@ -2482,5 +2482,19 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "danielmiessler/LifeOS": {
+    "first_seen": "2026-08-11T03:00:49.826910",
+    "tags": []
+  },
+  "paperclipai/paperclip": {
+    "first_seen": "2026-08-11T03:00:49.826920",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "opa334/Dopamine": {
+    "first_seen": "2026-08-11T03:00:49.826922",
+    "tags": []
   }
 }

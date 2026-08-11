@@ -1,0 +1,214 @@
+{
+  "all": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars_today": 2642,
+      "total_stars": 13198,
+      "forks": 1341,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 1349,
+      "total_stars": 141904,
+      "forks": 23145,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars_today": 970,
+      "total_stars": 4225,
+      "forks": 485,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars_today": 922,
+      "total_stars": 126396,
+      "forks": 14905,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "stars_today": 835,
+      "total_stars": 165171,
+      "forks": 9293,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars_today": 682,
+      "total_stars": 3569,
+      "forks": 549,
+      "lang": "Python",
+      "tags": [],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 659,
+      "total_stars": 85808,
+      "forks": 9236,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "desc": "No description",
+      "stars_today": 389,
+      "total_stars": 18053,
+      "forks": 4077,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "desc": "No description",
+      "stars_today": 325,
+      "total_stars": 7376,
+      "forks": 954,
+      "lang": "Python",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "stars_today": 315,
+      "total_stars": 17980,
+      "forks": 2368,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars_today": 259,
+      "total_stars": 61181,
+      "forks": 12027,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars_today": 198,
+      "total_stars": 76586,
+      "forks": 14213,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 177,
+      "total_stars": 97276,
+      "forks": 18740,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 154,
+      "total_stars": 89403,
+      "forks": 11898,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "stars_today": 111,
+      "total_stars": 6061,
+      "forks": 6195,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "stars_today": 56,
+      "total_stars": 65284,
+      "forks": 3121,
+      "lang": "C++",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    }
+  ],
+  "new": [
+    {
+      "name": "danielmiessler/LifeOS",
+      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "stars_today": 315,
+      "total_stars": 17980,
+      "forks": 2368,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars_today": 198,
+      "total_stars": 76586,
+      "forks": 14213,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "stars_today": 111,
+      "total_stars": 6061,
+      "forks": 6195,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
