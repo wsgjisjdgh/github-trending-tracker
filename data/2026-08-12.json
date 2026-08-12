@@ -1,0 +1,257 @@
+{
+  "all": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars_today": 1138,
+      "total_stars": 14221,
+      "forks": 1467,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 958,
+      "total_stars": 143465,
+      "forks": 23301,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars_today": 893,
+      "total_stars": 4992,
+      "forks": 539,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars_today": 875,
+      "total_stars": 42921,
+      "forks": 2987,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "stars_today": 812,
+      "total_stars": 34822,
+      "forks": 4430,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars_today": 748,
+      "total_stars": 77235,
+      "forks": 14261,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 578,
+      "total_stars": 86284,
+      "forks": 9269,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 485,
+      "total_stars": 168211,
+      "forks": 20038,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "stars_today": 458,
+      "total_stars": 47432,
+      "forks": 5910,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars_today": 401,
+      "total_stars": 278526,
+      "forks": 35784,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars_today": 341,
+      "total_stars": 3873,
+      "forks": 564,
+      "lang": "Python",
+      "tags": [],
+      "cn": "检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "stars_today": 298,
+      "total_stars": 110538,
+      "forks": 8422,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars_today": 243,
+      "total_stars": 62224,
+      "forks": 52464,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "3b1b/manim",
+      "desc": "Animation engine for explanatory math videos",
+      "stars_today": 197,
+      "total_stars": 90249,
+      "forks": 7487,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars_today": 80,
+      "total_stars": 163851,
+      "forks": 34207,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "投资交易"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "stars_today": 28,
+      "total_stars": 1102,
+      "forks": 197,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars_today": 22,
+      "total_stars": 94506,
+      "forks": 10354,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "desc": "Curated list of project-based tutorials",
+      "stars_today": 401,
+      "total_stars": 278526,
+      "forks": 35784,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "stars_today": 298,
+      "total_stars": 110538,
+      "forks": 8422,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "3b1b/manim",
+      "desc": "Animation engine for explanatory math videos",
+      "stars_today": 197,
+      "total_stars": 90249,
+      "forks": 7487,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars_today": 80,
+      "total_stars": 163851,
+      "forks": 34207,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "投资交易"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars_today": 22,
+      "total_stars": 94506,
+      "forks": 10354,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
