@@ -2519,5 +2519,45 @@
   "nvm-sh/nvm": {
     "first_seen": "2026-08-12T03:19:23.148038",
     "tags": []
+  },
+  "cathrynlavery/diagram-design": {
+    "first_seen": "2026-08-13T03:23:03.563373",
+    "tags": []
+  },
+  "NVIDIA-NeMo/Switchyard": {
+    "first_seen": "2026-08-13T03:23:03.563384",
+    "tags": []
+  },
+  "cactus-compute/needle": {
+    "first_seen": "2026-08-13T03:23:03.563388",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "macro-inc/macro": {
+    "first_seen": "2026-08-13T03:23:03.563389",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "localsend/localsend": {
+    "first_seen": "2026-08-13T03:23:03.563391",
+    "tags": []
+  },
+  "infiniflow/ragflow": {
+    "first_seen": "2026-08-13T03:23:03.563392",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "ZuodaoTech/everyone-can-use-english": {
+    "first_seen": "2026-08-13T03:23:03.563393",
+    "tags": []
+  },
+  "embabel/embabel-agent": {
+    "first_seen": "2026-08-13T03:23:03.563394",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
