@@ -2559,5 +2559,29 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "unslothai/unsloth": {
+    "first_seen": "2026-08-14T03:20:47.686780",
+    "tags": []
+  },
+  "kepano/obsidian-skills": {
+    "first_seen": "2026-08-14T03:20:47.686791",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "holaboss-ai/holaOS": {
+    "first_seen": "2026-08-14T03:20:47.686792",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "megadose/holehe": {
+    "first_seen": "2026-08-14T03:20:47.686794",
+    "tags": []
+  },
+  "lightningpixel/modly": {
+    "first_seen": "2026-08-14T03:20:47.686795",
+    "tags": []
   }
 }
