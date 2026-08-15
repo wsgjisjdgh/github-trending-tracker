@@ -2583,5 +2583,21 @@
   "lightningpixel/modly": {
     "first_seen": "2026-08-14T03:20:47.686795",
     "tags": []
+  },
+  "deepseek-ai/awesome-deepseek-agent": {
+    "first_seen": "2026-08-15T02:09:31.519956",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "rustdesk/rustdesk": {
+    "first_seen": "2026-08-15T02:09:31.519968",
+    "tags": []
+  },
+  "ToolJet/ToolJet": {
+    "first_seen": "2026-08-15T02:09:31.519970",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }

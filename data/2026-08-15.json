@@ -1,0 +1,228 @@
+{
+  "all": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars_today": 3646,
+      "total_stars": 17318,
+      "forks": 1038,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars_today": 1181,
+      "total_stars": 7545,
+      "forks": 783,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars_today": 1160,
+      "total_stars": 128540,
+      "forks": 11492,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "stars_today": 769,
+      "total_stars": 7313,
+      "forks": 639,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars_today": 662,
+      "total_stars": 5630,
+      "forks": 374,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "lightningpixel/modly",
+      "desc": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "stars_today": 579,
+      "total_stars": 5956,
+      "forks": 604,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars_today": 501,
+      "total_stars": 71525,
+      "forks": 6453,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars_today": 473,
+      "total_stars": 88396,
+      "forks": 10376,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — `@-linked` together with shared AI memory.",
+      "stars_today": 436,
+      "total_stars": 3043,
+      "forks": 307,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "megadose/holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars_today": 427,
+      "total_stars": 12861,
+      "forks": 1717,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars_today": 293,
+      "total_stars": 20955,
+      "forks": 3342,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 255,
+      "total_stars": 83185,
+      "forks": 8234,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "desc": "No description",
+      "stars_today": 222,
+      "total_stars": 5722,
+      "forks": 691,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
+      "stars_today": 165,
+      "total_stars": 10387,
+      "forks": 528,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "stars_today": 143,
+      "total_stars": 120652,
+      "forks": 18457,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars_today": 132,
+      "total_stars": 39095,
+      "forks": 5267,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "stars_today": 41,
+      "total_stars": 2815,
+      "forks": 228,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "desc": "No description",
+      "stars_today": 222,
+      "total_stars": 5722,
+      "forks": 691,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "stars_today": 143,
+      "total_stars": 120652,
+      "forks": 18457,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars_today": 132,
+      "total_stars": 39095,
+      "forks": 5267,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}
