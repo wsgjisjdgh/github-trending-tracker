@@ -2599,5 +2599,17 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "public-apis/public-apis": {
+    "first_seen": "2026-08-16T02:17:39.637188",
+    "tags": []
+  },
+  "cordiverse/cordis": {
+    "first_seen": "2026-08-16T02:17:39.637202",
+    "tags": []
+  },
+  "MakazhanAlpamys/Soup": {
+    "first_seen": "2026-08-16T02:17:39.637209",
+    "tags": []
   }
 }
