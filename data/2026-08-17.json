@@ -1,0 +1,90 @@
+{
+  "all": [
+    {
+      "name": "public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "stars_today": 1588,
+      "total_stars": 461882,
+      "forks": 51019,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cordiverse/cordis",
+      "desc": "Meta-Framework of Spatiotemporal Composability",
+      "stars_today": 720,
+      "total_stars": 4840,
+      "forks": 263,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars_today": 572,
+      "total_stars": 72653,
+      "forks": 6551,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars_today": 452,
+      "total_stars": 40084,
+      "forks": 5331,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars_today": 443,
+      "total_stars": 6633,
+      "forks": 435,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "stars_today": 270,
+      "total_stars": 25448,
+      "forks": 2596,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "stars_today": 150,
+      "total_stars": 83956,
+      "forks": 8290,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "stars_today": 270,
+      "total_stars": 25448,
+      "forks": 2596,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
