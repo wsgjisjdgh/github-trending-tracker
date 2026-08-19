@@ -2631,5 +2631,27 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "genlayerlabs/genlayer-project-boilerplate": {
+    "first_seen": "2026-08-19T02:14:30.953138",
+    "tags": []
+  },
+  "chaitanyagiri/munder-difflin": {
+    "first_seen": "2026-08-19T02:14:30.953151",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "volcengine/OpenViking": {
+    "first_seen": "2026-08-19T02:14:30.953153",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "NawfalMotii79/PLFM_RADAR": {
+    "first_seen": "2026-08-19T02:14:30.953155",
+    "tags": [
+      "AI Infra"
+    ]
   }
 }
