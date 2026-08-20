@@ -1,0 +1,173 @@
+{
+  "all": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars_today": 2221,
+      "total_stars": 110884,
+      "forks": 16803,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1894,
+      "total_stars": 223918,
+      "forks": 19260,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "desc": "No description",
+      "stars_today": 1397,
+      "total_stars": 4581,
+      "forks": 85,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars_today": 804,
+      "total_stars": 30266,
+      "forks": 2339,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "desc": "local multi-agent harness",
+      "stars_today": 795,
+      "total_stars": 2725,
+      "forks": 323,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Wo",
+      "stars_today": 766,
+      "total_stars": 29877,
+      "forks": 3541,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 557,
+      "total_stars": 274320,
+      "forks": 24559,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "jundot/omlx",
+      "desc": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars_today": 472,
+      "total_stars": 19856,
+      "forks": 1693,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "desc": "No description",
+      "stars_today": 430,
+      "total_stars": 16227,
+      "forks": 810,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, ",
+      "stars_today": 198,
+      "total_stars": 65839,
+      "forks": 12746,
+      "lang": "JavaScript",
+      "tags": [
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars_today": 128,
+      "total_stars": 111897,
+      "forks": 6632,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars_today": 80,
+      "total_stars": 26463,
+      "forks": 3422,
+      "lang": "Rust",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "desc": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "stars_today": 63,
+      "total_stars": 13171,
+      "forks": 659,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "amadeusprotocol/node",
+      "desc": "No description",
+      "stars_today": 1397,
+      "total_stars": 4581,
+      "forks": 85,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "desc": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "stars_today": 63,
+      "total_stars": 13171,
+      "forks": 659,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

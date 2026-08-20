@@ -2653,5 +2653,13 @@
     "tags": [
       "AI Infra"
     ]
+  },
+  "amadeusprotocol/node": {
+    "first_seen": "2026-08-20T02:13:02.232079",
+    "tags": []
+  },
+  "marceloprates/prettymaps": {
+    "first_seen": "2026-08-20T02:13:02.232095",
+    "tags": []
   }
 }
