@@ -2661,5 +2661,30 @@
   "marceloprates/prettymaps": {
     "first_seen": "2026-08-20T02:13:02.232095",
     "tags": []
+  },
+  "AprilNEA/OpenLogi": {
+    "first_seen": "2026-08-21T02:19:59.283918",
+    "tags": []
+  },
+  "mahlernim/google-timeline-visualizer": {
+    "first_seen": "2026-08-21T02:19:59.283937",
+    "tags": []
+  },
+  "modular/modular": {
+    "first_seen": "2026-08-21T02:19:59.283944",
+    "tags": []
+  },
+  "Tencent/AI-Infra-Guard": {
+    "first_seen": "2026-08-21T02:19:59.283947",
+    "tags": [
+      "AI Infra",
+      "AI Agent"
+    ]
+  },
+  "agent-substrate/substrate": {
+    "first_seen": "2026-08-21T02:19:59.283949",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
