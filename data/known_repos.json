@@ -2686,5 +2686,21 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "apache/maka": {
+    "first_seen": "2026-08-22T02:11:46.464209",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "elder-plinius/OBLITERATUS": {
+    "first_seen": "2026-08-22T02:11:46.464218",
+    "tags": []
+  },
+  "microsoft/onnxruntime": {
+    "first_seen": "2026-08-22T02:11:46.464220",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
