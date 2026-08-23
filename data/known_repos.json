@@ -2702,5 +2702,20 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "openai/codex": {
+    "first_seen": "2026-08-23T02:20:44.888915",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "Wei-Shaw/sub2api": {
+    "first_seen": "2026-08-23T02:20:44.888934",
+    "tags": []
+  },
+  "n8n-io/n8n": {
+    "first_seen": "2026-08-23T02:20:44.888937",
+    "tags": []
   }
 }
