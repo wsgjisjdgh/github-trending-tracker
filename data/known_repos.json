@@ -2717,5 +2717,26 @@
   "n8n-io/n8n": {
     "first_seen": "2026-08-23T02:20:44.888937",
     "tags": []
+  },
+  "freestylefly/awesome-gpt-image-2": {
+    "first_seen": "2026-08-24T02:18:48.377676",
+    "tags": []
+  },
+  "anthropics/claude-plugins-community": {
+    "first_seen": "2026-08-24T02:18:48.377687",
+    "tags": [
+      "投资交易"
+    ]
+  },
+  "VoltAgent/awesome-agent-skills": {
+    "first_seen": "2026-08-24T02:18:48.377689",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "dani-garcia/vaultwarden": {
+    "first_seen": "2026-08-24T02:18:48.377690",
+    "tags": []
   }
 }
