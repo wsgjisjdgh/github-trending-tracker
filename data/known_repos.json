@@ -2738,5 +2738,19 @@
   "dani-garcia/vaultwarden": {
     "first_seen": "2026-08-24T02:18:48.377690",
     "tags": []
+  },
+  "AgriciDaniel/claude-obsidian": {
+    "first_seen": "2026-08-25T02:14:37.125697",
+    "tags": []
+  },
+  "tashfeenahmed/freellmapi": {
+    "first_seen": "2026-08-25T02:14:37.125710",
+    "tags": []
+  },
+  "openclaw/openclaw": {
+    "first_seen": "2026-08-25T02:14:37.125712",
+    "tags": [
+      "Vibe Coding"
+    ]
   }
 }
