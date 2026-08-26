@@ -2752,5 +2752,21 @@
     "tags": [
       "Vibe Coding"
     ]
+  },
+  "DietrichGebert/ponytail": {
+    "first_seen": "2026-08-26T02:21:09.712386",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "marin-community/marin": {
+    "first_seen": "2026-08-26T02:21:09.712398",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "asciimoo/hister": {
+    "first_seen": "2026-08-26T02:21:09.712400",
+    "tags": []
   }
 }
