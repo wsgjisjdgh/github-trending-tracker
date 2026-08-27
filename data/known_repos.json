@@ -2768,5 +2768,21 @@
   "asciimoo/hister": {
     "first_seen": "2026-08-26T02:21:09.712400",
     "tags": []
+  },
+  "tt-a1i/archify": {
+    "first_seen": "2026-08-27T10:49:10.743576",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "browser-use/browser-use": {
+    "first_seen": "2026-08-27T10:49:10.743590",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "ConardLi/garden-skills": {
+    "first_seen": "2026-08-27T10:49:10.743593",
+    "tags": []
   }
 }

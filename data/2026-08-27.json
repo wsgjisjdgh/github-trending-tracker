@@ -1,0 +1,220 @@
+{
+  "all": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars_today": 4050,
+      "total_stars": 22409,
+      "forks": 2235,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars_today": 1598,
+      "total_stars": 113339,
+      "forks": 6197,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars_today": 1300,
+      "total_stars": 36983,
+      "forks": 12517,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars_today": 1035,
+      "total_stars": 20662,
+      "forks": 1359,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "desc": "Beautiful, Modern &amp; Opinionated Linux",
+      "stars_today": 1024,
+      "total_stars": 32333,
+      "forks": 3301,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 838,
+      "total_stars": 49866,
+      "forks": 8667,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal",
+      "stars_today": 810,
+      "total_stars": 13693,
+      "forks": 1414,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars_today": 538,
+      "total_stars": 2343,
+      "forks": 201,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars_today": 536,
+      "total_stars": 50697,
+      "forks": 8196,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars_today": 525,
+      "total_stars": 38426,
+      "forks": 3775,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "stars_today": 441,
+      "total_stars": 2575,
+      "forks": 221,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars_today": 308,
+      "total_stars": 34489,
+      "forks": 3895,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars_today": 242,
+      "total_stars": 32873,
+      "forks": 3475,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars_today": 149,
+      "total_stars": 111355,
+      "forks": 12204,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "stars_today": 138,
+      "total_stars": 34977,
+      "forks": 3376,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars_today": 113,
+      "total_stars": 11142,
+      "forks": 1401,
+      "lang": "CSS",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars_today": 1035,
+      "total_stars": 20662,
+      "forks": 1359,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars_today": 149,
+      "total_stars": 111355,
+      "forks": 12204,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars_today": 113,
+      "total_stars": 11142,
+      "forks": 1401,
+      "lang": "CSS",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
