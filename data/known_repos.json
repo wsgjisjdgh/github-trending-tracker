@@ -2784,5 +2784,39 @@
   "ConardLi/garden-skills": {
     "first_seen": "2026-08-27T10:49:10.743593",
     "tags": []
+  },
+  "bilawalsidhu/gods-eye-view": {
+    "first_seen": "2026-08-28T12:25:12.206988",
+    "tags": []
+  },
+  "tailscale/tailcat": {
+    "first_seen": "2026-08-28T12:25:12.206998",
+    "tags": []
+  },
+  "JetBrains/go-modern-guidelines": {
+    "first_seen": "2026-08-28T12:25:12.207003",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "abi/screenshot-to-code": {
+    "first_seen": "2026-08-28T12:25:12.207005",
+    "tags": []
+  },
+  "abhigyanpatwari/GitNexus": {
+    "first_seen": "2026-08-28T12:25:12.207011",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "google/googletest": {
+    "first_seen": "2026-08-28T12:25:12.207012",
+    "tags": []
+  },
+  "NationalSecurityAgency/ghidra": {
+    "first_seen": "2026-08-28T12:25:12.207014",
+    "tags": []
   }
 }
