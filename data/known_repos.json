@@ -2818,5 +2818,9 @@
   "NationalSecurityAgency/ghidra": {
     "first_seen": "2026-08-28T12:25:12.207014",
     "tags": []
+  },
+  "swoole/typephp": {
+    "first_seen": "2026-08-29T07:34:28.723338",
+    "tags": []
   }
 }
