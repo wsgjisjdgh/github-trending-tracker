@@ -2822,5 +2822,35 @@
   "swoole/typephp": {
     "first_seen": "2026-08-29T07:34:28.723338",
     "tags": []
+  },
+  "THU-MAIC/OpenMAIC": {
+    "first_seen": "2026-08-30T06:07:50.148374",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "workweave/router": {
+    "first_seen": "2026-08-30T06:07:50.148412",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "kaifcodec/user-scanner": {
+    "first_seen": "2026-08-30T06:07:50.148416",
+    "tags": [
+      "投资交易",
+      "AI for Science"
+    ]
+  },
+  "Osmantic/ODS": {
+    "first_seen": "2026-08-30T06:07:50.148417",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "bigskysoftware/htmx": {
+    "first_seen": "2026-08-30T06:07:50.148419",
+    "tags": []
   }
 }
