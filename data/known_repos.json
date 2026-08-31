@@ -2852,5 +2852,41 @@
   "bigskysoftware/htmx": {
     "first_seen": "2026-08-30T06:07:50.148419",
     "tags": []
+  },
+  "Lakr233/vphone-cli": {
+    "first_seen": "2026-08-31T06:30:54.401420",
+    "tags": []
+  },
+  "pollen-robotics/microduck_rl": {
+    "first_seen": "2026-08-31T06:30:54.401436",
+    "tags": []
+  },
+  "corsairdev/corsair": {
+    "first_seen": "2026-08-31T06:30:54.401438",
+    "tags": []
+  },
+  "checkstyle/checkstyle": {
+    "first_seen": "2026-08-31T06:30:54.401440",
+    "tags": []
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "first_seen": "2026-08-31T06:30:54.401441",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "handsomestWei/patent-disclosure-skill": {
+    "first_seen": "2026-08-31T06:30:54.401443",
+    "tags": []
+  },
+  "majd/ipatool": {
+    "first_seen": "2026-08-31T06:30:54.401444",
+    "tags": []
+  },
+  "colinhacks/zod": {
+    "first_seen": "2026-08-31T06:30:54.401445",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
