@@ -1,0 +1,199 @@
+{
+  "all": [
+    {
+      "name": "tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars_today": 3991,
+      "total_stars": 39699,
+      "forks": 2525,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars_today": 2824,
+      "total_stars": 27866,
+      "forks": 4833,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "stars_today": 1980,
+      "total_stars": 40961,
+      "forks": 3784,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, K",
+      "stars_today": 1401,
+      "total_stars": 33378,
+      "forks": 4524,
+      "lang": "PowerShell",
+      "tags": [
+        "Vibe Coding",
+        "AI编程提效",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "stars_today": 610,
+      "total_stars": 15861,
+      "forks": 1911,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "stars_today": 582,
+      "total_stars": 23468,
+      "forks": 59700,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "stars_today": 571,
+      "total_stars": 6393,
+      "forks": 742,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "stars_today": 537,
+      "total_stars": 29757,
+      "forks": 3257,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 512,
+      "total_stars": 245372,
+      "forks": 37061,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars_today": 495,
+      "total_stars": 56410,
+      "forks": 7349,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "desc": "RL training environments for Microduck (mjlab)",
+      "stars_today": 385,
+      "total_stars": 1248,
+      "forks": 214,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "majd/ipatool",
+      "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars_today": 373,
+      "total_stars": 10619,
+      "forks": 898,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars_today": 228,
+      "total_stars": 17496,
+      "forks": 1206,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi",
+      "stars_today": 198,
+      "total_stars": 9456,
+      "forks": 4210,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "desc": "🕵️‍♂️ (2-in-1) Email &amp; Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security res",
+      "stars_today": 93,
+      "total_stars": 4382,
+      "forks": 452,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "stars_today": 77,
+      "total_stars": 5626,
+      "forks": 787,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；高性能推理引擎，优化模型推理速度和资源占用"
+    }
+  ],
+  "new": [
+    {
+      "name": "jingyaogong/minimind",
+      "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars_today": 495,
+      "total_stars": 56410,
+      "forks": 7349,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    }
+  ]
+}
