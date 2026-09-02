@@ -1,0 +1,185 @@
+{
+  "all": [
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars_today": 3128,
+      "total_stars": 29781,
+      "forks": 5001,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars_today": 1005,
+      "total_stars": 57290,
+      "forks": 7447,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "stars_today": 912,
+      "total_stars": 41706,
+      "forks": 3833,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 623,
+      "total_stars": 245843,
+      "forks": 37097,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "stars_today": 577,
+      "total_stars": 23836,
+      "forks": 2676,
+      "lang": "Crystal",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars_today": 541,
+      "total_stars": 18076,
+      "forks": 1230,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "stars_today": 501,
+      "total_stars": 6847,
+      "forks": 766,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 472,
+      "total_stars": 23118,
+      "forks": 2823,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "stars_today": 323,
+      "total_stars": 113037,
+      "forks": 12797,
+      "lang": "N/A",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars_today": 193,
+      "total_stars": 45090,
+      "forks": 3557,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars_today": 145,
+      "total_stars": 80943,
+      "forks": 8362,
+      "lang": "Python",
+      "tags": [],
+      "cn": "智能爬虫/数据采集工具；大语言模型相关工具或资源"
+    },
+    {
+      "name": "3b1b/manim",
+      "desc": "Animation engine for explanatory math videos",
+      "stars_today": 86,
+      "total_stars": 92659,
+      "forks": 7625,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "stars_today": 80,
+      "total_stars": 31488,
+      "forks": 8963,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "averygan/reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars_today": 56,
+      "total_stars": 7831,
+      "forks": 1326,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ],
+  "new": [
+    {
+      "name": "Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "stars_today": 80,
+      "total_stars": 31488,
+      "forks": 8963,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "averygan/reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars_today": 56,
+      "total_stars": 7831,
+      "forks": 1326,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ]
+}
