@@ -1,0 +1,250 @@
+{
+  "all": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars_today": 2128,
+      "total_stars": 123759,
+      "forks": 6684,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 1672,
+      "total_stars": 16525,
+      "forks": 2224,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 1618,
+      "total_stars": 30764,
+      "forks": 2939,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1601,
+      "total_stars": 247890,
+      "forks": 21010,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "stars_today": 1208,
+      "total_stars": 41714,
+      "forks": 3563,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "stars_today": 963,
+      "total_stars": 25202,
+      "forks": 3020,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 774,
+      "total_stars": 240986,
+      "forks": 49389,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 751,
+      "total_stars": 247395,
+      "forks": 37282,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars_today": 543,
+      "total_stars": 103193,
+      "forks": 5996,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "stars_today": 522,
+      "total_stars": 52364,
+      "forks": 8491,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars_today": 496,
+      "total_stars": 46069,
+      "forks": 3608,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 462,
+      "total_stars": 281440,
+      "forks": 25212,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "stars_today": 451,
+      "total_stars": 32406,
+      "forks": 9022,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 281,
+      "total_stars": 173756,
+      "forks": 20610,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 264,
+      "total_stars": 92093,
+      "forks": 9814,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "stars_today": 171,
+      "total_stars": 88461,
+      "forks": 9828,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "f/prompts.chat",
+      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars_today": 168,
+      "total_stars": 169106,
+      "forks": 21769,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+      "stars_today": 161,
+      "total_stars": 2032,
+      "forks": 145,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "averygan/reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars_today": 88,
+      "total_stars": 8487,
+      "forks": 1371,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ],
+  "new": [
+    {
+      "name": "f/prompts.chat",
+      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars_today": 168,
+      "total_stars": 169106,
+      "forks": 21769,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+      "stars_today": 161,
+      "total_stars": 2032,
+      "forks": 145,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；高性能推理引擎，优化模型推理速度和资源占用"
+    }
+  ]
+}

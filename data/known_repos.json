@@ -2943,5 +2943,17 @@
   "fmtlib/fmt": {
     "first_seen": "2026-09-03T05:23:51.827565",
     "tags": []
+  },
+  "f/prompts.chat": {
+    "first_seen": "2026-09-04T05:19:04.462235",
+    "tags": []
+  },
+  "magnitudedev/magnitude": {
+    "first_seen": "2026-09-04T05:19:04.462244",
+    "tags": [
+      "AI部署",
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
