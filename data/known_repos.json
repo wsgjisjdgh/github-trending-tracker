@@ -2955,5 +2955,19 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "clshortfuse/renodx": {
+    "first_seen": "2026-09-05T05:08:55.378528",
+    "tags": []
+  },
+  "bikini/exploitarium": {
+    "first_seen": "2026-09-05T05:08:55.378539",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "radixark/miles": {
+    "first_seen": "2026-09-05T05:08:55.378541",
+    "tags": []
   }
 }

@@ -1,0 +1,235 @@
+{
+  "all": [
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 2758,
+      "total_stars": 250696,
+      "forks": 21181,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars_today": 1679,
+      "total_stars": 126442,
+      "forks": 6775,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 1345,
+      "total_stars": 18219,
+      "forks": 2375,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1135,
+      "total_stars": 248668,
+      "forks": 37480,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "stars_today": 1130,
+      "total_stars": 42858,
+      "forks": 3615,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "stars_today": 730,
+      "total_stars": 52853,
+      "forks": 8532,
+      "lang": "Kotlin",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 720,
+      "total_stars": 241589,
+      "forks": 49585,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "stars_today": 688,
+      "total_stars": 25493,
+      "forks": 3035,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 511,
+      "total_stars": 174202,
+      "forks": 20649,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars_today": 501,
+      "total_stars": 103631,
+      "forks": 6008,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars_today": 437,
+      "total_stars": 31083,
+      "forks": 1999,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli",
+      "stars_today": 391,
+      "total_stars": 2609,
+      "forks": 187,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "stars_today": 345,
+      "total_stars": 204236,
+      "forks": 26645,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars_today": 342,
+      "total_stars": 31112,
+      "forks": 2968,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现；基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "clshortfuse/renodx",
+      "desc": "Renovation Engine for DirectX Games",
+      "stars_today": 261,
+      "total_stars": 3560,
+      "forks": 140,
+      "lang": "HLSL",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed ",
+      "stars_today": 74,
+      "total_stars": 4554,
+      "forks": 1244,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "radixark/miles",
+      "desc": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "stars_today": 64,
+      "total_stars": 2585,
+      "forks": 446,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；开发框架，提供标准化的项目结构和工具链"
+    }
+  ],
+  "new": [
+    {
+      "name": "clshortfuse/renodx",
+      "desc": "Renovation Engine for DirectX Games",
+      "stars_today": 261,
+      "total_stars": 3560,
+      "forks": 140,
+      "lang": "HLSL",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed ",
+      "stars_today": 74,
+      "total_stars": 4554,
+      "forks": 1244,
+      "lang": "Python",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "radixark/miles",
+      "desc": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "stars_today": 64,
+      "total_stars": 2585,
+      "forks": 446,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；开发框架，提供标准化的项目结构和工具链"
+    }
+  ]
+}
