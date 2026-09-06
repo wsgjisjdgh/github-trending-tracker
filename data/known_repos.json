@@ -2969,5 +2969,19 @@
   "radixark/miles": {
     "first_seen": "2026-09-05T05:08:55.378541",
     "tags": []
+  },
+  "humanlayer/skills": {
+    "first_seen": "2026-09-06T05:23:07.989183",
+    "tags": []
+  },
+  "WorldFlowAI/everything-claude-code": {
+    "first_seen": "2026-09-06T05:23:07.989193",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "BraveOPotato/FckSignups": {
+    "first_seen": "2026-09-06T05:23:07.989195",
+    "tags": []
   }
 }
