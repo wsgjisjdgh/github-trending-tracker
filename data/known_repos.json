@@ -2983,5 +2983,35 @@
   "BraveOPotato/FckSignups": {
     "first_seen": "2026-09-06T05:23:07.989195",
     "tags": []
+  },
+  "aipoch/open-science": {
+    "first_seen": "2026-09-07T05:33:10.681358",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "The-Swarm-Corporation/AutoHedge": {
+    "first_seen": "2026-09-07T05:33:10.681370",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
+  },
+  "Stremio/stremio-web": {
+    "first_seen": "2026-09-07T05:33:10.681372",
+    "tags": []
+  },
+  "OpenWhispr/openwhispr": {
+    "first_seen": "2026-09-07T05:33:10.681373",
+    "tags": []
+  },
+  "openai/skills": {
+    "first_seen": "2026-09-07T05:33:10.681375",
+    "tags": []
+  },
+  "llvm/llvm-project": {
+    "first_seen": "2026-09-07T05:33:10.681376",
+    "tags": []
   }
 }
