@@ -3013,5 +3013,28 @@
   "llvm/llvm-project": {
     "first_seen": "2026-09-07T05:33:10.681376",
     "tags": []
+  },
+  "MoonTechLab/LunaTV": {
+    "first_seen": "2026-09-08T05:31:09.487594",
+    "tags": []
+  },
+  "jo-inc/camofox-browser": {
+    "first_seen": "2026-09-08T05:31:09.487603",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "mksglu/context-mode": {
+    "first_seen": "2026-09-08T05:31:09.487605",
+    "tags": [
+      "AI部署",
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "lightpanda-io/browser": {
+    "first_seen": "2026-09-08T05:31:09.487606",
+    "tags": []
   }
 }
