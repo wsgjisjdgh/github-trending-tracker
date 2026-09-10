@@ -3040,5 +3040,21 @@
   "viarotel-org/escrcpy": {
     "first_seen": "2026-09-09T05:38:00.458174",
     "tags": []
+  },
+  "liquidslr/system-design-notes": {
+    "first_seen": "2026-09-10T05:28:39.961603",
+    "tags": []
+  },
+  "Tencent/teamai-cli": {
+    "first_seen": "2026-09-10T05:28:39.961615",
+    "tags": []
+  },
+  "vastsa/PI-Desktop": {
+    "first_seen": "2026-09-10T05:28:39.961620",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
   }
 }
