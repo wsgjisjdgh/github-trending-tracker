@@ -1,0 +1,240 @@
+{
+  "all": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars_today": 3882,
+      "total_stars": 38940,
+      "forks": 2230,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars_today": 1762,
+      "total_stars": 24901,
+      "forks": 5147,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars_today": 1294,
+      "total_stars": 37971,
+      "forks": 2405,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars_today": 962,
+      "total_stars": 31034,
+      "forks": 3006,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars_today": 900,
+      "total_stars": 18963,
+      "forks": 3502,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Tencent/teamai-cli",
+      "desc": "Make Every Team AI Native",
+      "stars_today": 841,
+      "total_stars": 3929,
+      "forks": 253,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars_today": 837,
+      "total_stars": 35506,
+      "forks": 5656,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 732,
+      "total_stars": 284833,
+      "forks": 25480,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline ",
+      "stars_today": 626,
+      "total_stars": 64401,
+      "forks": 9014,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars_today": 624,
+      "total_stars": 2422,
+      "forks": 198,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
+      "stars_today": 277,
+      "total_stars": 1785,
+      "forks": 262,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "desc": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
+      "stars_today": 258,
+      "total_stars": 35836,
+      "forks": 2270,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+      "stars_today": 142,
+      "total_stars": 18247,
+      "forks": 2105,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "stars_today": 122,
+      "total_stars": 31254,
+      "forks": 2665,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars_today": 98,
+      "total_stars": 27536,
+      "forks": 3015,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "stars_today": 72,
+      "total_stars": 4500,
+      "forks": 522,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi",
+      "stars_today": 277,
+      "total_stars": 1785,
+      "forks": 262,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "投资交易"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e",
+      "stars_today": 142,
+      "total_stars": 18247,
+      "forks": 2105,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源；检索增强生成(RAG)工具，提升LLM知识准确性"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "stars_today": 122,
+      "total_stars": 31254,
+      "forks": 2665,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars_today": 98,
+      "total_stars": 27536,
+      "forks": 3015,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "stars_today": 72,
+      "total_stars": 4500,
+      "forks": 522,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
