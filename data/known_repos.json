@@ -3081,5 +3081,45 @@
   "armory3d/armorpaint": {
     "first_seen": "2026-09-11T05:30:18.276227",
     "tags": []
+  },
+  "p1neappleXpress/OpenFlux": {
+    "first_seen": "2026-09-12T05:18:18.125084",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "Sonarr/Sonarr": {
+    "first_seen": "2026-09-12T05:18:18.125096",
+    "tags": []
+  },
+  "jordan-gibbs/hyperresearch": {
+    "first_seen": "2026-09-12T05:18:18.125098",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "melgarafael/DeskcommCRM": {
+    "first_seen": "2026-09-12T05:18:18.125098",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "jihe520/MathModelAgent": {
+    "first_seen": "2026-09-12T05:18:18.125099",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "alphaXiv/OpenResearch": {
+    "first_seen": "2026-09-12T05:18:18.125101",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "nab138/iloader": {
+    "first_seen": "2026-09-12T05:18:18.125102",
+    "tags": []
   }
 }
