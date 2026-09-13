@@ -3121,5 +3121,25 @@
   "nab138/iloader": {
     "first_seen": "2026-09-12T05:18:18.125102",
     "tags": []
+  },
+  "multimodal-art-projection/YuE": {
+    "first_seen": "2026-09-13T05:32:31.427794",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "yuliskov/SmartTube": {
+    "first_seen": "2026-09-13T05:32:31.427804",
+    "tags": []
+  },
+  "SnailSploit/Claude-Red": {
+    "first_seen": "2026-09-13T05:32:31.427806",
+    "tags": []
+  },
+  "max-sixty/worktrunk": {
+    "first_seen": "2026-09-13T05:32:31.427808",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
