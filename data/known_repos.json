@@ -3157,5 +3157,15 @@
   "Swordfish90/cool-retro-term": {
     "first_seen": "2026-09-14T05:37:30.161800",
     "tags": []
+  },
+  "peetzweg/opendisplay": {
+    "first_seen": "2026-09-15T05:38:54.024026",
+    "tags": []
+  },
+  "rlaope/oh-my-hermes": {
+    "first_seen": "2026-09-15T05:38:54.024037",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
