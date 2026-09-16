@@ -3167,5 +3167,22 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "Homebrew/BrewUI": {
+    "first_seen": "2026-09-16T05:32:47.362684",
+    "tags": []
+  },
+  "danny-avila/LibreChat": {
+    "first_seen": "2026-09-16T05:32:47.362693",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "MG1937/ASC": {
+    "first_seen": "2026-09-16T05:32:47.362695",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
   }
 }
