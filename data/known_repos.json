@@ -3184,5 +3184,32 @@
       "AI Agent",
       "AI for Science"
     ]
+  },
+  "Tencent/WeKnora": {
+    "first_seen": "2026-09-17T05:38:30.987755",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "abue-ammar/tinycast": {
+    "first_seen": "2026-09-17T05:38:30.987767",
+    "tags": []
+  },
+  "cloudflare/security-audit-skill": {
+    "first_seen": "2026-09-17T05:38:30.987771",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "cline/cline": {
+    "first_seen": "2026-09-17T05:38:30.987773",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "ankitects/anki": {
+    "first_seen": "2026-09-17T05:38:30.987774",
+    "tags": []
   }
 }
