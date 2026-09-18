@@ -1,0 +1,286 @@
+{
+  "all": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 3607,
+      "total_stars": 11068,
+      "forks": 594,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-",
+      "stars_today": 3286,
+      "total_stars": 35378,
+      "forks": 2508,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars_today": 1302,
+      "total_stars": 4467,
+      "forks": 315,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1171,
+      "total_stars": 261317,
+      "forks": 39118,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars_today": 1125,
+      "total_stars": 26514,
+      "forks": 3571,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "stars_today": 939,
+      "total_stars": 5078,
+      "forks": 309,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars_today": 912,
+      "total_stars": 78630,
+      "forks": 8694,
+      "lang": "Java",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars_today": 873,
+      "total_stars": 35849,
+      "forks": 3769,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "desc": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "stars_today": 739,
+      "total_stars": 6226,
+      "forks": 287,
+      "lang": "Swift",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 680,
+      "total_stars": 95981,
+      "forks": 10156,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars_today": 667,
+      "total_stars": 54937,
+      "forks": 6832,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars_today": 538,
+      "total_stars": 145943,
+      "forks": 23653,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "stars_today": 470,
+      "total_stars": 7622,
+      "forks": 1132,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cline/cline",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars_today": 380,
+      "total_stars": 68607,
+      "forks": 7419,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars_today": 367,
+      "total_stars": 3599,
+      "forks": 375,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "stars_today": 329,
+      "total_stars": 50857,
+      "forks": 4832,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 287,
+      "total_stars": 24629,
+      "forks": 2952,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars_today": 281,
+      "total_stars": 205097,
+      "forks": 60754,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "stars_today": 145,
+      "total_stars": 14932,
+      "forks": 1489,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cilium/cilium",
+      "desc": "eBPF-based Networking, Security, and Observability",
+      "stars_today": 111,
+      "total_stars": 25304,
+      "forks": 4076,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars_today": 1302,
+      "total_stars": 4467,
+      "forks": 315,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars_today": 367,
+      "total_stars": 3599,
+      "forks": 375,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "stars_today": 145,
+      "total_stars": 14932,
+      "forks": 1489,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cilium/cilium",
+      "desc": "eBPF-based Networking, Security, and Observability",
+      "stars_today": 111,
+      "total_stars": 25304,
+      "forks": 4076,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

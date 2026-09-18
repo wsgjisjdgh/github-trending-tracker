@@ -3211,5 +3211,28 @@
   "ankitects/anki": {
     "first_seen": "2026-09-17T05:38:30.987774",
     "tags": []
+  },
+  "Tencent/BrowserSkill": {
+    "first_seen": "2026-09-18T05:27:04.635868",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "TencentCloud/Octop": {
+    "first_seen": "2026-09-18T05:27:04.635885",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "coder/coder": {
+    "first_seen": "2026-09-18T05:27:04.635887",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "cilium/cilium": {
+    "first_seen": "2026-09-18T05:27:04.635888",
+    "tags": []
   }
 }
