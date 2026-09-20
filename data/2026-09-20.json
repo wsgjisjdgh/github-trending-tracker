@@ -1,0 +1,231 @@
+{
+  "all": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 3155,
+      "total_stars": 16751,
+      "forks": 917,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars_today": 859,
+      "total_stars": 24624,
+      "forks": 1691,
+      "lang": "HTML",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 556,
+      "total_stars": 97175,
+      "forks": 10257,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "stars_today": 483,
+      "total_stars": 146791,
+      "forks": 23974,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free",
+      "stars_today": 472,
+      "total_stars": 16228,
+      "forks": 2097,
+      "lang": "TypeScript",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "asciimoo/hister",
+      "desc": "Your own search engine",
+      "stars_today": 420,
+      "total_stars": 5305,
+      "forks": 222,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "stars_today": 402,
+      "total_stars": 15687,
+      "forks": 1525,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 281,
+      "total_stars": 25181,
+      "forks": 3000,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "desc": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "stars_today": 234,
+      "total_stars": 11681,
+      "forks": 749,
+      "lang": "Python",
+      "tags": [
+        "边缘AI",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars_today": 196,
+      "total_stars": 5033,
+      "forks": 923,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "docling-project/docling",
+      "desc": "Get your documents ready for gen AI",
+      "stars_today": 129,
+      "total_stars": 67200,
+      "forks": 4839,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "desc": "科技爱好者周刊，每周五发布",
+      "stars_today": 98,
+      "total_stars": 103354,
+      "forks": 4431,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "desc": "人人都能用英语",
+      "stars_today": 48,
+      "total_stars": 37941,
+      "forks": 5216,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars_today": 32,
+      "total_stars": 3460,
+      "forks": 451,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars_today": 31,
+      "total_stars": 12076,
+      "forks": 1120,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars_today": 196,
+      "total_stars": 5033,
+      "forks": 923,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "docling-project/docling",
+      "desc": "Get your documents ready for gen AI",
+      "stars_today": 129,
+      "total_stars": 67200,
+      "forks": 4839,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "desc": "科技爱好者周刊，每周五发布",
+      "stars_today": 98,
+      "total_stars": 103354,
+      "forks": 4431,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars_today": 32,
+      "total_stars": 3460,
+      "forks": 451,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars_today": 31,
+      "total_stars": 12076,
+      "forks": 1120,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

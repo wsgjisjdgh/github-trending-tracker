@@ -3242,5 +3242,30 @@
   "ahmedkhaleel2004/gitdiagram": {
     "first_seen": "2026-09-19T05:23:02.456760",
     "tags": []
+  },
+  "higgsfield-ai/higgsfield": {
+    "first_seen": "2026-09-20T05:35:20.529384",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "docling-project/docling": {
+    "first_seen": "2026-09-20T05:35:20.529397",
+    "tags": []
+  },
+  "ruanyf/weekly": {
+    "first_seen": "2026-09-20T05:35:20.529398",
+    "tags": []
+  },
+  "yynxxxxx/Codex-X": {
+    "first_seen": "2026-09-20T05:35:20.529399",
+    "tags": [
+      "AI Agent",
+      "AI编程提效"
+    ]
+  },
+  "cloudflare/quiche": {
+    "first_seen": "2026-09-20T05:35:20.529400",
+    "tags": []
   }
 }
