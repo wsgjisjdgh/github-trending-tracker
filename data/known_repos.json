@@ -3267,5 +3267,13 @@
   "cloudflare/quiche": {
     "first_seen": "2026-09-20T05:35:20.529400",
     "tags": []
+  },
+  "vercel-labs/json-render": {
+    "first_seen": "2026-09-21T05:45:08.366285",
+    "tags": []
+  },
+  "mihail911/modern-software-dev-assignments": {
+    "first_seen": "2026-09-21T05:45:08.366298",
+    "tags": []
   }
 }
