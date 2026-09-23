@@ -1,0 +1,137 @@
+{
+  "all": [
+    {
+      "name": "google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "stars_today": 2305,
+      "total_stars": 7908,
+      "forks": 367,
+      "lang": "Go",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars_today": 441,
+      "total_stars": 14214,
+      "forks": 1367,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "desc": "No description",
+      "stars_today": 438,
+      "total_stars": 36499,
+      "forks": 5333,
+      "lang": "Python",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars_today": 255,
+      "total_stars": 15721,
+      "forks": 1401,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "desc": "Agent Substrate: the core system",
+      "stars_today": 245,
+      "total_stars": 3083,
+      "forks": 389,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars_today": 230,
+      "total_stars": 2317,
+      "forks": 225,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "stars_today": 191,
+      "total_stars": 26014,
+      "forks": 3130,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "stars_today": 64,
+      "total_stars": 31205,
+      "forks": 3549,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    }
+  ],
+  "new": [
+    {
+      "name": "google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "stars_today": 2305,
+      "total_stars": 7908,
+      "forks": 367,
+      "lang": "Go",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars_today": 255,
+      "total_stars": 15721,
+      "forks": 1401,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars_today": 230,
+      "total_stars": 2317,
+      "forks": 225,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

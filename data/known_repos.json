@@ -3283,5 +3283,25 @@
   "mvt-project/mvt": {
     "first_seen": "2026-09-22T05:42:39.054719",
     "tags": []
+  },
+  "google/ax": {
+    "first_seen": "2026-09-23T05:25:01.642206",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "dream-num/univer": {
+    "first_seen": "2026-09-23T05:25:01.642213",
+    "tags": [
+      "AI部署",
+      "AI Agent"
+    ]
+  },
+  "superdesigndev/treg": {
+    "first_seen": "2026-09-23T05:25:01.642214",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
