@@ -3303,5 +3303,22 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "strands-agents/harness-sdk": {
+    "first_seen": "2026-09-24T05:43:38.878639",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "TNT-Likely/PanWatch": {
+    "first_seen": "2026-09-24T05:43:38.878651",
+    "tags": [
+      "AI Agent",
+      "投资交易"
+    ]
+  },
+  "harry7557558/spirula-studio": {
+    "first_seen": "2026-09-24T05:43:38.878653",
+    "tags": []
   }
 }
