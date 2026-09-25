@@ -1,0 +1,224 @@
+{
+  "all": [
+    {
+      "name": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "stars_today": 1668,
+      "total_stars": 28129,
+      "forks": 2757,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "stars_today": 1373,
+      "total_stars": 10702,
+      "forks": 523,
+      "lang": "Go",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars_today": 1082,
+      "total_stars": 17946,
+      "forks": 1543,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 611,
+      "total_stars": 291298,
+      "forks": 26063,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "desc": "No description",
+      "stars_today": 509,
+      "total_stars": 37416,
+      "forks": 5422,
+      "lang": "Python",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars_today": 468,
+      "total_stars": 3220,
+      "forks": 268,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
+      "stars_today": 455,
+      "total_stars": 8323,
+      "forks": 1244,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars_today": 413,
+      "total_stars": 50394,
+      "forks": 4618,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 347,
+      "total_stars": 56784,
+      "forks": 9955,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars_today": 272,
+      "total_stars": 14759,
+      "forks": 1394,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "desc": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "stars_today": 182,
+      "total_stars": 5399,
+      "forks": 252,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "julyx10/lap",
+      "desc": "An offline-first photo manager for large local libraries",
+      "stars_today": 122,
+      "total_stars": 2932,
+      "forks": 173,
+      "lang": "Vue",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre",
+      "stars_today": 44,
+      "total_stars": 4149,
+      "forks": 633,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "投资交易"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程；高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars_today": 36,
+      "total_stars": 7288,
+      "forks": 814,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    }
+  ],
+  "new": [
+    {
+      "name": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "stars_today": 1668,
+      "total_stars": 28129,
+      "forks": 2757,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "desc": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "stars_today": 182,
+      "total_stars": 5399,
+      "forks": 252,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "julyx10/lap",
+      "desc": "An offline-first photo manager for large local libraries",
+      "stars_today": 122,
+      "total_stars": 2932,
+      "forks": 173,
+      "lang": "Vue",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre",
+      "stars_today": 44,
+      "total_stars": 4149,
+      "forks": 633,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "投资交易"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程；高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars_today": 36,
+      "total_stars": 7288,
+      "forks": 814,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    }
+  ]
+}

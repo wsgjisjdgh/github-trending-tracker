@@ -3320,5 +3320,32 @@
   "harry7557558/spirula-studio": {
     "first_seen": "2026-09-24T05:43:38.878653",
     "tags": []
+  },
+  "vectorize-io/hindsight": {
+    "first_seen": "2026-09-25T05:40:40.038940",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "FxEmbed/FxEmbed": {
+    "first_seen": "2026-09-25T05:40:40.038953",
+    "tags": []
+  },
+  "julyx10/lap": {
+    "first_seen": "2026-09-25T05:40:40.038955",
+    "tags": []
+  },
+  "NVIDIA/Model-Optimizer": {
+    "first_seen": "2026-09-25T05:40:40.038956",
+    "tags": [
+      "AI部署",
+      "投资交易"
+    ]
+  },
+  "leejet/stable-diffusion.cpp": {
+    "first_seen": "2026-09-25T05:40:40.038957",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
