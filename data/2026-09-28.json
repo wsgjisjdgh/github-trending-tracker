@@ -1,0 +1,147 @@
+{
+  "all": [
+    {
+      "name": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "stars_today": 4520,
+      "total_stars": 38269,
+      "forks": 5001,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 3086,
+      "total_stars": 40806,
+      "forks": 4841,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars_today": 2401,
+      "total_stars": 90667,
+      "forks": 15720,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars_today": 895,
+      "total_stars": 20761,
+      "forks": 1762,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 790,
+      "total_stars": 59672,
+      "forks": 10278,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "InfinityLoop1308/PipePipe",
+      "desc": "An open-source Android app to let you browse YouTube and other services freely.",
+      "stars_today": 242,
+      "total_stars": 6682,
+      "forks": 225,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars_today": 114,
+      "total_stars": 1161,
+      "forks": 111,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "desc": "TypeScript-to-Native Compiler",
+      "stars_today": 102,
+      "total_stars": 5488,
+      "forks": 142,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars_today": 83,
+      "total_stars": 879,
+      "forks": 153,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "InfinityLoop1308/PipePipe",
+      "desc": "An open-source Android app to let you browse YouTube and other services freely.",
+      "stars_today": 242,
+      "total_stars": 6682,
+      "forks": 225,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars_today": 114,
+      "total_stars": 1161,
+      "forks": 111,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "desc": "TypeScript-to-Native Compiler",
+      "stars_today": 102,
+      "total_stars": 5488,
+      "forks": 142,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars_today": 83,
+      "total_stars": 879,
+      "forks": 153,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
