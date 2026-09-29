@@ -1,0 +1,117 @@
+{
+  "all": [
+    {
+      "name": "vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "stars_today": 4561,
+      "total_stars": 41496,
+      "forks": 5582,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；向量数据库/嵌入检索工具"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 3221,
+      "total_stars": 45129,
+      "forks": 5166,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "stars_today": 3197,
+      "total_stars": 93353,
+      "forks": 15935,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars_today": 1099,
+      "total_stars": 21440,
+      "forks": 1812,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars_today": 734,
+      "total_stars": 1909,
+      "forks": 146,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "byoungd/up",
+      "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars_today": 327,
+      "total_stars": 65003,
+      "forks": 6541,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars_today": 195,
+      "total_stars": 2637,
+      "forks": 245,
+      "lang": "TeX",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars_today": 158,
+      "total_stars": 25870,
+      "forks": 5892,
+      "lang": "PLSQL",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "byoungd/up",
+      "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars_today": 327,
+      "total_stars": 65003,
+      "forks": 6541,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars_today": 195,
+      "total_stars": 2637,
+      "forks": 245,
+      "lang": "TeX",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
