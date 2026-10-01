@@ -3444,5 +3444,13 @@
   "rakyll/hey": {
     "first_seen": "2026-09-30T06:13:11.854093",
     "tags": []
+  },
+  "modelcontextprotocol/servers": {
+    "first_seen": "2026-10-01T06:43:44.580770",
+    "tags": []
+  },
+  "firebase/firebase-ios-sdk": {
+    "first_seen": "2026-10-01T06:43:44.580781",
+    "tags": []
   }
 }
