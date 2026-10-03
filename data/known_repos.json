@@ -3464,5 +3464,13 @@
   "tile-ai/tilelang": {
     "first_seen": "2026-10-02T06:31:47.879544",
     "tags": []
+  },
+  "Effect-TS/effect": {
+    "first_seen": "2026-10-03T05:57:05.630017",
+    "tags": []
+  },
+  "getsentry/sentry": {
+    "first_seen": "2026-10-03T05:57:05.630028",
+    "tags": []
   }
 }
