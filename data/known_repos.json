@@ -3472,5 +3472,15 @@
   "getsentry/sentry": {
     "first_seen": "2026-10-03T05:57:05.630028",
     "tags": []
+  },
+  "cloudflare/cloudflare-os": {
+    "first_seen": "2026-10-04T06:33:46.619591",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "meituan-longcat/LongCat-Video": {
+    "first_seen": "2026-10-04T06:33:46.619601",
+    "tags": []
   }
 }
