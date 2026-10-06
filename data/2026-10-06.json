@@ -1,0 +1,181 @@
+{
+  "all": [
+    {
+      "name": "DuarteSantos8/openGym",
+      "desc": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey l",
+      "stars_today": 1433,
+      "total_stars": 4552,
+      "forks": 685,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "stars_today": 1398,
+      "total_stars": 5181,
+      "forks": 220,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars_today": 1155,
+      "total_stars": 92134,
+      "forks": 8084,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars_today": 997,
+      "total_stars": 5147,
+      "forks": 377,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "stars_today": 744,
+      "total_stars": 157416,
+      "forks": 25386,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc",
+      "stars_today": 742,
+      "total_stars": 64258,
+      "forks": 8144,
+      "lang": "Python",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars_today": 534,
+      "total_stars": 96741,
+      "forks": 8535,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "stars_today": 515,
+      "total_stars": 77265,
+      "forks": 5081,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "desc": "No description",
+      "stars_today": 485,
+      "total_stars": 25710,
+      "forks": 6617,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "stars_today": 437,
+      "total_stars": 17568,
+      "forks": 1779,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "desc": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu",
+      "stars_today": 196,
+      "total_stars": 1512,
+      "forks": 130,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "desc": "Stremio - Freedom to Stream",
+      "stars_today": 111,
+      "total_stars": 14354,
+      "forks": 1636,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "stars_today": 101,
+      "total_stars": 11105,
+      "forks": 1315,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "DuarteSantos8/openGym",
+      "desc": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey l",
+      "stars_today": 1433,
+      "total_stars": 4552,
+      "forks": 685,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars_today": 997,
+      "total_stars": 5147,
+      "forks": 377,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "desc": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?featu",
+      "stars_today": 196,
+      "total_stars": 1512,
+      "forks": 130,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
