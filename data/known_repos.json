@@ -3509,5 +3509,15 @@
   "M-Abozaid/esp32-c3-adblock": {
     "first_seen": "2026-10-06T07:04:06.568406",
     "tags": []
+  },
+  "morluto/rea": {
+    "first_seen": "2026-10-07T06:45:34.348326",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "deepseek-ai/DeepGEMM": {
+    "first_seen": "2026-10-07T06:45:34.348339",
+    "tags": []
   }
 }
