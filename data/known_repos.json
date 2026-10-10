@@ -3527,5 +3527,17 @@
   "storytold/artcraft": {
     "first_seen": "2026-10-09T07:03:30.512424",
     "tags": []
+  },
+  "BerriAI/litellm": {
+    "first_seen": "2026-10-10T06:34:43.865373",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "twostraws/SwiftUI-Agent-Skill": {
+    "first_seen": "2026-10-10T06:34:43.865384",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
