@@ -1,0 +1,149 @@
+{
+  "all": [
+    {
+      "name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars_today": 25793,
+      "total_stars": 79091,
+      "forks": 17059,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars_today": 5805,
+      "total_stars": 27523,
+      "forks": 2327,
+      "lang": "C++",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars_today": 3222,
+      "total_stars": 15137,
+      "forks": 2407,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1736,
+      "total_stars": 284888,
+      "forks": 23841,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars_today": 1190,
+      "total_stars": 49231,
+      "forks": 3118,
+      "lang": "HTML",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 625,
+      "total_stars": 28925,
+      "forks": 3286,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
+      "stars_today": 461,
+      "total_stars": 59753,
+      "forks": 4713,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars_today": 278,
+      "total_stars": 218465,
+      "forks": 22002,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars_today": 178,
+      "total_stars": 26446,
+      "forks": 1903,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars_today": 96,
+      "total_stars": 167381,
+      "forks": 34810,
+      "lang": "Python",
+      "tags": [
+        "AI部署",
+        "投资交易"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "stars_today": 88,
+      "total_stars": 179636,
+      "forks": 33626,
+      "lang": "Dart",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars_today": 84,
+      "total_stars": 104205,
+      "forks": 31968,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "desc": "An Open Source Machine Learning Framework for Everyone",
+      "stars_today": 26,
+      "total_stars": 200792,
+      "forks": 78988,
+      "lang": "C++",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    }
+  ],
+  "new": []
+}
