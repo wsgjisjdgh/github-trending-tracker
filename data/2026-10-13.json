@@ -1,0 +1,131 @@
+{
+  "all": [
+    {
+      "name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars_today": 45327,
+      "total_stars": 174682,
+      "forks": 41886,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars_today": 4095,
+      "total_stars": 23155,
+      "forks": 3696,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars_today": 2081,
+      "total_stars": 53087,
+      "forks": 3354,
+      "lang": "HTML",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars_today": 1895,
+      "total_stars": 54193,
+      "forks": 10670,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars_today": 879,
+      "total_stars": 37775,
+      "forks": 3890,
+      "lang": "Jupyter Notebook",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul",
+      "stars_today": 626,
+      "total_stars": 59527,
+      "forks": 9354,
+      "lang": "Python",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars_today": 246,
+      "total_stars": 27567,
+      "forks": 1956,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars_today": 157,
+      "total_stars": 155340,
+      "forks": 22664,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars_today": 97,
+      "total_stars": 41029,
+      "forks": 3819,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    }
+  ],
+  "new": [
+    {
+      "name": "open-webui/open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars_today": 157,
+      "total_stars": 155340,
+      "forks": 22664,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars_today": 97,
+      "total_stars": 41029,
+      "forks": 3819,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    }
+  ]
+}

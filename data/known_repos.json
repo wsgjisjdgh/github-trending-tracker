@@ -3539,5 +3539,15 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "open-webui/open-webui": {
+    "first_seen": "2026-10-13T07:16:19.875913",
+    "tags": []
+  },
+  "microsoft/BitNet": {
+    "first_seen": "2026-10-13T07:16:19.875923",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
