@@ -1,0 +1,177 @@
+{
+  "all": [
+    {
+      "name": "morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars_today": 41034,
+      "total_stars": 249037,
+      "forks": 62512,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 3538,
+      "total_stars": 66992,
+      "forks": 7368,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
+      "stars_today": 2109,
+      "total_stars": 27728,
+      "forks": 1516,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "xtool-org/xtool",
+      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars_today": 1502,
+      "total_stars": 11090,
+      "forks": 507,
+      "lang": "Swift",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars_today": 1025,
+      "total_stars": 29828,
+      "forks": 4476,
+      "lang": "Go",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars_today": 1008,
+      "total_stars": 87794,
+      "forks": 9795,
+      "lang": "Java",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars_today": 947,
+      "total_stars": 29305,
+      "forks": 2055,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "rust-lang/rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "stars_today": 207,
+      "total_stars": 120144,
+      "forks": 18707,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
+      "stars_today": 163,
+      "total_stars": 49586,
+      "forks": 4436,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI for Science 项目，用AI加速科学研究"
+    },
+    {
+      "name": "ntdevlabs/tiny11builder",
+      "desc": "WinUI app for building smaller, customized Windows 11 images.",
+      "stars_today": 139,
+      "total_stars": 20339,
+      "forks": 1559,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars_today": 103,
+      "total_stars": 52678,
+      "forks": 4780,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars_today": 52,
+      "total_stars": 95494,
+      "forks": 10522,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "ifixai-ai/iFixAi",
+      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
+      "stars_today": 2109,
+      "total_stars": 27728,
+      "forks": 1516,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "rust-lang/rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "stars_today": 207,
+      "total_stars": 120144,
+      "forks": 18707,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ntdevlabs/tiny11builder",
+      "desc": "WinUI app for building smaller, customized Windows 11 images.",
+      "stars_today": 139,
+      "total_stars": 20339,
+      "forks": 1559,
+      "lang": "C#",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

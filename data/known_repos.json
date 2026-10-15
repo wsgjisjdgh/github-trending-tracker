@@ -3555,5 +3555,19 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "ifixai-ai/iFixAi": {
+    "first_seen": "2026-10-15T05:26:43.595286",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "rust-lang/rust": {
+    "first_seen": "2026-10-15T05:26:43.595299",
+    "tags": []
+  },
+  "ntdevlabs/tiny11builder": {
+    "first_seen": "2026-10-15T05:26:43.595302",
+    "tags": []
   }
 }
