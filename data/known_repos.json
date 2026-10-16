@@ -3569,5 +3569,21 @@
   "ntdevlabs/tiny11builder": {
     "first_seen": "2026-10-15T05:26:43.595302",
     "tags": []
+  },
+  "LibreSpark/LibreTV": {
+    "first_seen": "2026-10-16T05:19:17.077999",
+    "tags": []
+  },
+  "xerj-org/xerj": {
+    "first_seen": "2026-10-16T05:19:17.078012",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "lightseekorg/tokenspeed": {
+    "first_seen": "2026-10-16T05:19:17.078015",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
