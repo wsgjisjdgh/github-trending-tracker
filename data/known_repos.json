@@ -3593,5 +3593,13 @@
   "android/skills": {
     "first_seen": "2026-10-17T05:14:12.040739",
     "tags": []
+  },
+  "Kruk2/jasna": {
+    "first_seen": "2026-10-19T05:33:43.590722",
+    "tags": []
+  },
+  "mlabonne/llm-course": {
+    "first_seen": "2026-10-19T05:33:43.590734",
+    "tags": []
   }
 }
