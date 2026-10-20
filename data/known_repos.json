@@ -3601,5 +3601,16 @@
   "mlabonne/llm-course": {
     "first_seen": "2026-10-19T05:33:43.590734",
     "tags": []
+  },
+  "headroomlabs-ai/headroom": {
+    "first_seen": "2026-10-20T05:36:10.917566",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "withmarbleapp/os-taxonomy": {
+    "first_seen": "2026-10-20T05:36:10.917582",
+    "tags": []
   }
 }
