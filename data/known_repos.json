@@ -3612,5 +3612,26 @@
   "withmarbleapp/os-taxonomy": {
     "first_seen": "2026-10-20T05:36:10.917582",
     "tags": []
+  },
+  "vllm-project/vllm": {
+    "first_seen": "2026-10-21T05:37:11.656232",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "wshobson/agents": {
+    "first_seen": "2026-10-21T05:37:11.656240",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "投资交易"
+    ]
+  },
+  "sickn33/agentic-awesome-skills": {
+    "first_seen": "2026-10-21T05:37:11.656242",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
   }
 }
