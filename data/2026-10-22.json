@@ -1,0 +1,137 @@
+{
+  "all": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars_today": 2079,
+      "total_stars": 172029,
+      "forks": 9364,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 2012,
+      "total_stars": 37160,
+      "forks": 2315,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars_today": 1541,
+      "total_stars": 101656,
+      "forks": 6429,
+      "lang": "TypeScript",
+      "tags": [
+        "AI部署",
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
+      "stars_today": 1433,
+      "total_stars": 131914,
+      "forks": 12658,
+      "lang": "Python",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "向量数据库/嵌入检索工具；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars_today": 939,
+      "total_stars": 141677,
+      "forks": 16740,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars_today": 575,
+      "total_stars": 42942,
+      "forks": 7079,
+      "lang": "Python",
+      "tags": [
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "基础模型，特定领域的大规模预训练模型"
+    },
+    {
+      "name": "supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars_today": 504,
+      "total_stars": 113137,
+      "forks": 16971,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars_today": 474,
+      "total_stars": 77367,
+      "forks": 6008,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars_today": 441,
+      "total_stars": 94980,
+      "forks": 23766,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；模型服务化框架，提供标准化的模型API接口"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars_today": 286,
+      "total_stars": 12482,
+      "forks": 879,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "stars_today": 112,
+      "total_stars": 59333,
+      "forks": 9671,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": []
+}
