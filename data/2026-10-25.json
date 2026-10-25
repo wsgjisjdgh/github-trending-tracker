@@ -1,0 +1,165 @@
+{
+  "all": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 2264,
+      "total_stars": 45055,
+      "forks": 2797,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars_today": 896,
+      "total_stars": 19593,
+      "forks": 1939,
+      "lang": "Rust",
+      "tags": [
+        "AI部署",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars_today": 619,
+      "total_stars": 86600,
+      "forks": 5169,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars_today": 477,
+      "total_stars": 4221,
+      "forks": 605,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 455,
+      "total_stars": 32399,
+      "forks": 1663,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars_today": 392,
+      "total_stars": 44691,
+      "forks": 5499,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "stars_today": 319,
+      "total_stars": 11110,
+      "forks": 1419,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "stars_today": 227,
+      "total_stars": 22802,
+      "forks": 3198,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars_today": 44,
+      "total_stars": 108196,
+      "forks": 14819,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars_today": 13,
+      "total_stars": 3192,
+      "forks": 403,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars_today": 477,
+      "total_stars": 4221,
+      "forks": 605,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "stars_today": 319,
+      "total_stars": 11110,
+      "forks": 1419,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "stars_today": 227,
+      "total_stars": 22802,
+      "forks": 3198,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "stars_today": 44,
+      "total_stars": 108196,
+      "forks": 14819,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    }
+  ]
+}

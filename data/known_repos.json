@@ -3649,5 +3649,25 @@
   "Renhuai123/ziwei-doushu": {
     "first_seen": "2026-10-24T05:16:35.517332",
     "tags": []
+  },
+  "makecindy/cindy": {
+    "first_seen": "2026-10-25T05:33:24.766290",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "pollen-robotics/microduck": {
+    "first_seen": "2026-10-25T05:33:24.766301",
+    "tags": []
+  },
+  "jbiaojerry/ebook-treasure-chest": {
+    "first_seen": "2026-10-25T05:33:24.766305",
+    "tags": []
+  },
+  "google-gemini/gemini-cli": {
+    "first_seen": "2026-10-25T05:33:24.766307",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
