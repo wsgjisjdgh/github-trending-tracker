@@ -3669,5 +3669,23 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "AgriciDaniel/claude-seo": {
+    "first_seen": "2026-10-26T05:40:36.978651",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "coollabsio/coolify": {
+    "first_seen": "2026-10-26T05:40:36.978661",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "JetBrains/thinkrail": {
+    "first_seen": "2026-10-26T05:40:36.978687",
+    "tags": [
+      "Vibe Coding"
+    ]
   }
 }

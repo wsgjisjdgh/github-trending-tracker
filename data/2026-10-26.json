@@ -1,0 +1,168 @@
+{
+  "all": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 2878,
+      "total_stars": 47281,
+      "forks": 2937,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "stars_today": 1592,
+      "total_stars": 87272,
+      "forks": 9652,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars_today": 1317,
+      "total_stars": 34332,
+      "forks": 1786,
+      "lang": "CSS",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars_today": 1092,
+      "total_stars": 87995,
+      "forks": 5255,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars_today": 675,
+      "total_stars": 5201,
+      "forks": 693,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "stars_today": 647,
+      "total_stars": 11859,
+      "forks": 1502,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars_today": 381,
+      "total_stars": 114878,
+      "forks": 22154,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars_today": 199,
+      "total_stars": 7866,
+      "forks": 1591,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
+      "stars_today": 197,
+      "total_stars": 21213,
+      "forks": 2971,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "coollabsio/coolify",
+      "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own serv",
+      "stars_today": 152,
+      "total_stars": 64609,
+      "forks": 5804,
+      "lang": "PHP",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars_today": 51,
+      "total_stars": 2017,
+      "forks": 112,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
+      "stars_today": 197,
+      "total_stars": 21213,
+      "forks": 2971,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "coollabsio/coolify",
+      "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own serv",
+      "stars_today": 152,
+      "total_stars": 64609,
+      "forks": 5804,
+      "lang": "PHP",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars_today": 51,
+      "total_stars": 2017,
+      "forks": 112,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
