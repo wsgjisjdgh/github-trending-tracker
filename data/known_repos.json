@@ -3687,5 +3687,24 @@
     "tags": [
       "Vibe Coding"
     ]
+  },
+  "alchaincyf/huashu-design": {
+    "first_seen": "2026-10-27T05:50:40.640143",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "gitroomhq/postiz-app": {
+    "first_seen": "2026-10-27T05:50:40.640152",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "nightly-labs/openbot": {
+    "first_seen": "2026-10-27T05:50:40.640154",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
