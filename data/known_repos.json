@@ -3724,5 +3724,22 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "milind-soni/OpenMausBot": {
+    "first_seen": "2026-10-30T06:40:59.015614",
+    "tags": []
+  },
+  "Donchitos/Claude-Code-Game-Studios": {
+    "first_seen": "2026-10-30T06:40:59.015629",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "CopilotKit/OpenBot": {
+    "first_seen": "2026-10-30T06:40:59.015632",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
