@@ -3741,5 +3741,21 @@
       "AI Agent",
       "Vibe Coding"
     ]
+  },
+  "Orkas-AI/Orkas": {
+    "first_seen": "2026-11-01T07:01:49.923555",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "vorssaint/vorssaint-utils": {
+    "first_seen": "2026-11-01T07:01:49.923568",
+    "tags": []
+  },
+  "bregman-arie/devops-exercises": {
+    "first_seen": "2026-11-01T07:01:49.923570",
+    "tags": [
+      "AI Infra"
+    ]
   }
 }
