@@ -3757,5 +3757,37 @@
     "tags": [
       "AI Infra"
     ]
+  },
+  "patchy631/ai-engineering-hub": {
+    "first_seen": "2026-11-02T07:01:40.167384",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "anomalyco/hex": {
+    "first_seen": "2026-11-02T07:01:40.167395",
+    "tags": []
+  },
+  "beenuar/AiSOC": {
+    "first_seen": "2026-11-02T07:01:40.167400",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "投资交易"
+    ]
+  },
+  "cjpais/Handy": {
+    "first_seen": "2026-11-02T07:01:40.167402",
+    "tags": []
+  },
+  "FlashML-org/FreeToken": {
+    "first_seen": "2026-11-02T07:01:40.167404",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "kornia/kornia": {
+    "first_seen": "2026-11-02T07:01:40.167406",
+    "tags": []
   }
 }
