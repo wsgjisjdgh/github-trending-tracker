@@ -3789,5 +3789,15 @@
   "kornia/kornia": {
     "first_seen": "2026-11-02T07:01:40.167406",
     "tags": []
+  },
+  "vercel-labs/agent-desktop": {
+    "first_seen": "2026-11-03T07:26:43.463084",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "karpathy/nanochat": {
+    "first_seen": "2026-11-03T07:26:43.463102",
+    "tags": []
   }
 }
