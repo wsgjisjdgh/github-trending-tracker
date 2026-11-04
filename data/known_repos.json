@@ -3799,5 +3799,17 @@
   "karpathy/nanochat": {
     "first_seen": "2026-11-03T07:26:43.463102",
     "tags": []
+  },
+  "floci-io/floci": {
+    "first_seen": "2026-11-04T07:07:57.569587",
+    "tags": []
+  },
+  "Usagi-org/ai-goofish-monitor": {
+    "first_seen": "2026-11-04T07:07:57.569597",
+    "tags": []
+  },
+  "spotify/portal-ai-plugins": {
+    "first_seen": "2026-11-04T07:07:57.569599",
+    "tags": []
   }
 }
