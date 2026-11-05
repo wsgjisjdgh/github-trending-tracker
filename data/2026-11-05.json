@@ -1,0 +1,261 @@
+{
+  "all": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "desc": "Computer use CLI for AI agents",
+      "stars_today": 2470,
+      "total_stars": 15784,
+      "forks": 1100,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
+      "stars_today": 2050,
+      "total_stars": 5838,
+      "forks": 456,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
+      "stars_today": 2005,
+      "total_stars": 97012,
+      "forks": 10168,
+      "lang": "Python",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "desc": "No description",
+      "stars_today": 1778,
+      "total_stars": 6836,
+      "forks": 242,
+      "lang": "C#",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1379,
+      "total_stars": 313776,
+      "forks": 26309,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau",
+      "stars_today": 1172,
+      "total_stars": 113106,
+      "forks": 9818,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "floci-io/floci",
+      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "stars_today": 1090,
+      "total_stars": 29842,
+      "forks": 3293,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with SDD or any other process!",
+      "stars_today": 808,
+      "total_stars": 147514,
+      "forks": 13234,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars_today": 617,
+      "total_stars": 139328,
+      "forks": 22225,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars_today": 531,
+      "total_stars": 11208,
+      "forks": 420,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars_today": 351,
+      "total_stars": 10530,
+      "forks": 1648,
+      "lang": "C",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars_today": 290,
+      "total_stars": 139515,
+      "forks": 20649,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "The-PR-Agent/pr-agent",
+      "desc": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "stars_today": 280,
+      "total_stars": 14917,
+      "forks": 2100,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "scenario-labs/skills",
+      "desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus e",
+      "stars_today": 224,
+      "total_stars": 2624,
+      "forks": 251,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Thysrael/Horizon",
+      "desc": "📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
+      "stars_today": 121,
+      "total_stars": 12726,
+      "forks": 1834,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "MichaelCade/90DaysOfDevOps",
+      "desc": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps",
+      "stars_today": 97,
+      "total_stars": 30625,
+      "forks": 6797,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
+      "stars_today": 2050,
+      "total_stars": 5838,
+      "forks": 456,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "desc": "No description",
+      "stars_today": 1778,
+      "total_stars": 6836,
+      "forks": 242,
+      "lang": "C#",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars_today": 351,
+      "total_stars": 10530,
+      "forks": 1648,
+      "lang": "C",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "The-PR-Agent/pr-agent",
+      "desc": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "stars_today": 280,
+      "total_stars": 14917,
+      "forks": 2100,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "scenario-labs/skills",
+      "desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus e",
+      "stars_today": 224,
+      "total_stars": 2624,
+      "forks": 251,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "Thysrael/Horizon",
+      "desc": "📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达",
+      "stars_today": 121,
+      "total_stars": 12726,
+      "forks": 1834,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "MichaelCade/90DaysOfDevOps",
+      "desc": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps",
+      "stars_today": 97,
+      "total_stars": 30625,
+      "forks": 6797,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

@@ -3811,5 +3811,41 @@
   "spotify/portal-ai-plugins": {
     "first_seen": "2026-11-04T07:07:57.569599",
     "tags": []
+  },
+  "NVIDIA/auto-ontology": {
+    "first_seen": "2026-11-05T07:37:02.690460",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "JiaFeiMiao-K-Cat/DiscImageStudio": {
+    "first_seen": "2026-11-05T07:37:02.690472",
+    "tags": []
+  },
+  "FareedKhan-dev/kimi-k3-in-c": {
+    "first_seen": "2026-11-05T07:37:02.690476",
+    "tags": [
+      "AI部署"
+    ]
+  },
+  "The-PR-Agent/pr-agent": {
+    "first_seen": "2026-11-05T07:37:02.690478",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "scenario-labs/skills": {
+    "first_seen": "2026-11-05T07:37:02.690479",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "Thysrael/Horizon": {
+    "first_seen": "2026-11-05T07:37:02.690480",
+    "tags": []
+  },
+  "MichaelCade/90DaysOfDevOps": {
+    "first_seen": "2026-11-05T07:37:02.690481",
+    "tags": []
   }
 }
