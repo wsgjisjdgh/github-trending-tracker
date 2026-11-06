@@ -3847,5 +3847,15 @@
   "MichaelCade/90DaysOfDevOps": {
     "first_seen": "2026-11-05T07:37:02.690481",
     "tags": []
+  },
+  "vercel-labs/agent-browser": {
+    "first_seen": "2026-11-06T07:31:36.770543",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "lz4/lz4": {
+    "first_seen": "2026-11-06T07:31:36.770551",
+    "tags": []
   }
 }
