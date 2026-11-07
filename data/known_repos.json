@@ -3857,5 +3857,49 @@
   "lz4/lz4": {
     "first_seen": "2026-11-06T07:31:36.770551",
     "tags": []
+  },
+  "zed-industries/zed": {
+    "first_seen": "2026-11-07T06:44:59.260125",
+    "tags": []
+  },
+  "react/react": {
+    "first_seen": "2026-11-07T06:44:59.260138",
+    "tags": []
+  },
+  "astral-sh/ruff": {
+    "first_seen": "2026-11-07T06:44:59.260140",
+    "tags": []
+  },
+  "prometheus/prometheus": {
+    "first_seen": "2026-11-07T06:44:59.260142",
+    "tags": []
+  },
+  "rails/rails": {
+    "first_seen": "2026-11-07T06:44:59.260143",
+    "tags": []
+  },
+  "nushell/nushell": {
+    "first_seen": "2026-11-07T06:44:59.260144",
+    "tags": []
+  },
+  "symfony/symfony": {
+    "first_seen": "2026-11-07T06:44:59.260146",
+    "tags": []
+  },
+  "etcd-io/etcd": {
+    "first_seen": "2026-11-07T06:44:59.260147",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "mpv-player/mpv": {
+    "first_seen": "2026-11-07T06:44:59.260148",
+    "tags": []
+  },
+  "openssl/openssl": {
+    "first_seen": "2026-11-07T06:44:59.260150",
+    "tags": [
+      "投资交易"
+    ]
   }
 }
