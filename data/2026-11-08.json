@@ -1,0 +1,224 @@
+{
+  "all": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars_today": 2085,
+      "total_stars": 66051,
+      "forks": 4297,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars_today": 1955,
+      "total_stars": 17320,
+      "forks": 2439,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars_today": 1766,
+      "total_stars": 101108,
+      "forks": 11951,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "zed-industries/zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars_today": 1114,
+      "total_stars": 94356,
+      "forks": 11558,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars_today": 1100,
+      "total_stars": 317946,
+      "forks": 26605,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "stars_today": 443,
+      "total_stars": 23531,
+      "forks": 1967,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 390,
+      "total_stars": 188943,
+      "forks": 22271,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+      "stars_today": 350,
+      "total_stars": 51031,
+      "forks": 2634,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "stars_today": 322,
+      "total_stars": 67491,
+      "forks": 11011,
+      "lang": "Go",
+      "tags": [],
+      "cn": "数据库相关工具"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣",
+      "stars_today": 191,
+      "total_stars": 4729,
+      "forks": 379,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "stars_today": 190,
+      "total_stars": 47025,
+      "forks": 3222,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "mbillow/localthings",
+      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "stars_today": 186,
+      "total_stars": 1101,
+      "forks": 114,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars_today": 123,
+      "total_stars": 619,
+      "forks": 95,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "stars_today": 122,
+      "total_stars": 98573,
+      "forks": 7118,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 96,
+      "total_stars": 14770,
+      "forks": 1210,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ],
+  "new": [
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars_today": 1766,
+      "total_stars": 101108,
+      "forks": 11951,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣",
+      "stars_today": 191,
+      "total_stars": 4729,
+      "forks": 379,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mbillow/localthings",
+      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "stars_today": 186,
+      "total_stars": 1101,
+      "forks": 114,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars_today": 123,
+      "total_stars": 619,
+      "forks": 95,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 96,
+      "total_stars": 14770,
+      "forks": 1210,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    }
+  ]
+}

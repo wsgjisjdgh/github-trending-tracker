@@ -3901,5 +3901,29 @@
     "tags": [
       "投资交易"
     ]
+  },
+  "sherlock-project/sherlock": {
+    "first_seen": "2026-11-08T06:51:49.334050",
+    "tags": []
+  },
+  "ranxianglei/billion-context": {
+    "first_seen": "2026-11-08T06:51:49.334065",
+    "tags": []
+  },
+  "mbillow/localthings": {
+    "first_seen": "2026-11-08T06:51:49.334067",
+    "tags": []
+  },
+  "dsx-ai-factory/nvke": {
+    "first_seen": "2026-11-08T06:51:49.334069",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "meta/astryx": {
+    "first_seen": "2026-11-08T06:51:49.334070",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
