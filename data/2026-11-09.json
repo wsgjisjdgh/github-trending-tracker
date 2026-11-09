@@ -1,0 +1,132 @@
+{
+  "all": [
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars_today": 2373,
+      "total_stars": 104926,
+      "forks": 12225,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars_today": 1439,
+      "total_stars": 18830,
+      "forks": 2594,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 875,
+      "total_stars": 17751,
+      "forks": 1389,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "stars_today": 815,
+      "total_stars": 47925,
+      "forks": 3274,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 792,
+      "total_stars": 189948,
+      "forks": 22378,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣",
+      "stars_today": 460,
+      "total_stars": 5419,
+      "forks": 418,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars_today": 345,
+      "total_stars": 950,
+      "forks": 113,
+      "lang": "Go",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars_today": 41,
+      "total_stars": 16598,
+      "forks": 1960,
+      "lang": "C++",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars_today": 32,
+      "total_stars": 19613,
+      "forks": 3288,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    }
+  ],
+  "new": [
+    {
+      "name": "google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars_today": 41,
+      "total_stars": 16598,
+      "forks": 1960,
+      "lang": "C++",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars_today": 32,
+      "total_stars": 19613,
+      "forks": 3288,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    }
+  ]
+}

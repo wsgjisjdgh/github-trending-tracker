@@ -3925,5 +3925,17 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "google-deepmind/mujoco": {
+    "first_seen": "2026-11-09T07:31:05.770004",
+    "tags": [
+      "AI for Science"
+    ]
+  },
+  "anthropics/claude-quickstarts": {
+    "first_seen": "2026-11-09T07:31:05.770016",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
