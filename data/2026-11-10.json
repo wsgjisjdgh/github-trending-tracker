@@ -1,0 +1,158 @@
+{
+  "all": [
+    {
+      "name": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars_today": 4267,
+      "total_stars": 107837,
+      "forks": 12467,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 3278,
+      "total_stars": 20960,
+      "forks": 1586,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars_today": 1587,
+      "total_stars": 20150,
+      "forks": 2756,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "stars_today": 1038,
+      "total_stars": 191474,
+      "forks": 22476,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "stars_today": 916,
+      "total_stars": 48744,
+      "forks": 3321,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "stars_today": 574,
+      "total_stars": 17080,
+      "forks": 2014,
+      "lang": "C++",
+      "tags": [
+        "AI for Science"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars_today": 551,
+      "total_stars": 20175,
+      "forks": 3328,
+      "lang": "Python",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars_today": 506,
+      "total_stars": 69285,
+      "forks": 56489,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "garrytan/gbrain",
+      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stars_today": 216,
+      "total_stars": 32328,
+      "forks": 4781,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars_today": 172,
+      "total_stars": 103696,
+      "forks": 13431,
+      "lang": "Rust",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars_today": 31,
+      "total_stars": 6206,
+      "forks": 302,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "garrytan/gbrain",
+      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stars_today": 216,
+      "total_stars": 32328,
+      "forks": 4781,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars_today": 31,
+      "total_stars": 6206,
+      "forks": 302,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

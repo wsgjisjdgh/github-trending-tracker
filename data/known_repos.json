@@ -3937,5 +3937,18 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "garrytan/gbrain": {
+    "first_seen": "2026-11-10T07:55:55.641243",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "homeassistant-ai/ha-mcp": {
+    "first_seen": "2026-11-10T07:55:55.641254",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
   }
 }
