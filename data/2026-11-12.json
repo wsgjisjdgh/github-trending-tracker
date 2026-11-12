@@ -1,0 +1,161 @@
+{
+  "all": [
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 2776,
+      "total_stars": 25600,
+      "forks": 1993,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "stars_today": 1078,
+      "total_stars": 13239,
+      "forks": 977,
+      "lang": "Ruby",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 787,
+      "total_stars": 116180,
+      "forks": 12174,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "stars_today": 708,
+      "total_stars": 50064,
+      "forks": 3494,
+      "lang": "Rust",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars_today": 645,
+      "total_stars": 7560,
+      "forks": 459,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "shadcn/improve",
+      "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "stars_today": 361,
+      "total_stars": 11200,
+      "forks": 454,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+      "stars_today": 278,
+      "total_stars": 70762,
+      "forks": 57009,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "desc": "No description",
+      "stars_today": 159,
+      "total_stars": 2035,
+      "forks": 151,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/`@openai`/codex-security",
+      "stars_today": 52,
+      "total_stars": 11951,
+      "forks": 952,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "TheAlgorithms/Java",
+      "desc": "All Algorithms implemented in Java",
+      "stars_today": 51,
+      "total_stars": 67158,
+      "forks": 21519,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "shadcn/improve",
+      "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "stars_today": 361,
+      "total_stars": 11200,
+      "forks": 454,
+      "lang": "N/A",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "desc": "No description",
+      "stars_today": 159,
+      "total_stars": 2035,
+      "forks": 151,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "暂无简介"
+    },
+    {
+      "name": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/`@openai`/codex-security",
+      "stars_today": 52,
+      "total_stars": 11951,
+      "forks": 952,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "TheAlgorithms/Java",
+      "desc": "All Algorithms implemented in Java",
+      "stars_today": 51,
+      "total_stars": 67158,
+      "forks": 21519,
+      "lang": "Java",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}
