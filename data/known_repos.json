@@ -3972,5 +3972,23 @@
   "TheAlgorithms/Java": {
     "first_seen": "2026-11-12T07:53:16.066167",
     "tags": []
+  },
+  "pookjw/HermesEnabler": {
+    "first_seen": "2026-11-13T07:30:26.961120",
+    "tags": []
+  },
+  "QwenLM/qwen-code": {
+    "first_seen": "2026-11-13T07:30:26.961133",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "ashhart/TensorFold": {
+    "first_seen": "2026-11-13T07:30:26.961135",
+    "tags": [
+      "AI部署"
+    ]
   }
 }

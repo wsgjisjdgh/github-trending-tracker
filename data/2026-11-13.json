@@ -1,0 +1,196 @@
+{
+  "all": [
+    {
+      "name": "meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "stars_today": 1830,
+      "total_stars": 26908,
+      "forks": 2086,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "stars_today": 967,
+      "total_stars": 14193,
+      "forks": 1069,
+      "lang": "Ruby",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "stars_today": 816,
+      "total_stars": 116863,
+      "forks": 12220,
+      "lang": "JavaScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "stars_today": 739,
+      "total_stars": 3671,
+      "forks": 225,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/`@openai`/codex-security",
+      "stars_today": 643,
+      "total_stars": 12671,
+      "forks": 991,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser ",
+      "stars_today": 415,
+      "total_stars": 69564,
+      "forks": 10799,
+      "lang": "Python",
+      "tags": [],
+      "cn": "浏览器相关项目"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars_today": 298,
+      "total_stars": 11866,
+      "forks": 1457,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；浏览器相关项目"
+    },
+    {
+      "name": "pookjw/HermesEnabler",
+      "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "stars_today": 218,
+      "total_stars": 1653,
+      "forks": 145,
+      "lang": "Objective-C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "stars_today": 176,
+      "total_stars": 134727,
+      "forks": 25528,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "desc": "An open-source AI coding agent that lives in your terminal.",
+      "stars_today": 151,
+      "total_stars": 29992,
+      "forks": 3410,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars_today": 63,
+      "total_stars": 96066,
+      "forks": 10761,
+      "lang": "Shell",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "stars_today": 62,
+      "total_stars": 123658,
+      "forks": 38060,
+      "lang": "JavaScript",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "stars_today": 54,
+      "total_stars": 2021,
+      "forks": 397,
+      "lang": "Zig",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    }
+  ],
+  "new": [
+    {
+      "name": "pookjw/HermesEnabler",
+      "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "stars_today": 218,
+      "total_stars": 1653,
+      "forks": 145,
+      "lang": "Objective-C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "desc": "An open-source AI coding agent that lives in your terminal.",
+      "stars_today": 151,
+      "total_stars": 29992,
+      "forks": 3410,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "stars_today": 54,
+      "total_stars": 2021,
+      "forks": 397,
+      "lang": "Zig",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "高性能推理引擎，优化模型推理速度和资源占用；大语言模型相关工具或资源"
+    }
+  ]
+}
