@@ -4010,5 +4010,21 @@
     "tags": [
       "投资交易"
     ]
+  },
+  "martin-olivier/airgorah": {
+    "first_seen": "2026-11-15T07:25:07.192717",
+    "tags": []
+  },
+  "Tencent/LoopForge": {
+    "first_seen": "2026-11-15T07:25:07.192727",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "ag-ui-protocol/ag-ui": {
+    "first_seen": "2026-11-15T07:25:07.192729",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
