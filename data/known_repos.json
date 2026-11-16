@@ -4026,5 +4026,21 @@
     "tags": [
       "AI Agent"
     ]
+  },
+  "NVIDIA/SkillEvaluator": {
+    "first_seen": "2026-11-16T07:31:16.582720",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "elementalsouls/Claude-BugHunter": {
+    "first_seen": "2026-11-16T07:31:16.582730",
+    "tags": [
+      "AI Infra"
+    ]
+  },
+  "ggml-org/ggml": {
+    "first_seen": "2026-11-16T07:31:16.582731",
+    "tags": []
   }
 }
