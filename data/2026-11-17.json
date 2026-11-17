@@ -1,0 +1,234 @@
+{
+  "all": [
+    {
+      "name": "dream-num/univer",
+      "desc": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars_today": 1828,
+      "total_stars": 28556,
+      "forks": 2578,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
+      "stars_today": 1094,
+      "total_stars": 7837,
+      "forks": 1216,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+      "stars_today": 951,
+      "total_stars": 53245,
+      "forks": 4361,
+      "lang": "Go",
+      "tags": [
+        "AI Infra",
+        "AI Agent",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；大语言模型相关工具或资源"
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "desc": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski",
+      "stars_today": 873,
+      "total_stars": 3050,
+      "forks": 434,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "stars_today": 841,
+      "total_stars": 57864,
+      "forks": 4859,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars_today": 837,
+      "total_stars": 6613,
+      "forks": 1377,
+      "lang": "Python",
+      "tags": [
+        "投资交易"
+      ],
+      "cn": "量化交易工具/策略，可用于自动化投资决策"
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "desc": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars_today": 791,
+      "total_stars": 19584,
+      "forks": 2022,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars_today": 696,
+      "total_stars": 12823,
+      "forks": 1272,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars_today": 529,
+      "total_stars": 9869,
+      "forks": 1281,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "desc": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
+      "stars_today": 367,
+      "total_stars": 7309,
+      "forks": 663,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "desc": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars_today": 313,
+      "total_stars": 1940,
+      "forks": 302,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "desc": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
+      "stars_today": 288,
+      "total_stars": 7401,
+      "forks": 887,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 135,
+      "total_stars": 68422,
+      "forks": 6087,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "desc": "web development for the rest of us",
+      "stars_today": 115,
+      "total_stars": 89144,
+      "forks": 6136,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "desc": "Modern Docker Management, Designed for Everyone",
+      "stars_today": 46,
+      "total_stars": 8959,
+      "forks": 463,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ],
+  "new": [
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "desc": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
+      "stars_today": 367,
+      "total_stars": 7309,
+      "forks": 663,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "desc": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars_today": 313,
+      "total_stars": 1940,
+      "forks": 302,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "desc": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
+      "stars_today": 288,
+      "total_stars": 7401,
+      "forks": 887,
+      "lang": "JavaScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "desc": "Modern Docker Management, Designed for Everyone",
+      "stars_today": 46,
+      "total_stars": 8959,
+      "forks": 463,
+      "lang": "Go",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    }
+  ]
+}

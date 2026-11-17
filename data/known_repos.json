@@ -4042,5 +4042,27 @@
   "ggml-org/ggml": {
     "first_seen": "2026-11-16T07:31:16.582731",
     "tags": []
+  },
+  "kajisho5/ffmpeg-skill": {
+    "first_seen": "2026-11-17T08:43:17.546299",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding"
+    ]
+  },
+  "google-research/paper-orchestra": {
+    "first_seen": "2026-11-17T08:43:17.546310",
+    "tags": [
+      "AI Agent",
+      "AI for Science"
+    ]
+  },
+  "DeanChensj/jiangshan-map": {
+    "first_seen": "2026-11-17T08:43:17.546311",
+    "tags": []
+  },
+  "getarcaneapp/arcane": {
+    "first_seen": "2026-11-17T08:43:17.546312",
+    "tags": []
   }
 }
