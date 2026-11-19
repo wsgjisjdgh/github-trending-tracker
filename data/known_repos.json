@@ -4064,5 +4064,29 @@
   "getarcaneapp/arcane": {
     "first_seen": "2026-11-17T08:43:17.546312",
     "tags": []
+  },
+  "jquery/jquery": {
+    "first_seen": "2026-11-19T08:16:09.293422",
+    "tags": []
+  },
+  "astral-sh/uv": {
+    "first_seen": "2026-11-19T08:16:09.293432",
+    "tags": []
+  },
+  "appwrite/appwrite": {
+    "first_seen": "2026-11-19T08:16:09.293434",
+    "tags": [
+      "AI Agent"
+    ]
+  },
+  "solidjs/solid": {
+    "first_seen": "2026-11-19T08:16:09.293436",
+    "tags": []
+  },
+  "openvinotoolkit/openvino": {
+    "first_seen": "2026-11-19T08:16:09.293437",
+    "tags": [
+      "AI部署"
+    ]
   }
 }
