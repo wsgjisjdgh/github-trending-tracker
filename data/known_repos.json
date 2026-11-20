@@ -4088,5 +4088,27 @@
     "tags": [
       "AI部署"
     ]
+  },
+  "mjmirza/app-store-compliance": {
+    "first_seen": "2026-11-20T07:57:04.895892",
+    "tags": [
+      "AI Agent",
+      "Vibe Coding",
+      "AI编程提效"
+    ]
+  },
+  "XiaoYouChR/Ghost-Downloader-3": {
+    "first_seen": "2026-11-20T07:57:04.895904",
+    "tags": []
+  },
+  "toeverything/AFFiNE": {
+    "first_seen": "2026-11-20T07:57:04.895906",
+    "tags": []
+  },
+  "Tracer-Cloud/opensre": {
+    "first_seen": "2026-11-20T07:57:04.895908",
+    "tags": [
+      "AI Agent"
+    ]
   }
 }
