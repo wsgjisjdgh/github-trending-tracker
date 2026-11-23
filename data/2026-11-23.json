@@ -1,0 +1,193 @@
+{
+  "all": [
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
+      "stars_today": 1716,
+      "total_stars": 18498,
+      "forks": 2026,
+      "lang": "Python",
+      "tags": [
+        "AI Infra"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars_today": 915,
+      "total_stars": 207326,
+      "forks": 10838,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Infra",
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "obra/superpowers",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars_today": 788,
+      "total_stars": 324458,
+      "forks": 28790,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；开发框架，提供标准化的项目结构和工具链"
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "desc": "The only downloader you need. 下载器的集大成者。",
+      "stars_today": 701,
+      "total_stars": 15683,
+      "forks": 952,
+      "lang": "Python",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars_today": 699,
+      "total_stars": 63064,
+      "forks": 5735,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars_today": 668,
+      "total_stars": 73004,
+      "forks": 6452,
+      "lang": "Python",
+      "tags": [
+        "AI Agent",
+        "投资交易",
+        "AI for Science"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI研究工具，辅助学术文献检索和知识发现"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping &amp; content repurposing.",
+      "stars_today": 641,
+      "total_stars": 13879,
+      "forks": 2178,
+      "lang": "Python",
+      "tags": [],
+      "cn": "命令行工具，提升终端工作效率"
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlin",
+      "stars_today": 621,
+      "total_stars": 4290,
+      "forks": 275,
+      "lang": "Shell",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding",
+        "AI编程提效"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "toeverything/AFFiNE",
+      "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
+      "stars_today": 542,
+      "total_stars": 77020,
+      "forks": 5646,
+      "lang": "TypeScript",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars_today": 518,
+      "total_stars": 70546,
+      "forks": 4735,
+      "lang": "HTML",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
+      "stars_today": 494,
+      "total_stars": 12056,
+      "forks": 1495,
+      "lang": "TypeScript",
+      "tags": [
+        "AI Agent",
+        "Vibe Coding"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行；AI编程助手，支持代码生成、补全和智能重构"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars_today": 473,
+      "total_stars": 69058,
+      "forks": 9023,
+      "lang": "Python",
+      "tags": [],
+      "cn": "大语言模型相关工具或资源"
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "desc": "The open-source agent for CI/CD reliability.",
+      "stars_today": 399,
+      "total_stars": 14555,
+      "forks": 1979,
+      "lang": "Python",
+      "tags": [
+        "AI Agent"
+      ],
+      "cn": "AI Agent 框架/工具，支持自主任务规划和执行"
+    },
+    {
+      "name": "cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "stars_today": 294,
+      "total_stars": 18590,
+      "forks": 2024,
+      "lang": "TypeScript",
+      "tags": [
+        "Vibe Coding"
+      ],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "stars_today": 163,
+      "total_stars": 32940,
+      "forks": 8393,
+      "lang": "C",
+      "tags": [],
+      "cn": "GitHub 热门项目，详见英文简介"
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars_today": 158,
+      "total_stars": 12165,
+      "forks": 3669,
+      "lang": "C++",
+      "tags": [
+        "AI部署"
+      ],
+      "cn": "模型部署工具，简化AI模型的生产环境上线流程；高性能推理引擎，优化模型推理速度和资源占用"
+    }
+  ],
+  "new": []
+}
